@@ -1,33 +1,31 @@
-# DPJB
+# Index
 
 Welcome.
 
 
-# FNAQs
+## FNAQs
 
 
-# FAQs
+## FAQs
 
 
 
 
-# Did you take coaching? 
+## Where to take coaching? 
 
-I did not take any coaching. However I joined a lot of test series both for Prelims and Mains.
+I did not take any coaching. However, I joined a lot of test series both for Prelims and Mains.
 
-## Prelims
+### Prelims
 
-|Test Series| |
-| Forum Test Series | | 
-| Forum Test Series | | 
+- Forum IAS Full length tests
+- Vision IAS Abhyas only
 
-## Mains
+### Mains
 
-| Interview | | 
-| --- | --- | 
-| Forum Mains | | 
+- Forum IAS (GS + Essay)
+- Vision IAS (Essay only)
 
-## Interview
+### Interview
 
 
 | Mock | |

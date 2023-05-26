@@ -2,6 +2,9 @@ site_name: don't panic just breathe
 
 theme:
     name: 'material'
+    features:
+      - navigation.tracking
+      - navigation.path
     palette:
 
     # Light mode
