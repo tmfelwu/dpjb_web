@@ -1,15 +1,19 @@
-Before the mains I spent most (I would say almost 90%) of my time on maths, since I felt I had a good idea on how to write mains answer. While solving maths questions my aim was always to arrive at the answer without any silly mistakes. Silly mistakes cost dearly.
+## Strategy
+- Before the mains I spent most (I would say almost 90%) of my time on maths, since I felt I had a good idea on how to write GS answers.
+- While solving maths questions my aim was always to arrive at the answer without any silly mistakes. Silly mistakes cost dearly.
+
+
+## Resources for Mathematics
+The idea was to pickup sources which were easier to read and understand. 
 
 ## Linear Algebra
-
 - Krishna Series
 - For only one particular type of question i referred to Schaum Series.
 
 ## Calculus
-- BS Grewal 
+- BS Garewal
 
 ## 3D
-
 - Krishna Series
 - IMS Notes  (Generating Lines, Paraboloids)
 
@@ -20,22 +24,17 @@ Before the mains I spent most (I would say almost 90%) of my time on maths, sinc
 - Krishna Series Dynamics
 - Krishna Series Statics
 
-
 ## Vector Calculus
 - Krishna Series
 
-
 ## Modern Algebra
-- Krishna Series
+- Krishna Series majorly.
 
 ## Real Analysis
-
 - Malik and Arora + ChatGPT 4 to understand some questions :) 
-
 
 ## Complex Analysis
 - Krishna Series
-
 
 ## LPP
 - BS Grewal
@@ -47,7 +46,6 @@ Before the mains I spent most (I would say almost 90%) of my time on maths, sinc
 - IMS Notes
 
 ## Mechanics and Fluid Dynmaics
-
 - Raisignhania 
 
 
