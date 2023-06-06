@@ -52,9 +52,7 @@ content, structure, function; its influence and relation with thought and behavi
 - (2015) Two different kinds of attitudes exhibited by public servants towards their work have been identified as bureaucratic attitude and the democratic attitude.
     - Distinguish between these two terms and write their merits and demerits.
     - Is it possible to balance the two to create a better administration for the faster development of our country?
-- (2016) Our attitudes towards life, work, other people and society are generally shaped unconsciously by the family and the social surroundings in which we grow up. Some of these unconsciously acquired attitudes and values are often undesirable in the citizens of a modern democratic and egalitarian society. 
-    - Discuss such undesirable values prevalent in Today’s educated Indians 
-    - How can such undesirable attitudes be changed and socioethical values considered necessary in public services be cultivated in the aspiring and serving civil servants?
+- (2016) Our attitudes towards life, work, other people and society are generally shaped unconsciously by the family and the social surroundings in which we grow up. Some of these unconsciously acquired attitudes and values are often undesirable in the citizens of a modern democratic and egalitarian society. Discuss such undesirable values prevalent in Today’s educated Indians. How can such undesirable attitudes be changed and socio-ethical values considered necessary in public services be cultivated in the aspiring and serving civil servants?
 
 
 
