@@ -1,5 +1,5 @@
 
-# Art and Culture
+## Art and Culture
 Art  &  Culture  : Indian  culture  will  cover  the  salient  aspects  of  Art  Forms,  literature  and Architecture from ancient to modern times.
 
 - (2022) Discuss the significance of the lion and bull figures in Indian mythology, art and architecture. (15 Marks | 250 Words | Lion and Bull Figures, Indian Mythology, Art, Architecture)
@@ -29,7 +29,7 @@ Art  &  Culture  : Indian  culture  will  cover  the  salient  aspects  of  Art 
 - (2013) Discuss the Tandava dance as recorded in the early Indian inscriptions. (5 Marks | 100 Words | Tandava Dance, Indian Inscriptions)
 - (2013) Chola architecture represents a high watermark in the evolution of temple architecture. Discuss. (5 Marks | 100 Words | Chola Architecture, Temple Architecture)
 
-# Modern History
+## Modern History
 Modern History : Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues. The Freedom Struggle — its various stages and important contributors/contributions from different parts of the country.
 
 - (2022) Why was there a sudden spurt in famines in colonial India since the mid-eighteenth century? Give reasons. (10 Marks | 150 Words | Famines, Colonial India, Mid-Eighteenth Century)
@@ -61,7 +61,7 @@ Modern History : Modern Indian history from about the middle of the eighteenth c
 - (2013) In many ways, Lord Dalhousie was the founder of modern India. Elaborate. (10 Marks | 200 Words | Lord Dalhousie, Modern India)
 
 
-# Post-Independence
+## Post-Independence
 
  Post-Independence : Post-independence consolidation and reorganization within the country.
 
@@ -77,7 +77,7 @@ Modern History : Modern Indian history from about the middle of the eighteenth c
 - (2013) Analyse the circumstances that led to Tashkent Agreement in 1966. Discuss the highlights of the agreement. (10 Marks | 200 Words | Tashkent Agreement, International Relations)
 - (2013) Critically examine the compulsions which prompted India to play a decisive roles in the emergence of Bangladesh. (10 Marks | 200 Words | India-Bangladesh Relations, Indian Foreign Policy)
 
-# World History
+## World History
 
 World History : History of the world will include events from 18th century such as industrial revolution, world wars, redrawal of national boundaries, colonization, decolonization, political philosophies like communism, capitalism, socialism etc.— their forms and effect on the society.
 
@@ -96,7 +96,7 @@ World History : History of the world will include events from 18th century such 
 - (2013) What policy instruments were deployed to contain the great economic depression? (10 Marks | 200 Words | Economic Depression, Policy Instruments)
 
 
-# Society
+## Society
 
 Indian Society : Salient features of Indian Society, Diversity of India. Role of women and women’s organization, population and associated issues, poverty and developmental issues, urbanization, their problems and their remedies. Effects of globalization on Indian society. Social empowerment, communalism, regionalism & secularism.
 
@@ -155,7 +155,7 @@ Indian Society : Salient features of Indian Society, Diversity of India. Role of
 - (2013) Growing feeling of regionalism is an important factor in the generation of demand for a separate state. Discuss. (10 Marks | 200 Words | Regionalism, State Demand)
 
 
-# Physical Geography
+## Physical Geography
 Physical Geography : Salient features of world’s physical geography.
 
 
@@ -187,7 +187,7 @@ Physical Geography : Salient features of world’s physical geography.
 - (2013) There is no formation of deltas by rivers of the Western Ghat. Why? (5 Marks | 100 Words | Deltas, Rivers, Western Ghats)
 
 
-# Human and Economic Geography
+## Human and Economic Geography
 Human and Economic Geography : Distribution of key natural resources across the world (including South Asia and the Indian sub-continent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India).
 
 
@@ -231,7 +231,7 @@ Human and Economic Geography : Distribution of key natural resources across the 
 - (2013) With growing scarcity of fossil fuels, the atomic energy is gaining more and more significance in India. Discuss the availability of raw material required for the generation of atomic energy in India and in the world. (10 Marks | 200 Words | Atomic Energy, Fossil Fuels, Raw Materials, India)
 - (2013) It is said the India has substantial reserves of shale oil and gas, which can feed the needs of country for quarter century. However, tapping of the resources doesn’t appear to be high on the agenda. Discuss critically the availability and issues involved. (10 Marks | 200 Words | Shale Oil and Gas, Energy Reserves, India)
 
-# Geophysical Phenomenon
+## Geophysical Phenomenon
 
 Geophysical Phenomena : Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location-changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes.
 
