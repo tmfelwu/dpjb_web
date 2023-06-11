@@ -1,5 +1,7 @@
 ## Basics and Groups
 
+
+
 ### 
 
 Let $m_{1}, m_{2}, \cdots, m_{k}$ be positive integers and $d>0$ the greatest common divisor of $m_{1}, m_{2}, \cdots, m_{k}$. Show that there exist integers $x_{1}, x_{2}, \cdots, x_{k}$ such that

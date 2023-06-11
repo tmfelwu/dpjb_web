@@ -2,9 +2,11 @@ site_name: don't panic just breathe
 
 theme:
     name: 'material'
+    custom_dir: 'overrides'
     features:
       - navigation.tracking
       - navigation.path
+      - navigation.tabs
     palette:
 
     # Light mode
@@ -53,8 +55,35 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - mkdocs-video
 
+nav:
+  - Home:
+    - About Me: index.md
+    # - Contact: index.md
+    # - Issues or Suggestions: index.md
+    - Prelims Android Application: resources/preims_android_application.md
+  - UPSC Strategy:
+    - Maths:
+      - Maths Strategy: strategy/maths.md
+  - UPSC Resources:
+    - Prelims Android Application: resources/preims_android_application.md
+    - Ethics and Essay:
+      - Ethics Syllabus: resources/ethics_essay/ethics_syllabus.md
+      - Ethics Topicwise PYQs: resources/ethics_essay/ethics_topicwise_pyq.md
+    - General Studies 1 to 3:
+      - GS1 Topicwise PYQs: resources/gs1_3/gs1_topicwise_pyqs.md
+    - Maths PYQs Topicwise:
+      - Modern: resources/maths_pyqs/topicwise/modern.md
+    - Maths Notes:
+      - Modern: resources/maths_notes/modern.md
+
+
+extra:
+  analytics:
+    provider: google
+    property: G-8M1K3T1C6B
 
 extra_javascript:
   - javascripts/mathjax.js

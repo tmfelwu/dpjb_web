@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block styles %}
+{{ super() }}
+{% if page is defined and page.meta is defined and page.meta.collapsible %}
+<style>
+ul, li {
+    list-style: none;
+}
+.collapsible span::before {
+    content: '●';
+    color: blue;
+    display: inline-block;
+    width: 15px;
+    text-align: center;
+}
+/* .collapsible:hover span::before {
+    content: '-';
+}
+.collapsible.active:hover span::before {
+    content: '+';
+} */
+.collapsible.active span::before {
+    content: '-';
+}
+
+.noChildren span::before {
+    content: '●';
+    color: blue;
+    display: inline-block;
+    width: 15px;
+    text-align: center;
+}
+.content {
+    display: none;
+}
+</style>
+{% endif %}
+{% endblock styles %}
+
+{% block scripts %}
+{{ super() }}
+{% if page is defined and page.meta is defined and page.meta.collapsible %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+
+    $(".md-content__inner ul li").prepend('<span class="before-span"></span>');
+    $(".md-content__inner ul li ul").parent().addClass("collapsible");
+    $(".md-content__inner ul li:not(:has(ul))").addClass("noChildren");
+
+    $(".collapsible .before-span").click(function(event) {
+        event.stopPropagation();
+        $(this).parent().toggleClass("active").children("ul").slideToggle('fast');
+    });
+});
+</script>
+{% endif %}
+{% endblock scripts %}
