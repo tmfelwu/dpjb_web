@@ -6,33 +6,42 @@
 <style>
 ul, li {
     list-style: none;
+    padding-left: 20px;
 }
-.collapsible span::before {
-    content: '●';
+.collapsible > span::before {
+    content: '⊖';  /* This is a 'minus in circle' unicode character */
     color: blue;
     display: inline-block;
     width: 15px;
     text-align: center;
 }
-/* .collapsible:hover span::before {
-    content: '-';
+.collapsible.active > span::before {
+    content: '⊕';  /* This is a 'plus in circle' unicode character */
 }
-.collapsible.active:hover span::before {
-    content: '+';
-} */
-.collapsible.active span::before {
-    content: '-';
+.noChildren .before-span::before {
+        content: '●';  /* This is a 'bullet' unicode character */
+        color: blue;
+        display: inline-block;
+        width: 15px;
+        text-align: center;
 }
-
-.noChildren span::before {
-    content: '●';
-    color: blue;
-    display: inline-block;
-    width: 15px;
-    text-align: center;
-}
-.content {
+.collapsible > ul {
     display: none;
+}
+.button {
+    background-color: #008CBA;  /* Blue background */
+    border: none;  /* Remove borders */
+    color: white;  /* White text */
+    padding: 10px 24px;  /* Some padding */
+    text-align: center;  /* Centered text */
+    text-decoration: none;  /* Remove underline */
+    display: inline-block;  /* Make the buttons inline */
+    font-size: 16px;  /* Increase font size */
+    margin: 4px 2px;  /* Some margin */
+    cursor: pointer;  /* Mouse pointer on hover */
+}
+.button:hover {
+    background-color: #007BBD; /* Darker blue on hover */
 }
 </style>
 {% endif %}
@@ -45,7 +54,19 @@ ul, li {
 <script>
 $(document).ready(function() {
 
-    $(".md-content__inner ul li").prepend('<span class="before-span"></span>');
+    $(".md-content__inner ul li:not(:has(ul)) > .before-span").each(function() {
+        $(this).parent().addClass("noChildren");
+        $(this).css({
+            'content': '"●"',  // This is a 'bullet' unicode character 
+            'color': 'blue',
+            'display': 'inline-block',
+            'width': '15px',
+            'text-align': 'center'
+        });
+    });
+
+    // Add dots before each li that is not a part of MathJax/Katex generated markup
+    $(".md-content__inner ul li").not($(".arithmatex li, .mjx-container li")).prepend('<span class="before-span"></span>');
     $(".md-content__inner ul li ul").parent().addClass("collapsible");
     $(".md-content__inner ul li:not(:has(ul))").addClass("noChildren");
 
@@ -53,6 +74,42 @@ $(document).ready(function() {
         event.stopPropagation();
         $(this).parent().toggleClass("active").children("ul").slideToggle('fast');
     });
+
+    // Add buttons before each top-level list in the content
+    $(".md-content__inner > div > ul").before(`
+        <button class="button collapseAll">Collapse All</button>
+        <button class="button uncollapseAll">Uncollapse All</button>
+        <button class="button collapseLevel2">Collapse Level 2</button>
+    `);
+
+    $(".collapseAll").click(function() {
+        var allCollapsibles = $(this).parent().find("ul .collapsible");
+        allCollapsibles.each(function() {
+            if ($(this).hasClass('active')) {
+                $(this).removeClass("active").children("ul").slideUp('fast');
+            }
+        });
+    });
+    $(".uncollapseAll").click(function() {
+        var allCollapsibles = $(this).parent().find("ul .collapsible");
+        allCollapsibles.each(function() {
+            if (!$(this).hasClass('active')) {
+                $(this).addClass("active").children("ul").slideDown('fast');
+            }
+        });
+    });
+    $(".collapseLevel2").click(function() {
+        var level2Collapsibles = $(this).parent().find("ul .collapsible .collapsible");
+        level2Collapsibles.each(function() {
+            if ($(this).hasClass('active')) {
+                $(this).removeClass("active").children("ul").slideUp('fast');
+            }
+        });
+    });
+
+
+
+
 });
 </script>
 {% endif %}
