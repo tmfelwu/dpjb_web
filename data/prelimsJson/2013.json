@@ -1,0 +1,3202 @@
+[
+    {
+        "question": "Under the Scheduled Tribes and other Traditional Forest Dwellers (Recognition Forest Rights) Act, 2006, who shall be the authority to initiate the process for determining the nature and extent of individual or community forest rights or both?",
+        "options": [
+            {
+                "id": "aa29b7e8-0952-4b0f-92f7-1ebcd92f7675",
+                "value": "State Forest Department",
+                "correct": false
+            },
+            {
+                "id": "1deb86db-a96c-42d7-b124-ac16912ee01d",
+                "value": "District Collector / Deputy Commissioner",
+                "correct": false
+            },
+            {
+                "id": "6780dc3c-599a-43df-91bd-28b02150d3e1",
+                "value": "Tahsildar / Block Development Officer / Mandal Revenue Officer",
+                "correct": false
+            },
+            {
+                "id": "f4a1664a-262e-43d9-a6ee-d1fb931fbea0",
+                "value": "Gram Sabha",
+                "correct": true
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "eef1848c-3446-4541-b55f-4ff85ab8ea3b",
+        "explanation": ""
+    },
+    {
+        "question": "Improper handling and storage of cereal grains and oilseeds result in the production of toxins known as aflatoxins which are not generally destroyed by normal cooking process. Aflatoxins are produced by",
+        "options": [
+            {
+                "id": "5a8643c0-5ce3-4164-8f7e-ad4e573a1280",
+                "value": "Bacteria",
+                "correct": false
+            },
+            {
+                "id": "062a6505-e77d-4736-8a53-de83f0ccab99",
+                "value": "Protozoa",
+                "correct": false
+            },
+            {
+                "id": "c57db6a1-d750-401d-af21-96fb596b6071",
+                "value": "Moulds",
+                "correct": true
+            },
+            {
+                "id": "8c313b98-ffda-45ca-a38c-e57eb3a53df7",
+                "value": "Viruses",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "06b53e2f-ae97-4480-8e21-45854f03e701",
+        "explanation": ""
+    },
+    {
+        "question": "\u2018Economic Justice\u2019 as one of the objectives of the Indian Constitution has been provided in",
+        "options": [
+            {
+                "id": "1a1a7ea7-6863-42e8-87eb-64e03cf78efc",
+                "value": "The Preamble and the Fundamental Rights",
+                "correct": false
+            },
+            {
+                "id": "656a0520-4258-4160-a3b5-8fd229c84505",
+                "value": "The Preamble and the Directive Principles of State Policy",
+                "correct": true
+            },
+            {
+                "id": "bd56ccdc-01d2-490e-afe7-55d32f1af235",
+                "value": "The Fundamental Rights and the Directive Principles of State Policy",
+                "correct": false
+            },
+            {
+                "id": "93ee7632-7633-46f8-85ec-e92f221c3073",
+                "value": "None of the above",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "b8c4ea68-bf69-4c6c-8938-8928766aab31",
+        "explanation": ""
+    },
+    {
+        "question": "Due to improper/indiscriminate disposal of old and used computers of their parts, which of the following are released into the environment as e-waste?\n\n1. Beryllium\n\n2. Cadmium\n\n3. Chromium\n\n4. Heptachlor\n\n5. Mercury\n\n6. Lead\n\n7. Plutonium\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "409087b2-1ec5-4a08-ba5f-0fe28127e33b",
+                "value": "1, 3, 4, 6 and 7 only",
+                "correct": false
+            },
+            {
+                "id": "16b9ee15-256f-4504-a1aa-30df8f95d1d5",
+                "value": "1, 2, 3, 5 and 6 only",
+                "correct": true
+            },
+            {
+                "id": "5275c81f-f3c1-4bfc-a481-99df5d91252c",
+                "value": "2, 4, 5 and 7 only",
+                "correct": false
+            },
+            {
+                "id": "8b750bbc-b2d9-4ac5-b20e-0df3d6bdfbd1",
+                "value": "1, 2, 3, 4, 5, 6 and 7",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "fb9fd0f5-e851-4278-ac21-498bc3bc5c63",
+        "explanation": ""
+    },
+    {
+        "question": "Acid rain is caused by the pollution of environment by",
+        "options": [
+            {
+                "id": "c4eb72c7-c535-4b83-aec8-e3ec53e93c62",
+                "value": "Carbon dioxide and nitrogen",
+                "correct": false
+            },
+            {
+                "id": "2626024c-2b61-46c5-998c-ec753efe34f6",
+                "value": "Carbon monoxide and carbon dioxide",
+                "correct": false
+            },
+            {
+                "id": "fa56370c-6f6d-458b-aa37-1413e9f8c60f",
+                "value": "Ozone and carbon dioxide",
+                "correct": false
+            },
+            {
+                "id": "137a837b-d3f1-46b3-aed7-0ddad8f03f41",
+                "value": "Nitrous oxide and sulphur dioxide",
+                "correct": true
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "ada30cdb-ca89-4b9d-bf9b-cc2cbfad8da3",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to food chains in ecosystems, consider the following statements:\n\n1. A food chain illustrates the order in which a chain of organism feed upon each other.\n\n2. Food chains are found within the populations of a species.\n\n3. A food chain illustrates the numbers of each organism which are eaten by others.\n\nWhich of the statement given above is/are correct?",
+        "options": [
+            {
+                "id": "cf20d16b-145d-4185-b1d4-2e6446573b8c",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "2e3ba267-7519-486c-9e5d-578e93686b03",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "99a20c06-dadf-4bae-ae7f-ea108e567e5e",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "9f7ccd82-ab7a-4bd2-88d8-2d6d984cec00",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "f0343c8d-ef19-455e-a645-403e0ff0154c",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs. \nNational Park : River flowing through the Park\n\n1. Corbett National Park : Ganga\n\n2. Kazinranga National Park : Manas\n\n3. Silent Valley National Park : Kaveri\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "bcac4054-773a-426d-b387-d9f14d306978",
+                "value": "1 and 2",
+                "correct": false
+            },
+            {
+                "id": "078ff655-598d-4c68-9f65-c6b52c55be38",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "acca64bf-5fb5-41ab-b53a-7c995c7ae427",
+                "value": "1 and 3",
+                "correct": false
+            },
+            {
+                "id": "5fe47d07-d4fa-4a67-ba0e-b79295c8ec37",
+                "value": "None",
+                "correct": true
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "336dd5a5-40d1-4263-a68b-d6fa3a3f5d5f",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following organisms:\n\n1. Agaricus\n\n2. Nostoc\n\n3. Spirogyra\n\nWhich of the above is/are used as biofertilizer / biofertilizers?",
+        "options": [
+            {
+                "id": "70616769-72a7-4f70-bd68-647de994e8a5",
+                "value": "1 and 2",
+                "correct": false
+            },
+            {
+                "id": "3de5758f-efa1-4227-9d46-364dfe8500f4",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "63e63d15-54c5-4d1e-8ad6-d30cb8989979",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "32c8c7bb-6889-4df1-8743-4d1f8ca1d077",
+                "value": "3 only",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "9235bb37-6ca1-4dd4-912c-9731f7518c97",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following adds/add nitrogen to the soil? \n\n1. Excretion of urea by animals\n\n2. Burning of coal by man\n\n3. Death of vegetation\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "2a00f9b8-83a9-4db3-81b6-b268477f6fbc",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "21036175-fda5-4bd0-984e-7daacbec12ee",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "f38d8085-0cf5-4af5-9675-48d763558146",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "b450aa74-776d-4518-8e33-9ba4bdeb3e38",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "1929d13f-ec5e-4859-bf89-1f2d7c514670",
+        "explanation": ""
+    },
+    {
+        "question": "In which of the following states is lion-tailed macaque found in its natural habitats?\n\n1. Tamil Nadu\n\n2. Kerala\n\n3. Karnataka\n\n4. Andhra Pradesh\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "5a4f5703-33f7-46a6-b1fe-9541ccd667b3",
+                "value": "1, 2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "3578139d-4dd6-4683-a0ba-aad0ee56a20b",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "dd37d689-34e5-4230-b042-892d3a0eee96",
+                "value": "1, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "16cd518e-3f95-4b06-a8f4-4e59e5d23a52",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "0fa257e8-91b2-448b-bd89-21ebc521c1ef",
+        "explanation": ""
+    },
+    {
+        "question": "Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two?",
+        "options": [
+            {
+                "id": "a7a92c92-d638-4983-a082-4addbe830e4d",
+                "value": "Vihara is a place of worship, while Chaitya is the dwelling place of the monks",
+                "correct": false
+            },
+            {
+                "id": "ed1c947e-275e-42b0-becf-8b5b6fa90789",
+                "value": "Chaitya is a place of worship, while Vihara is the dwelling place of the monks",
+                "correct": true
+            },
+            {
+                "id": "a72b79a2-0c0a-4f0c-a4d1-d79a2a3d7bae",
+                "value": "Chaitya is a stupa at the far end of the cave, while Vihara is the hall axial to it",
+                "correct": false
+            },
+            {
+                "id": "386ff2a1-c9b3-42b2-98d3-8f685e80c213",
+                "value": "There is no material difference between the two",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "95ff38dc-f41b-4935-8d64-f94ca71c32a8",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following describes best the concept of Nirvana in Buddhism?",
+        "options": [
+            {
+                "id": "ee761d1a-7592-4b39-a899-23c89677d414",
+                "value": "The extinction of the flame of desire",
+                "correct": true
+            },
+            {
+                "id": "4d504798-9b71-4ea3-8f9c-62d0e5ec8e79",
+                "value": "The complete annihilation of self",
+                "correct": false
+            },
+            {
+                "id": "e992300e-74c9-4482-a105-a1ae7aa45888",
+                "value": "A state of bliss and rest",
+                "correct": false
+            },
+            {
+                "id": "7d3134ac-bb1a-47e9-b0e1-c0d32e72aba6",
+                "value": "A mental stage beyond all comprehension",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "2161ce44-fffd-475e-bfba-6270c4570c5c",
+        "explanation": ""
+    },
+    {
+        "question": "According to the Constitution of India, which of the following are fundamental for the governance of the country?",
+        "options": [
+            {
+                "id": "ce6b64ba-19db-4c93-a506-5b1c27acd2fb",
+                "value": "Fundamental Rights",
+                "correct": false
+            },
+            {
+                "id": "c7189042-9acd-424c-9af4-9de0eab4a990",
+                "value": "Fundamental Duties",
+                "correct": false
+            },
+            {
+                "id": "0a1e9d96-221b-411b-b980-8b7f95b0542f",
+                "value": "Directive Principles of State Policy",
+                "correct": true
+            },
+            {
+                "id": "154c1b8d-b6cd-4e80-a6a3-d82e6bbe553b",
+                "value": "Fundamental Rights and Fundamental Duties",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "4749cf52-0c1b-4ef5-ba92-0ab4ea3c4ba0",
+        "explanation": ""
+    },
+    {
+        "question": "The people of India agitated against the arrival of Simon Commission because",
+        "options": [
+            {
+                "id": "a8b6bcfe-9bab-4e88-a357-ed395a16016d",
+                "value": "Indians never wanted the review of the working of the Act of 1919",
+                "correct": false
+            },
+            {
+                "id": "3893e5c6-4ba6-4066-b7e0-6786adc2a543",
+                "value": "Simon Commission recommended the abolition of Dyarchy (Diarchy) in the provinces",
+                "correct": false
+            },
+            {
+                "id": "7958ea41-6376-43b1-bc46-4ba28b8459f7",
+                "value": "There was no Indian member in the Simon Commission",
+                "correct": true
+            },
+            {
+                "id": "8325c267-aee4-474b-bb6f-056fd1bff23c",
+                "value": "The Simon Commission suggested the partition of the country",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "0756c54e-5ac1-4ba4-ae72-1aa1ec69d993",
+        "explanation": ""
+    },
+    {
+        "question": "Quit India Movement was launched in response to",
+        "options": [
+            {
+                "id": "37109866-b9c8-483f-a407-fc5faded4cc5",
+                "value": "Cabinet Mission Plan",
+                "correct": false
+            },
+            {
+                "id": "471cb8e2-cda2-466b-b45b-5f9710d7eb4f",
+                "value": "Cripps Proposals",
+                "correct": true
+            },
+            {
+                "id": "f3aac754-a07d-424a-88ea-8e7e491dac4c",
+                "value": "Simon Commission Report",
+                "correct": false
+            },
+            {
+                "id": "e29897b7-76ef-4a5a-8ff9-49eead537dbb",
+                "value": "Wavell Plan",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "f1a14c59-1bbb-480e-8ebd-c11115bb483d",
+        "explanation": ""
+    },
+    {
+        "question": "The balance of payment of a country is a systematic record of",
+        "options": [
+            {
+                "id": "58538b6d-f73c-4de8-a36b-4697a0277b2d",
+                "value": "All import and export transactions of a country during a given period of time, normally a year",
+                "correct": true
+            },
+            {
+                "id": "86138806-9e8f-419f-b51f-d53e45f01bb1",
+                "value": "Goods exported from a country during a year",
+                "correct": false
+            },
+            {
+                "id": "f85b741d-2fc2-405e-a352-3aa0b98a77f0",
+                "value": "Economic transaction between the government of one country to another",
+                "correct": false
+            },
+            {
+                "id": "6438c7cc-437f-43b3-ac70-4a29c2ef03b5",
+                "value": "Capital movements from one country to another",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "5cf8120d-5e4d-47c7-ba09-a63a19c60354",
+        "explanation": ""
+    },
+    {
+        "question": "The Reserve Bank of India regulates the commercial banks in matters of\n\n1. Liquidity of assets\n\n2. Branch expansion\n\n3. Merger of banks\n\n4. Winding-up of banks\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "66947bad-63d6-49b4-ac68-b73e1be21ef6",
+                "value": "1 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "2fdc88d6-3175-48e9-bbe2-877067f273b9",
+                "value": "2, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "a2aed14c-bf62-496d-a658-83cd5d3b1ce1",
+                "value": "1, 2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "94817a8f-5df1-4a2b-a46b-4f4b7be45cfb",
+                "value": "1, 2, 3 and 4",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "1f762583-a8b3-4cfe-b394-d75ce1c51bff",
+        "explanation": ""
+    },
+    {
+        "question": "An increase in the Bank Rate generally indicates that the",
+        "options": [
+            {
+                "id": "66570fd7-3700-481e-966c-1fe4b9676197",
+                "value": "Market rate of interest is likely to fall",
+                "correct": false
+            },
+            {
+                "id": "153c104d-4dc5-4642-89e3-5db83b6bf61c",
+                "value": "Central Bank is no longer making loans to commercial banks",
+                "correct": false
+            },
+            {
+                "id": "4a356303-235d-43e3-a98c-d2b261564220",
+                "value": "Central Bank is following an easy money policy",
+                "correct": false
+            },
+            {
+                "id": "2882bd9c-8797-4095-8bfb-6b5fadc01f4d",
+                "value": "Central Bank is following a tight money policy",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "5978fb4c-c5d3-484f-98b9-5e139181d6a9",
+        "explanation": ""
+    },
+    {
+        "question": "In India, deficit financing is used for raising resources for",
+        "options": [
+            {
+                "id": "f5d1b030-a14a-4f9c-9423-6c99a6b6539d",
+                "value": "Economic development",
+                "correct": true
+            },
+            {
+                "id": "ab6aecad-f776-4402-ac97-a414a6aa3944",
+                "value": "redemption of public debt",
+                "correct": false
+            },
+            {
+                "id": "0e65d424-ea92-423b-81e8-01481d57e5c5",
+                "value": "Adjusting the balance of payments",
+                "correct": false
+            },
+            {
+                "id": "8b8e54a8-b1aa-41a5-9664-2dda4d4ac92e",
+                "value": "Reducing the foreign debt",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "9a1c3d96-b9da-4c09-a7f3-9a47e4d1e95f",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following characterizes/ characterize the people of Indus Civilization?\n\n1. They possessed great palaces and temples.\n\n2. They worshipped both male and female deities.\n\n3. They employed horse-drawn chariots in warfare.\n\nSelect the correct statement/statements using the codes given below.",
+        "options": [
+            {
+                "id": "a540aa23-a2b8-4db4-8909-a36239fe79bb",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "1d7a7669-a2be-4761-a7e3-812b55187615",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "a507f209-4f97-4908-a91a-ddb9c245ac3a",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "dfa00ead-688c-427e-b936-869e7976578d",
+                "value": "None of the statements given above is correct",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_ancient"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "62ff9ce1-a957-41d0-82c3-362218e498ba",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following diseases can be transmitted from one person to another through tattooing?\n\n1. Chikungunya\n\n2. Hepatitis B\n\n3. HIV-AIDS\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "cb089488-658f-4c9b-be81-328542ef3b12",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "68be3050-9599-4758-ab4a-2f67487adc74",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "87e1c924-8a10-4430-9f71-531f2bcbdfb8",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "19c0b1d8-87c3-47f0-93a6-7b547d5d928f",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "faa1efb4-bb9d-4528-836b-58521743f541",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following statements is/are applicable to Jain doctrine?\n\n1. The surest way of annihilating Karma is to practice penance.\n\n2. Every object, even the smallest particle has a soul.\n\n3. Karma is the bane of the soul and must be ended.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "403ce113-dd0e-42f3-9f70-1cfa23e9798e",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "ebb24d78-d06d-4dc2-be32-f97d169193cd",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "f04190f9-a201-44e6-b5e8-ae654dfa976a",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "7ea80a5e-33c5-43c5-905a-bc64b6d595e4",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "306ba9b9-61cb-4da0-8f72-1ceb5300d26a",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following terms describes not only the physical space occupied by an organism, but also its functional role in the community of organism?",
+        "options": [
+            {
+                "id": "81eccabe-0980-4159-bf03-68c0a2f7e08f",
+                "value": "Ecotone",
+                "correct": false
+            },
+            {
+                "id": "2626edb9-4d9a-4afd-a94c-0404709c4d2a",
+                "value": "Ecological niche",
+                "correct": true
+            },
+            {
+                "id": "514f48ef-3c59-4c59-950c-9146bed08197",
+                "value": "Habitat",
+                "correct": false
+            },
+            {
+                "id": "1b473e4f-f3b6-40a0-b03e-096d3bfdeab9",
+                "value": "Home range",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "193057bb-21f3-4849-b905-ee3ce7c38109",
+        "explanation": ""
+    },
+    {
+        "question": "Photochemical smog is a resultant of the reaction among",
+        "options": [
+            {
+                "id": "cde86f92-855d-4dbd-8079-2b47a623a3b1",
+                "value": "NO2, O3 and peroxyacetyl nitrate in the presence of sunlight",
+                "correct": true
+            },
+            {
+                "id": "79ea6536-5f1e-40af-b9f4-93633cb92a19",
+                "value": "CO, O2 and peroxyacetyl nitrate in the presence of sunlight",
+                "correct": false
+            },
+            {
+                "id": "c2614efa-5399-49fe-b6a3-3330c91af3ba",
+                "value": "CO, CO2 and NO2 at low temperature",
+                "correct": false
+            },
+            {
+                "id": "c479a68e-0f85-4db3-b454-b2d2f8e08f64",
+                "value": "High concentration of NO2, O3 and CO in the evening",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "fa79391e-95db-4352-bb8f-21b93f1c710a",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following minerals:\n\n1. Calcium\n\n2. Iron\n\n3. Sodium\n\nWhich of the minerals given above is/are required by human body for the contraction of muscles?",
+        "options": [
+            {
+                "id": "c74922db-167a-4209-851a-6fbdd4d9eb7e",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "2338615b-cc45-4662-a48f-49d0da674cdd",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "a19a023e-3127-4391-a6d3-5678593bfeed",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "cdc116f9-c411-4dc5-84f5-2d220a02437e",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "793ecea3-7413-4f4e-86e9-deb41af4c89a",
+        "explanation": ""
+    },
+    {
+        "question": "What will follow if a Money Bill is substantially amended by the Rajya Sabha?",
+        "options": [
+            {
+                "id": "06391f04-a9ea-49c6-86e7-bd1bb53fdd57",
+                "value": "The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha",
+                "correct": true
+            },
+            {
+                "id": "75476481-2873-4e63-a91e-d4f04f10e68f",
+                "value": "The Lok Sabha cannot consider the Bill further",
+                "correct": false
+            },
+            {
+                "id": "3130e6b9-dc2a-49b8-8a18-7ed748d4aa89",
+                "value": "The Lok Sabha may send the Bill to the Rajya Sabha for reconsideration",
+                "correct": false
+            },
+            {
+                "id": "2b88eb86-7923-406a-9101-4d0e7214dc16",
+                "value": "The President may call a joint sitting for passing the Bill",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "31f616bb-3733-4e67-b32b-0b496a187fc8",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following statements is correct?",
+        "options": [
+            {
+                "id": "bf29d316-d3f8-47fc-9ea4-672cade8f40e",
+                "value": "In India, the same person cannot be appointed as Governor for two or more States at the same time.",
+                "correct": false
+            },
+            {
+                "id": "1e09aaa2-3158-40fb-9f0c-12f661d10275",
+                "value": "The Judges of the High Court of the states in India are appointed by the Governor of the State just as the Judges of the Supreme Court are appointed by the President",
+                "correct": false
+            },
+            {
+                "id": "62d301e3-6150-4caf-8d7d-82e3b6f6122b",
+                "value": "No procedure has been laid down in the Constitution of India for the removal of a Governor from his/her post",
+                "correct": true
+            },
+            {
+                "id": "7ff07a1a-2a39-4038-ab5a-df35b081a913",
+                "value": "In the case of a Union Territory having a legislative setup, the Chief Minister is appointed by the Lt. Governor on the basis of majority support",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "d4e7400e-d399-402a-a103-a51a3826bc14",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following pairs is correctly matched?\n\nGeographical Feature :: Region",
+        "options": [
+            {
+                "id": "1253f5a5-d6b4-44d1-9ef5-08ff24785a3c",
+                "value": "Abyssinian Plateau : Arabia",
+                "correct": false
+            },
+            {
+                "id": "d3704f8e-46b9-4d6e-ac6b-866fc02daacc",
+                "value": "Atlas Mountains : North-Western Africa",
+                "correct": true
+            },
+            {
+                "id": "2361edb4-d2a4-484a-aca7-2a09648201a3",
+                "value": "Guiana Highlands : South-Western Africa",
+                "correct": false
+            },
+            {
+                "id": "b5157ea9-de00-4f04-b0b3-4b95a8aa0a7b",
+                "value": "Okavango Basin : Patagonia",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "4d1b34ec-a940-46c8-8c3a-253fff115342",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the history of Indian rock-out architecture, consider the following statements:\n\n1. The caves at Badami are the oldest surviving rock-cut caves in India.\n\n2. The Barabar rock-out caves were originally made for Ajivikas by Emperor Chandragupta Maurya.\n\n3. At Ellora, caves were made for different faiths.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "9eca779f-461e-4e64-8660-c602bc4bea06",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "0588347a-3744-4635-8cbc-0d7ecf814ac6",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "00c1dbe5-c33f-46c8-a04a-ca14595b127f",
+                "value": "3 only",
+                "correct": true
+            },
+            {
+                "id": "fdff12fc-f669-496c-9dbf-aa07edcb205b",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "a6799b89-c0df-49dc-8164-8d05891e0bd1",
+        "explanation": ""
+    },
+    {
+        "question": "Recombinant DNA technology (Genetic Engineering) allows genes to be transferred.\n\n1. Across different species of plants\n\n2. From animals to plants\n\n3. From microorganisms to higher organisms\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "8a5a651b-dc6d-4ded-9526-cb83b688ff76",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "e78e93cf-0b1e-40ce-89f0-a40ccef2d86b",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "96eba16e-6fdf-4577-92c8-3f2efed8c066",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "e5390307-15b1-4edd-9bcb-0b9a3c308060",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "3b7fe241-ce31-4ae2-9785-de5ef08c1c39",
+        "explanation": ""
+    },
+    {
+        "question": "The Chinese traveler Yuan Chwang (Hiuen Tsang) who visited India recorded the general conditions and culture of India at that time. In this context, which of the following statements is/are correct?\n\n1. The roads and river-routes were completely immune from robbery.\n\n2. As regards punishment for offences, ordeals by fire, water and poison were the instruments for determining the innocence or guilt of a person.\n\n3. The tradesman had to pay duties at ferries and barrier stations.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "864b4080-d175-4ca6-919a-fae9ac1af2c9",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "5bd26c57-2f6f-40d3-ab53-c42c7ec1ba77",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "0b142c42-320d-4448-a06e-729910178085",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "a6b18d60-5cf6-4d6d-9085-6ac12134a46f",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "ebc0e475-cada-4c2a-b319-1c64d36ebd5f",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following:\n\n1. Star tortoise\n\n2. Monitor lizard\n\n3. Pygmy hog\n\n4. Spider monkey\n\nWhich of the above are naturally found in India?",
+        "options": [
+            {
+                "id": "6a6b95be-ccf6-4489-a031-c0cb46ae67d2",
+                "value": "1, 2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "11057d76-afee-403a-9a4f-579f88880622",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "3f02ba16-4139-4ed7-9ece-2cee51604a39",
+                "value": "1 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "4b15a6fc-5756-4ed0-b7a8-9b8fb7c2baf7",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "e6af89a4-712d-4825-b630-1f0d39574d25",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following can be found as pollutants in the drinking water in some parts of India?\n\n1. Arsenic\n\n2. Sorbitol\n\n3. Fluoride\n\n4. Formaldehyde\n\n5. Uranium\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "b7f1c2d8-7dcb-4dc6-b4b3-b282619f3dd4",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "590dc4dd-11fc-439c-ae69-a4df0497f148",
+                "value": "2, 4 and 5 only",
+                "correct": false
+            },
+            {
+                "id": "f0b11770-e39c-4662-a632-08757afc5c33",
+                "value": "1, 3 and 5 only",
+                "correct": true
+            },
+            {
+                "id": "0a7a5a27-116c-47e6-ab7e-9fa9a97db400",
+                "value": "1, 2, 3, 4 and 5",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "c4312293-5a33-42cd-9464-27ba9c50ee27",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Indian History, the Members of the Constituent Assembly from the Provinces were",
+        "options": [
+            {
+                "id": "ca9a5ee4-529f-4635-9bf2-3cf0dd94222d",
+                "value": "Directly elected by the people of those Provinces",
+                "correct": false
+            },
+            {
+                "id": "8e9c999f-a75c-4e34-834d-cfecb8b04ade",
+                "value": "Nominated by the Indian National Congress and the Muslim League",
+                "correct": false
+            },
+            {
+                "id": "403f21b4-6c5a-4f24-bc55-dbac692508a5",
+                "value": "Elected by the Provincial Legislative Assemblies",
+                "correct": true
+            },
+            {
+                "id": "1f4b757e-b519-4f71-bbad-22200bb3e6f4",
+                "value": "Selected by the Government for their expertise in constitutional matters",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "2a5a3a83-3f5f-4637-a325-d75689b9899e",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following animals:\n\n1. Sea cow\n\n2. Sea horse\n\n3. Sea lion\n\nWhich of the above is are mammal/mammals?",
+        "options": [
+            {
+                "id": "341d25ca-a4c4-46a8-b6bf-e35f43c41bab",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "cc2e0019-3de6-42e7-a55a-c6e3dbada4ab",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "f73f39df-effb-44ff-8696-fb4d5e693844",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "7264b066-1c63-43ac-95ee-066cc66d38cf",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "473752f7-13cb-438b-abb4-379abd49b765",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements:\n\n1. An amendment to the Constitution of India can be initiated by an introduction of a bill in the Lok Sabha only.\n\n2. If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the legislature of all the States of India.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "b4786612-dfdf-4463-9e6e-ec96164a03ee",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "8729a7b4-86f1-448a-84dd-73acc094eee8",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "33eb3d26-441f-4fa9-bb82-ec91f2ec3efc",
+                "value": "Both 1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "898f986a-ed10-48e3-920e-aabb41659af1",
+                "value": "Neither 1 nor 2",
+                "correct": true
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "eb6dd41e-7708-4958-8720-6b401efc9742",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements : Attorney General of India can\n\n1. Take part in the proceedings of the Lok Sabha\n\n2. Be a member of a committee of the Lok Sabha\n\n3. Speak in the Lok Sabha\n\n4. Vote in the Lok Sabha\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "c51f7e76-f086-437c-b39c-adc737eec84a",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "8e20b2a1-d0da-44e4-8449-1fe1d34aa7a3",
+                "value": "2 and 4",
+                "correct": false
+            },
+            {
+                "id": "e8fd80f6-2ddd-42a4-b40b-89e1818a3ba5",
+                "value": "1, 2 and 3",
+                "correct": true
+            },
+            {
+                "id": "ca2826f9-7f31-44cb-bf0b-205a0b04c4e4",
+                "value": "1 and 3 only",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "f720b3dd-d3ed-4025-956d-c1a10af625d0",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the usefulness of the by-products of sugar industry, which of the following statements is/are correct?\n\n1. Bagasse can be used as biomass fuel for the generation of energy.\n\n2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers.\n\n3. Molasses can be used for the production of ethanol.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "51dd6802-f20d-4e0c-a856-1bb1381ec0fb",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "0fbe060e-bf68-4688-b168-379f11e6356d",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "d57b592f-7967-41cb-8381-21fb3234ea92",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "f8b4ef28-ff4b-4813-a588-be2b408de379",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "c610f532-8657-44eb-a733-a6eb12204af3",
+        "explanation": ""
+    },
+    {
+        "question": "Variations in the length of daytime and nighttime from season to season are due to",
+        "options": [
+            {
+                "id": "ea8504e0-1d62-4a73-ba78-3a1a0ef2335a",
+                "value": "The earth\u2019s rotation on its axis",
+                "correct": false
+            },
+            {
+                "id": "224a469a-6135-4665-9901-c6f77bfbfdfc",
+                "value": "The earth\u2019s revolution round the sun in an elliptical manner",
+                "correct": false
+            },
+            {
+                "id": "a5265209-438e-47b7-8a32-73b4b30010f3",
+                "value": "Latitudinal position of the place",
+                "correct": false
+            },
+            {
+                "id": "6bf4b2ed-5fa0-4d35-afcb-19e5ad7b0477",
+                "value": "Revolution of the earth on a titled axis",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "191e3e93-a8a3-415d-8d6a-69104bc7c275",
+        "explanation": ""
+    },
+    {
+        "question": "The Narmada river flows to the west, while most other large peninsular rivers flow to the east. Why?\n\n1. It occupies a linear rift valley.\n\n2. It flows between the Vindhyas and the Satpuras.\n\n3. The land slopes to the west from Central India.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "39ffc974-e830-4c56-9fa9-f8872258de5f",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "1791625d-cb41-40d1-b79f-1bfb06573a57",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "1a161366-bd65-4650-a08b-293e871f6dfb",
+                "value": "1 and 3",
+                "correct": false
+            },
+            {
+                "id": "10ed05f2-b464-4973-bce0-7942405fa837",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "5b55dca0-8df2-4ddc-8243-4cdf0752bd4f",
+        "explanation": ""
+    },
+    {
+        "question": "On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining freshwater, the largest proportion",
+        "options": [
+            {
+                "id": "a279e42c-4e70-4664-941d-652b56a3aafd",
+                "value": "Is found in atmosphere as moisture and clouds",
+                "correct": false
+            },
+            {
+                "id": "ac46062b-4df1-4ebe-a1cc-dfed32f99410",
+                "value": "Is found in freshwater lakes and rivers",
+                "correct": false
+            },
+            {
+                "id": "e19cb4c1-109c-45e9-a218-c4d9ed855019",
+                "value": "Exists as groundwater",
+                "correct": true
+            },
+            {
+                "id": "aba09a04-0397-4675-a7eb-d36a98c29560",
+                "value": "Exists as soil moisture",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "2912b4d1-9471-40d1-aa27-525c6742e2b1",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs :\n\n1. Nokrek Biosphere Reserve : Garo Hills\n\n2. Logtak (Loktak) Lake : Barail Range\n\n3. Namdapha National Park : Dafla Hills\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "b5700720-23e6-47e4-bcdb-5d7622d4ec3f",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "a80bdf49-8951-4a7f-8c8d-cf1c6a5c82d3",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "20656a9c-d2b8-48ca-8b43-286ad810e474",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "b49c94e0-b988-4746-9845-0e4edcd48d2f",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "753e418a-dc8c-4f6d-8dd9-56f75c27ca91",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following :\n\n1. Electromagnetic radiation\n\n2. Geothermal energy\n\n3. Gravitational force\n\n4. Plate movements\n\n5. Rotation of the earth\n\n6. Revolution of the earth\n\nWhich of the above are responsible for bringing dynamic changes on the surface of the earth?",
+        "options": [
+            {
+                "id": "de89c198-50c4-4bd6-8ce8-0f0ca214844a",
+                "value": "1, 2, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "975b7e38-77ca-4bc2-8dda-c4706d64a7c2",
+                "value": "1, 3, 5 and 6 only",
+                "correct": false
+            },
+            {
+                "id": "9a6e72e7-c3cd-497f-80c7-f63226ecd698",
+                "value": "2, 4, 5 and 6 only",
+                "correct": false
+            },
+            {
+                "id": "0f993189-0cec-4944-a104-5581a290be72",
+                "value": "1, 2, 3, 4, 5 and 6",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "64f1a730-40d4-42e2-8e76-e7513dfc6371",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following bodies does not/do not find mention in the Constituiton?\n\n1. National Development Council\n\n2. Planning Commission\n\n3. Zonal Councils\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "630a1906-f429-4038-b87f-4b99645896a1",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "d2e8a993-b332-44ca-bed4-ff3952849f8f",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "4302eb25-6b5a-4db9-9b38-b30f7f6c4af5",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "ec6899bf-d087-4e72-bfb4-1410addac880",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "56ee325d-bf9c-4de4-936d-a0422b44c688",
+        "explanation": ""
+    },
+    {
+        "question": "The demand for the Tebhaga Peasant Movement in Bengal was for",
+        "options": [
+            {
+                "id": "98e25328-8c7d-4b42-9d0b-8d1e2dde8636",
+                "value": "The reduction of the share of the landlords from one-half of the crop to one-third",
+                "correct": true
+            },
+            {
+                "id": "048bb0b0-60e8-497f-a611-759bfd414d53",
+                "value": "The grant of ownership of land to peasants as they were the actual cultivators of the land",
+                "correct": false
+            },
+            {
+                "id": "b8ba6c71-2097-409e-a7f2-e6976648b5dd",
+                "value": "The uprooting of Zamindari system and the end of serfdom",
+                "correct": false
+            },
+            {
+                "id": "ab431b91-2a8b-475a-9c21-fac6b31bfbc8",
+                "value": "Writing off all peasant debts",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "4596be03-e718-4b97-ab6a-702c4d7630a6",
+        "explanation": ""
+    },
+    {
+        "question": "The Parliament can make any law for whole or any part of India for implementing international treaties.",
+        "options": [
+            {
+                "id": "82e5df20-b6c8-4c85-9d9c-6dfb66678a77",
+                "value": "With the consent of all the States",
+                "correct": false
+            },
+            {
+                "id": "25730216-093f-4b50-8fbb-81d5ca6aedb6",
+                "value": "With the consent of the majority of States",
+                "correct": false
+            },
+            {
+                "id": "5c1a6f8f-1d8b-4a79-bb61-b4a3884dc601",
+                "value": "With the consent of the States concerned",
+                "correct": false
+            },
+            {
+                "id": "1c09fe9c-2adc-4c2e-bea4-ad5bcdba4ae2",
+                "value": "Without the consent of any State",
+                "correct": true
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "8af17414-10eb-4a76-b0f9-d54f4aaed4c3",
+        "explanation": ""
+    },
+    {
+        "question": "In the grasslands, trees do not replace the grasses as a part of an ecological succession because of",
+        "options": [
+            {
+                "id": "695fd428-9cc7-4534-921d-742ed8c15fce",
+                "value": "Insects and fungi",
+                "correct": false
+            },
+            {
+                "id": "df409a29-ec67-44a0-a7ea-9024cbddf4b3",
+                "value": "Limited sunlight and paucity of nutrients",
+                "correct": false
+            },
+            {
+                "id": "abe44013-cf7c-4e88-830e-91d76b2efb3b",
+                "value": "Water limits and fire",
+                "correct": true
+            },
+            {
+                "id": "9ee71412-99aa-48b2-af3a-74796a8eefad",
+                "value": "None of the above",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "c6ad26a8-2da9-4c00-9ec4-8cfd8d371ca5",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity?",
+        "options": [
+            {
+                "id": "13611169-bbb9-471e-9f3f-750c3d1093b7",
+                "value": "Oceans, lakes, grasslands, mangroves",
+                "correct": false
+            },
+            {
+                "id": "0930c7ef-9178-49d3-b682-f684298a9e09",
+                "value": "Mangroves, oceans, grasslands, lakes",
+                "correct": false
+            },
+            {
+                "id": "a4dcbd40-cde4-4ff2-bc74-5c4f7c2bcd74",
+                "value": "Mangroves, grasslands, lakes, oceans",
+                "correct": true
+            },
+            {
+                "id": "e56675b4-b4cc-4276-8404-b9adf41a483a",
+                "value": "Oceans, mangroves, lakes, grasslands",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "7beee6cd-0388-4c9b-b898-e670668a2c83",
+        "explanation": ""
+    },
+    {
+        "question": "Contour bunding is a method of soil conservation used in",
+        "options": [
+            {
+                "id": "792ac311-3c08-4a67-bdac-1b4fa2753aae",
+                "value": "Desert margins, liable to strong wind action",
+                "correct": false
+            },
+            {
+                "id": "55a81186-eded-4271-80ac-d4e48a4dcd46",
+                "value": "Low flat plains, close to stream courses, liable to flooding",
+                "correct": false
+            },
+            {
+                "id": "76c66f86-0ad1-4725-8e4b-8c693ce3c2a2",
+                "value": "Scrublands, liable to spread of weed growth",
+                "correct": false
+            },
+            {
+                "id": "4be39cfe-3edc-4489-99dd-6a7065393b46",
+                "value": "None of the above",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "09ec6ac9-5d84-4f73-93a0-c3130b63d96b",
+        "explanation": ""
+    },
+    {
+        "question": "The Government enacted the Panchayat Extension of Scheduled Areas (PESA) Act in 1996. Which one of the following is not identified as its objective?",
+        "options": [
+            {
+                "id": "aaa7a062-14a6-4b8a-a94d-91ed85b9afd0",
+                "value": "To provide self-governance",
+                "correct": false
+            },
+            {
+                "id": "ae8eec31-8ae1-471b-a1c6-8e6f9b6ad767",
+                "value": "To recognize traditional rights",
+                "correct": false
+            },
+            {
+                "id": "388200b7-3d6c-4419-ab23-a08a1f0a29b6",
+                "value": "To create autonomous regions in tribal areas",
+                "correct": true
+            },
+            {
+                "id": "ebf08552-1e95-4b21-839c-b1dd0a5e8c38",
+                "value": "To free tribal people from exploitation",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "de3db61c-3296-42b9-8684-da51989c1373",
+        "explanation": ""
+    },
+    {
+        "question": "Priority Sector Lending by banks in India constitutes the lending to",
+        "options": [
+            {
+                "id": "74fe07ba-8d58-4cfa-afea-b9387289105e",
+                "value": "Agriculture",
+                "correct": false
+            },
+            {
+                "id": "fe983eab-eb32-4b45-840f-dac055ef3a19",
+                "value": "Micro and small enterprises",
+                "correct": false
+            },
+            {
+                "id": "c792bc95-7792-4962-84cf-9a3da6a7bb0d",
+                "value": "Weaker sections",
+                "correct": false
+            },
+            {
+                "id": "8745b303-129e-4a16-88a1-4b18cbc9a2f0",
+                "value": "All of the above",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "f8910915-d20c-4c4b-a570-2832fc8d31c3",
+        "explanation": ""
+    },
+    {
+        "question": "Which one among the following industries is the maximum consumer of water in India?",
+        "options": [
+            {
+                "id": "60d0a2b3-b82b-4faa-b1f0-d613634887b8",
+                "value": "Engineering",
+                "correct": false
+            },
+            {
+                "id": "424116c4-af66-438d-8a11-5e483f6a7719",
+                "value": "Paper and pulp",
+                "correct": false
+            },
+            {
+                "id": "e8dc7070-05ff-4cae-aec7-986b4c653503",
+                "value": "Textiles",
+                "correct": false
+            },
+            {
+                "id": "7cfa1acc-ae11-4ee2-8f04-e1b401847c3b",
+                "value": "Thermal power",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "1189f864-4175-420b-a25f-defaa6f0b44f",
+        "explanation": ""
+    },
+    {
+        "question": "To obtain full benefits of demographic dividend, what should India do?",
+        "options": [
+            {
+                "id": "eb6fbcdc-de2e-466e-9ddb-94af86b02c50",
+                "value": "Promoting skill development",
+                "correct": true
+            },
+            {
+                "id": "742ffa30-21dc-43af-817a-d88cdab42911",
+                "value": "Introducing more social security schemes",
+                "correct": false
+            },
+            {
+                "id": "fe07bf72-9e1d-41eb-9c29-e09524158a0a",
+                "value": "Reducing infant mortality rate",
+                "correct": false
+            },
+            {
+                "id": "9b4be8f2-b7be-46ba-83a9-cca68a7bbd40",
+                "value": "Privatization of higher education",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "05207cab-c237-482a-b41c-7ae577a45a5a",
+        "explanation": ""
+    },
+    {
+        "question": "In the context of cultural history of India, a pose in dance and dramatics called \u2018Tribhanga\u2019 has been a favorite of Indian artists from ancient times till today.\n\nWhich one of the following statements best describes this pose?",
+        "options": [
+            {
+                "id": "7d01661b-0ce7-479e-9bf2-9e0b3683862d",
+                "value": "One leg is bent and the body is slightly but oppositely curved at waist and neck",
+                "correct": true
+            },
+            {
+                "id": "5062fdb9-e266-4d2b-82ed-bdf7afb89c63",
+                "value": "Facial expressions, hand gestures and make-up are combined to symbolize certain epic or historic characters",
+                "correct": false
+            },
+            {
+                "id": "f2d8cc42-af9f-48b6-9e6b-8e48d5217c25",
+                "value": "Movements of body, face and hands are used to express oneself or to tell a story",
+                "correct": false
+            },
+            {
+                "id": "5229b1ce-9dd8-455f-b7b7-694a9af9f97f",
+                "value": "A little smile, slightly curved waist and certain hand gestures are emphasized to express the feelings of love or eroticism",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "c231daf3-cc54-4b8d-bc47-3ab8cae5d55a",
+        "explanation": ""
+    },
+    {
+        "question": "Annie Besant was\n\n1. Responsible for starting the Home Rule Movement\n\n2. The founder of the Theosophical Society\n\n3. Once the President of the Indian National Congress\n\nSelect the correct statement/statements using the codes given below.",
+        "options": [
+            {
+                "id": "2f151f8b-8426-48e6-a840-0f4b0caf0a72",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "494faf6b-fbec-45bf-83f0-0ce7a82c7b31",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "2cf95885-3c49-46bd-b14f-fa2caebc9484",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "a0a93e89-93e8-4931-9470-510b44308018",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "716b341f-428b-4c6a-8986-6c038ecd5329",
+        "explanation": ""
+    },
+    {
+        "question": "The Ilbert Bill controversy was related to the",
+        "options": [
+            {
+                "id": "24f2767b-3013-4e36-96a3-0526d8654252",
+                "value": "Imposition of certain restrictions to carry arms by the Indians",
+                "correct": false
+            },
+            {
+                "id": "b2196f04-4a50-40be-bdf8-71b8c4d63e82",
+                "value": "Imposition of restrictions on newspapers and magazines published in Indian languages",
+                "correct": false
+            },
+            {
+                "id": "ec974ac2-89dd-4236-9a08-14023268ab5b",
+                "value": "Removal of disqualifications imposed on the Indian magistrates with regard to the trial of the Europeans",
+                "correct": true
+            },
+            {
+                "id": "9b24935e-20f2-49fd-a0ed-01bd677e07da",
+                "value": "Removal of a duty on imported cotton cloth.",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "db09a53e-8efe-49f5-a5b1-c62853f0a6a0",
+        "explanation": ""
+    },
+    {
+        "question": "A rise in general level of prices may be caused by\n\n1. An increase in the money supply\n\n2. A decrease in the aggregate level of output\n\n3. An increase in the effective demand\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "ab7c6be2-824f-47cf-bea8-f9c325b5219f",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "63521954-d88b-4078-b27d-e5da8ba31cc7",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "87757409-ae54-4b7d-8585-1baae5de2c9b",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "64e56ae7-3974-4afd-8d5b-648b74d6659a",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652770,
+        "id": "0246e5ca-5876-4abc-a2f9-90c19f7601ad",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following groups of items is included in India\u2019s foreign-exchange reserves?",
+        "options": [
+            {
+                "id": "822f6cd9-566a-4573-bed5-1a6850e20bc2",
+                "value": "Foreign-currency assets, Special Drawing Rights (SDRs) and loans from foreign countries",
+                "correct": false
+            },
+            {
+                "id": "5b0a82a8-63f6-4b0b-8373-763eaf7063e2",
+                "value": "Foreign-currency assets, gold holdings of the RBI and SDRs",
+                "correct": true
+            },
+            {
+                "id": "1953abb5-0e88-4bed-ae7b-64f7d4d11277",
+                "value": "Foreign-currency assets, loans from the World Bank and SDRs",
+                "correct": false
+            },
+            {
+                "id": "70b27bb2-3c59-4b02-9985-8d6a16485fbe",
+                "value": "Foreign-currency assets, gold holdings of the RBI and loans from the World Bank",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "7b892a28-6bd6-418b-b264-2ecd692d9ea1",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following is likely to be the most inflationary in its effect?",
+        "options": [
+            {
+                "id": "2b1dfb28-62ed-46b2-91ee-07217e6f5c65",
+                "value": "Repayment of public debt",
+                "correct": false
+            },
+            {
+                "id": "6b8aa53a-38c0-444b-9287-60d457ee021d",
+                "value": "Borrowing from the public to finance a budget deficit",
+                "correct": false
+            },
+            {
+                "id": "1fdbd77e-275f-426a-8e74-872e21445dc8",
+                "value": "Borrowing from banks to finance a budget deficit",
+                "correct": false
+            },
+            {
+                "id": "1ab30ae6-5407-4810-acdc-2881dd67a2f5",
+                "value": "Creating new money to finance a budget deficit",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "71d2a79d-3dc2-46de-a000-9f1c89e05812",
+        "explanation": ""
+    },
+    {
+        "question": "Supply of money remaining the same when there is an increase in demand for money, there will be",
+        "options": [
+            {
+                "id": "8f86ab3e-ab83-42fc-8919-f42646e818d9",
+                "value": "A fall in the level of prices",
+                "correct": false
+            },
+            {
+                "id": "55048abb-158e-4337-a93c-da94bc00d151",
+                "value": "An increase in the rate of interest",
+                "correct": true
+            },
+            {
+                "id": "2d17965f-d934-4fd7-bf2d-18dbcfc3935a",
+                "value": "A decrease in the rate of interest",
+                "correct": false
+            },
+            {
+                "id": "4567d704-7dfd-46c9-a0b3-2ebee75c6205",
+                "value": "An increase in the level of income and employment",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "04bd05b7-e8cd-4280-8b27-d35dff32ce0a",
+        "explanation": ""
+    },
+    {
+        "question": "Fruits stored in a cold chamber exhibit longer storage life because",
+        "options": [
+            {
+                "id": "8293014e-d1b8-4344-8e54-717c430b72f7",
+                "value": "Exposure to sunlight is prevented",
+                "correct": false
+            },
+            {
+                "id": "d882e13b-c9b4-448e-a3cd-581d8ccba603",
+                "value": "Concentration of carbon dioxide in the environment is increased",
+                "correct": false
+            },
+            {
+                "id": "ff601acb-163b-4d98-a620-1371c15046a7",
+                "value": "Rate of respiration is decreased",
+                "correct": true
+            },
+            {
+                "id": "8ac04ed6-b6d3-4001-b514-63dd359bc573",
+                "value": "There is an increase in humidity",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "8c4515ff-6a97-49c3-921e-831270a7deea",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following fauna of India:\n\n1. Gharial\n\n2. Leatherback turtle\n\n3. Swamp deer\n\nWhich of the above is/are endangered?",
+        "options": [
+            {
+                "id": "dd9d241b-3da7-4df2-87c3-95b4bfac3564",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "b3e5aa1a-07bb-4efd-8dbe-f6010b3f28a2",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "3601af74-b84d-4a59-8f5b-9b75ee54912f",
+                "value": "1, 2 and 3",
+                "correct": true
+            },
+            {
+                "id": "15a67e6d-b7c0-49dc-bfe1-3128df6b9e8c",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "61873eeb-4663-41bb-b010-8570b9b84e99",
+        "explanation": ""
+    },
+    {
+        "question": "Ball bearings are used in bicycles, cars, etc because",
+        "options": [
+            {
+                "id": "7931e312-5e0e-4c97-8205-5bf46f60e321",
+                "value": "The actual area of contact between the wheel and axle is increased",
+                "correct": false
+            },
+            {
+                "id": "321bd8eb-a8b3-4cce-8701-4254eac5f9c3",
+                "value": "The effective area of contact between the wheel and axle is increased",
+                "correct": false
+            },
+            {
+                "id": "24072d21-60d7-4910-a461-61517410acc7",
+                "value": "The effective area of contact between the wheel and axle is reduced",
+                "correct": true
+            },
+            {
+                "id": "c73b1d8e-cee7-4dc0-b73e-16d2dd5f30a7",
+                "value": "None of the above statements is correct",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "dcf89198-cdfe-4b13-a178-1277dc19485e",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following phenomena :\n\n1. Size of the sun at dusk\n\n2. Colour of the sun at dawn\n\n3. Moon being visible at dawn\n\n4. Twinkle of stars in the sky\n\n5. Polestar being visible in the sky\n\nWhich of the above are optical illusions?",
+        "options": [
+            {
+                "id": "f2874985-1ad2-4415-88cc-9a23e7b06c64",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "19138a34-a846-4bfc-adf6-92acaaa3a4a0",
+                "value": "3, 4 and 5",
+                "correct": false
+            },
+            {
+                "id": "09c26b39-0e51-4efa-b31a-cb1351f3f405",
+                "value": "1, 2 and 4",
+                "correct": true
+            },
+            {
+                "id": "190715eb-1b90-4e34-9b3b-31a7b17552d9",
+                "value": "2, 3 and 5",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "aaa0a71f-526b-4d26-a362-52ee89ab353d",
+        "explanation": ""
+    },
+    {
+        "question": "Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena are responsible for this?\n\n1. Dispersion\n\n2. Refraction\n\n3. Internal reflection\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "478c12e6-04f2-432b-ab82-fc1f996b576a",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "0a7e5f03-3b78-4d10-a0b6-3d817ac66a0e",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "b6e11825-32ce-43c7-8998-eadd1e546298",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "ad7de67e-9967-4d5a-8786-12a8d433579f",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "aa5ef64b-7548-4412-bc82-92a78078c9cd",
+        "explanation": ""
+    },
+    {
+        "question": "Many transplanted seedlings do not grow because",
+        "options": [
+            {
+                "id": "8b67a4c1-46e3-4a88-b9a4-daf92034263e",
+                "value": "The new soil does not contain favorable minerals",
+                "correct": false
+            },
+            {
+                "id": "5aba8680-e3c8-4eb1-bbc2-913b44cbabfb",
+                "value": "Most of the root hairs grip the new soil too hard",
+                "correct": false
+            },
+            {
+                "id": "fe3425f8-5ac0-4e52-bf4f-0325bbfee389",
+                "value": "Most of the root hairs are lost during transplantation",
+                "correct": true
+            },
+            {
+                "id": "8bcccfcd-cea4-4aa8-9d17-47303419152b",
+                "value": "Leaves get damaged during transplantation",
+                "correct": false
+            }
+        ],
+        "category": [
+            "agriculture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "47eadc8d-f6da-4d6e-98cb-2dd4d4a4de9a",
+        "explanation": ""
+    },
+    {
+        "question": "Economic growth in country X will necessarily have to occur if",
+        "options": [
+            {
+                "id": "e7cf9e13-16e0-498a-90b9-78bf73829858",
+                "value": "There is technical progress in the world economy",
+                "correct": false
+            },
+            {
+                "id": "f75833e2-d3f5-431a-a4cd-aea425280938",
+                "value": "There is population growth in X",
+                "correct": false
+            },
+            {
+                "id": "fba7e7a5-5c87-479f-8f4f-e64db8daab27",
+                "value": "There is capital formation in X",
+                "correct": true
+            },
+            {
+                "id": "3b2fa3c3-a069-485b-86a2-492f355e4c7c",
+                "value": "The volume of trade grows in the world economy",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "7f4d39fa-66da-42f2-ab44-64cc4604cf16",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following statements is/are correct?\n\n1. Viruses lack enzymes necessary for the generation of energy.\n\n2. Viruses can be cultured in any synthetic medium.\n\n3. Viruses are transmitted from one organism to another by biological vectors only.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "9d04e0e4-1de6-4a25-ab2e-2c47856beb42",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "8d45070b-c4e9-4d66-b358-1096f40b5a32",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "c4109a04-f544-4311-bb3f-6d809542a1ca",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "193dd9af-42a7-409a-9161-b3f0479f0dec",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "e2957690-299c-41d7-a6ff-e36626b7c025",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following leaf modifications occurs/occur in desert areas to inhibit water loss?\n\n1. Hard and waxy leaves\n\n2. Tiny leaves or no leaves\n\n3. Thorns instead leaves\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "4e3d1bfa-8def-46a4-bf80-2a67a8c95f38",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "cd2f844a-9218-447f-8c6b-45a8dcb4c9aa",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "2d01cd25-771f-42ff-a0fc-ce108f258b41",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "2b50a295-305a-4d9a-ab99-0ebb6b83bfee",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "c0e7e9c4-78f2-4cf5-83a3-40333207615d",
+        "explanation": ""
+    },
+    {
+        "question": "The known forces of nature can be divided into four classes, viz. gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct?",
+        "options": [
+            {
+                "id": "5afbb679-1314-4d1b-9097-701851247da7",
+                "value": "Gravity is the strongest of the four",
+                "correct": true
+            },
+            {
+                "id": "57b42933-7078-47c6-beff-a9579fa350be",
+                "value": "Electromagnetism acts only on particles with an electric charge",
+                "correct": false
+            },
+            {
+                "id": "ea801941-3321-44ba-8f89-71bd2b06e87d",
+                "value": "Weak nuclear force causes radioactivity",
+                "correct": false
+            },
+            {
+                "id": "be9c16f0-2f7c-4ca6-9ff6-230920072811",
+                "value": "Strong nuclear force holds protons and neutrons inside the nucleus of an atom",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "9ce0fe3f-085a-4cdc-abb5-e1dd5b6519ac",
+        "explanation": ""
+    },
+    {
+        "question": "The efforts to detect the existence of Higgs boson particle have become frequent news in the recent past. What is/are the importance / importances of discovering this particle?\n\n1. It will enable us to understand as to why elementary particles have mass.\n\n2. It will enable us in the near future to develop the technology of transferring matter from one point to another without traversing the physical space between them.\n\n3. It will enable us to create better fuels for nuclear fission.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "a780858f-5ad7-423a-924e-5f5b0c14d3fc",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "d5a0fe20-37de-41b5-aef9-29a29c7129af",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "e53478a0-3536-445e-b317-b94614f4b2e1",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "655cdd61-7035-4f50-9b56-f102299c5693",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "c8a5a158-88b6-4445-b1d7-a6456bbc6871",
+        "explanation": ""
+    },
+    {
+        "question": "Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to\n\n1. Resist drought and increase absorptive area\n\n2. Tolerate extremes of pH\n\n3. Resist disease infestation\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "9edf0b8d-7dfb-4f87-917a-a29ab83d9a42",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "c68a7346-fda3-49db-bc20-3838af32258f",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "10dddf10-e517-480d-8d37-5959d87da7c5",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "5699ab0d-6501-4aed-aa70-e9d085e39a67",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "8d7aab53-e208-49a4-b227-e1251cdad3a9",
+        "explanation": ""
+    },
+    {
+        "question": "Who among the following constitute the National Development Council?\n\n1. The Prime Minister\n\n2. The Chairman, Finance Commission\n\n3. Ministers of the Union Cabinet\n\n4. Chief Ministers of the States\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "1d1cf948-1025-4536-9f64-1b87b1c98af8",
+                "value": "1, 2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "d9bd9322-a87d-4197-88dc-579acadb4f2a",
+                "value": "1, 3 and 4 only",
+                "correct": true
+            },
+            {
+                "id": "34b5fafd-c4cd-41cd-a11b-0dff3a89264b",
+                "value": "2 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "3eb82307-e6db-40e9-b4b0-ac2f65db35fb",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "65c8163e-382a-4dab-bb16-07b8d7c31d19",
+        "explanation": ""
+    },
+    {
+        "question": "The national income of a country for a given period is equal to the",
+        "options": [
+            {
+                "id": "b8ab6802-9e93-40c3-8096-75d157d564f8",
+                "value": "Total value of goods and services produced by the nationals",
+                "correct": false
+            },
+            {
+                "id": "0d1af92d-9980-4413-a948-9ef95f599ebe",
+                "value": "Sum of total consumption and investment expenditure",
+                "correct": false
+            },
+            {
+                "id": "150a506d-bc5a-4ceb-93ab-5388aeb2693d",
+                "value": "Sum of personal income of all individuals",
+                "correct": false
+            },
+            {
+                "id": "29eac1a9-b8b3-4f33-8930-63aa43786967",
+                "value": "Money value of final goods and services produced.",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "7e311181-0c26-4272-b239-3ab4396499d0",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following grants/grant direct credit assistance to rural households?\n\n1. Regional Rural Banks\n\n2. National Bank for Agriculture and Rural Development\n\n3. Land Development Banks\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "09735726-73de-4eab-8096-671356eba352",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "84882154-da10-49ba-bf7a-9b42c6fe2dfe",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "e7071562-ff80-4d2b-b390-727ec1bbe654",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "55ac5a88-89be-4482-8db1-c25ef3b20bf9",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "30b6a540-2c1c-4e40-a6f4-19215208d5dd",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: The Parliamentary Committee on Public Accounts\n\n1. Consists of not more than 25 Members of the Lok Sabha\n\n2. Scrutinizes appropriations and finance accounts of the Government\n\n3. Examines the report of the Comptroller and Auditor General of India\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "b0159783-24ca-4d26-a227-6b9855417d8d",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "3ba02932-8d2d-4389-b192-95b3b3381e56",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "fe2b10f5-f4db-4a98-ab9f-d1fa8866ed4e",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "d159fbc8-b009-411d-8fa3-072cc3cde6c1",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "2bc211d0-8353-4ca6-b7a2-c2d90d59f0d3",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following Bhakti Saints :\n\n1. Dadu Dayal\n\n2. Guru Nanak\n\n3. Tyagraja\n\nWho among the above was/were preaching when the Lodi dynasty fell and Babur took over?",
+        "options": [
+            {
+                "id": "ff88ef60-cd47-4a2f-8790-adaf3608d4ea",
+                "value": "1 and 3",
+                "correct": false
+            },
+            {
+                "id": "a9f4ddd2-09e9-453c-b069-91b9b319dc83",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "e59fd851-0285-43b0-93e6-a4a0f83ae0c2",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "3c8ad14a-715a-497e-a8f3-e5fa85b426a2",
+                "value": "1 and 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "8bdc7171-10ad-4084-a36d-cc79b94095a4",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the food chains in ecosystems, which of the following kinds of organism is/are known as decomposer organism / organisms?\n\n1. Virus\n\n2. Fungi\n\n3. Bacteria\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "64b70cf0-1fcf-4e0a-87f8-eebfde4f523a",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "8e85a879-a584-4c26-ac03-102faa5e32d8",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "4d235d85-8684-4f5f-96c1-431d8030e658",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "142b50d7-5f40-4ba5-b9bd-b0c1f0085af6",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "741e8067-998a-457c-bfc0-79c964cb2e71",
+        "explanation": ""
+    },
+    {
+        "question": "The most important fishing grounds of the world are found in the regions where",
+        "options": [
+            {
+                "id": "044fe4aa-aec9-4142-8eb2-357d0f88952c",
+                "value": "Warm and cold atmospheric currents meet",
+                "correct": false
+            },
+            {
+                "id": "bb84754a-185f-4dea-8de5-423378bad279",
+                "value": "Rivers drain out large amounts of freshwater into the sea",
+                "correct": false
+            },
+            {
+                "id": "c66252f9-fa72-4787-8618-b76c448230cd",
+                "value": "Warm and cold oceanic currents meet",
+                "correct": true
+            },
+            {
+                "id": "5cc2b25b-f827-4723-b8e6-7c69e11bb941",
+                "value": "Continental shelf is undulating",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "c74dbc20-b5df-4197-aa22-81aa633ba58b",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following is/are unique characteristic/characteristics of equatorial forests ?\n\n1. Presence of tall, closely set trees with crown forming a continuous canopy\n\n2. Coexistence of a large number of species\n\n3. Presence of numerous varieties of epiphytes\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "106eb317-7b4e-4d2f-bfac-c3cf72af8d68",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "65a2a0a4-2e83-4ce8-9beb-1b089539f638",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "cf1336c7-ca91-40e8-a7fc-754d67ee643b",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "b3cc87e6-c78a-45ba-971f-6ddfbbe7a2e7",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "d71ca30e-a467-4cb3-afe9-fed5e6afb086",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following constitute Capital Accounts?\n\n1. Foreign Loans\n\n2. Foreign Direct Investment\n\n3. Private Remittances\n\n4. Portfolio Investment\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "0e9564ef-9bb8-4928-9858-db245fad5e79",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "8dd0a12c-2ec6-4ec5-9559-7252c86b92db",
+                "value": "1, 2 and 4",
+                "correct": true
+            },
+            {
+                "id": "be437566-d12a-4cef-baff-92e1d7edabd8",
+                "value": "2, 3 and 4",
+                "correct": false
+            },
+            {
+                "id": "cd0a363e-70f4-42e0-95d3-7687478fc3c9",
+                "value": "1, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "5b653760-6142-4568-9250-e8045aefa4a2",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following historical places :\n\n1. Ajanta Caves\n\n2. Lepakshi Temple\n\n3. Sanchi Stupa\n\nWhich of the above places is/are also known for mural paintings?",
+        "options": [
+            {
+                "id": "4910e16d-d4b0-45a8-bdef-d2a27b8e37e6",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "566132f1-4698-46bc-9985-ab0275b4385c",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "99da9a33-1ac9-46d6-9c7a-dd9860e68e7f",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "f0752cd5-7e49-4e75-a6d4-f7be8b21f708",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "66c94bb5-a09b-420a-9d32-4ae10d7aded2",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the history of philosophical thought in India, consider the following statements regarding Samkhya school :\n\n1. Samkhya does not accept the theory of rebirth on transmigration of soul.\n\n2. Samkhya holds that it is the self-knowledge that leads to liberation and not any exterior influence or agent.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "606f33b4-8c81-435a-9c29-74c260779389",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "08a86902-3945-4c65-ac01-00e2a6dc3741",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "016ea99c-a443-4070-81b2-8ea374f89c3d",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "e43a93c2-89ae-4751-935d-e52695cad2c1",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "f990d191-a3fc-484b-90f2-f00f95d103e4",
+        "explanation": ""
+    },
+    {
+        "question": "In the context of India, which of the following principles is/are implied institutionally in the parliamentary government?\n\n1. Members of the Cabinet are Members of the Parliament.\n\n2. Ministers hold the office till they enjoy confidence in the Parliament.\n\n3. Cabinet is headed by the Head of the State.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "81073404-8c22-4104-b38e-a15a70a7e273",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "e353bcdb-0129-4927-b13e-c36be1227cbe",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "4fbe50c2-0cff-4e45-bf38-23661b7d7227",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "de4167b6-a6fe-43c7-b945-e4d5db3291a8",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "9a086e49-8168-46e4-b3b1-679aa699d30f",
+        "explanation": ""
+    },
+    {
+        "question": "The annual range of temperature in the interior of the continents is high as compared to coastal areas. What is/are the reason/reasons?\n\n1. Thermal difference between land and water\n\n2. Variation in altitude between continents oceans\n\n3. Presence of strong winds in the interior\n\n4. Heavy rains in the interior as compared to coasts\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "2c8f9028-1431-4a81-a884-3f116351b288",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "402c32c1-128b-4f82-a1db-d1c5cabee6b4",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "42d74caa-63ce-4dd1-b277-0ec70d110545",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "ae489b6d-8612-410e-9288-4997c319fa76",
+                "value": "1, 2, 3, and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "216d2c0e-2411-4e1a-8602-acfe0689c7ca",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following is/are the characteristic/characteristics of Indian coal?\n\n1. High ash content\n\n2. Low sulphur content\n\n3. Low ash fusion temperature\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "5d7ee754-65d3-49cd-a28f-0963fa2df5af",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "4c806d8d-a73e-41db-ac0f-ec5cfce791c1",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "c136b65d-70b0-4589-aaeb-9a4e2b6e73dd",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "e6fc8c72-88b6-4cc5-826a-31aa67a55af1",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "c0cf1896-6c15-4f65-913d-0864197b5fb9",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following statements regarding laterite soils of India are correct?\n\n1. They are generally red in color.\n\n2. They are rich in nitrogen and potash.\n\n3. They are well-developed in Rajasthan and UP.\n\n4. Topioca and cashew nuts grow well on these soils.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "b6e6c2fa-466e-4856-9a06-e76f10fdd4ba",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "e8c3f421-42ee-4eb8-9824-d6e7f59e7faa",
+                "value": "2, 3 and 4",
+                "correct": false
+            },
+            {
+                "id": "4e814f08-7048-4b2d-b2a5-805b37725425",
+                "value": "1 and 4",
+                "correct": true
+            },
+            {
+                "id": "5776f655-3762-459c-a476-f735f9b9a96e",
+                "value": "2 and 3 only",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "db7fe936-fb2e-4dfe-9a04-642c1bb15cab",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements:\n\n1. Natural gas occurs in the Gondwana beds.\n\n2. Mica occurs in abundance in Kodarma.\n\n3. Dharwars are famous for petroleum.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "3cdd8646-d02f-44dd-bd25-d19a0a5daf8d",
+                "value": "1 and 2",
+                "correct": false
+            },
+            {
+                "id": "b39eaba3-d66d-4a94-83b1-9f4492513977",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "caf21bd2-67d7-43e3-b7d7-c653d82c2be0",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "68d28db7-5058-4981-95b0-b5c43fcc5045",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "8e4aa85b-a37c-4488-80bd-ff740bc38849",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following crops :\n\n1. Cotton\n\n2. Groundnut\n\n3. Rice\n\n4. Wheat\n\nWhich of these are Kharif crops?",
+        "options": [
+            {
+                "id": "1eea692d-b722-467b-a202-fb648654936b",
+                "value": "1 and 4",
+                "correct": false
+            },
+            {
+                "id": "76336df9-5e3f-4048-889e-58151280f644",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "f3e36d95-82ad-48f9-8e06-7a984ab55aa5",
+                "value": "1, 2 and 3",
+                "correct": true
+            },
+            {
+                "id": "6f7c4e2c-cbc4-4f23-a1cb-6249b85b5f44",
+                "value": "2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "agriculture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "b52dc3ff-d98f-4fe3-b455-f22d04b5ace6",
+        "explanation": ""
+    },
+    {
+        "question": "\u201cClimate is extreme, rainfall is scanty and the people used to be nomadic herders.\u201d The above statement best describes which of the following regions?",
+        "options": [
+            {
+                "id": "dd39252e-ecd0-4c18-b4f5-6544d66ae241",
+                "value": "African Savannah",
+                "correct": false
+            },
+            {
+                "id": "60367aa9-7db8-44d0-a8b2-6014b325c1cc",
+                "value": "Central Asian Steppe",
+                "correct": true
+            },
+            {
+                "id": "0e38bd44-8b16-43c7-8bd7-5121e80a4d1d",
+                "value": "North American Prairie",
+                "correct": false
+            },
+            {
+                "id": "baeebf28-d18e-42cd-9258-487ac1bb92af",
+                "value": "Siberian Tundra",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "fbbfd0b5-4ed3-43bf-90bd-13e424d914c0",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements:\n\n1. Inflation benefits the debtors.\n\n2. Inflation benefits the bond-holders.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "49ce28c6-0919-4d15-b410-f7f939d8649a",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "9e8b87c7-c5e6-448b-aa91-9d2b4ba452c7",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "9dc4cec8-4aa8-4461-9a95-b4eb84207019",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "49774e75-7020-48e9-886f-84fc9b9065c4",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "3dc9378f-16af-4f16-94fa-f17829a2b935",
+        "explanation": ""
+    },
+    {
+        "question": "Disguised unemployment generally means",
+        "options": [
+            {
+                "id": "ac184d64-3160-4d28-867e-0fc9d7b67011",
+                "value": "Large number of people remain unemployed",
+                "correct": false
+            },
+            {
+                "id": "b1dc4e46-edbc-4be2-9a49-e55ba5bca506",
+                "value": "Alternative employment is not available",
+                "correct": false
+            },
+            {
+                "id": "f74968df-e51f-48d1-a10e-e6431b2de819",
+                "value": "Marginal productivity of labour is zero",
+                "correct": true
+            },
+            {
+                "id": "f8abc307-1abe-4d08-b4e7-59ef25febc4c",
+                "value": "Productivity of workers is low",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "afa2dc53-3759-49b6-b0e1-4bd25cf2ce66",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements:\n\n1. The Council of Ministers in the Centre shall be collectively responsible to the Parliament.\n\n2. The Union Ministers shall hold the office during the pleasure of the President of India.\n\n3. The Prime Minister shall communicate to the President about the proposals for legislation.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "d3604b15-974b-40c7-87b6-169e338d51dd",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "2c40d710-6434-44cd-9d65-d280666a56d4",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "3df174c0-2f8b-4f52-8879-2ffc0d898a93",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "0adf45e7-f34a-4ff9-89e8-3b439f2535d7",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "f839c11a-d9c2-45e9-88f2-d35c621b0d81",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements :\n\n1. National Development Council is an organ of the Planning Commission.\n\n2. The Economic and Social Planning is kept in the Concurrent List in the Constitution of India.\n\n3. The Constitution of India prescribes that Panchayats should be assigned the task of preparation of plans for economic development and social justice.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "3fe708dc-93b4-459b-97b5-c05995847790",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "f1f23707-2ea9-4a25-b92e-99f25c0cb6a7",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "5e0c88c8-e22d-4068-8308-8a2af3afa355",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "260832f3-17eb-4ec3-be4b-7d81fd9c9d6f",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "eb1aedbb-6673-4155-b857-7fff6b817980",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements :\n\n1. The Chairman and the Deputy Chairman of the Rajya Sabha are not the members of that House.\n\n2. While the nominated members of the two Houses of the Parliament have no voting right in the presidential election, they have the right to vote in the election of the Vice President.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "7c305889-f877-48be-b7cc-cf09bab359d8",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "5f942468-2412-4869-b4bf-f5e5cd01f63a",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "4b93e758-27aa-463d-9401-e2efa7798da5",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "41c06d6e-6c8b-4a92-9667-4a91bec6e9b0",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "49f79f2b-846c-47d1-9d4a-e0332f665f17",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to National Legal Services Authority, consider the following statements :\n\n1. Its objective is to provide free and competent legal services to the weaker sections of the society on the basis of equal opportunity.\n\n2. It issues guidelines for the State Legal Services Authorities to implement the legal programmes and schemes throughout the country.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "301b456d-133d-4b7b-9d87-599e836e668d",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "13f3869f-2da3-466b-aa30-03f2528befe9",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "ff9c8484-913b-43c9-92c0-d48b0918a156",
+                "value": "Both 1 and 2",
+                "correct": true
+            },
+            {
+                "id": "4f3bb7e5-f64f-4881-bf9f-8185db94e7d3",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "6cfd2950-0a79-4d22-a327-41e31fd431f2",
+        "explanation": ""
+    },
+    {
+        "question": "During a thunderstorm, the thunder in the skies is produced by the\n\n1. Meeting of cumulonimbus clouds in the sky\n\n2. Lightning that separates the nimbus clouds\n\n3. Violet upward movement of air and water particles.\n\nSelect the correct answer using the codes given below.",
+        "options": [
+            {
+                "id": "ed6351ef-6bad-44f2-af3e-5f8ae9ee3ade",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "6731f4e5-ab68-420a-a2ed-391eb0f55186",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "e005c4b6-51f8-4e8b-8f7a-3aea3f988e98",
+                "value": "1 and 3",
+                "correct": false
+            },
+            {
+                "id": "6336dc28-f5ad-429a-be5a-8c853494b3a3",
+                "value": "None of the above produces the thunder",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "7408f519-7330-41bc-b46c-53da4b760485",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs : \nTribe : State \n\n1. Limboo (Limbu) : Sikkim\n\n2. Karbi : Himachal Pradesh\n\n3. Donagaria Kondh : Odisha\n\n4. Bonda : Tamil Nadu\n\nWhich of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "afe465b0-11aa-47e7-b6a7-7c49f5a2e30b",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "9a586272-6492-44e7-b320-5a0c32bbbc6c",
+                "value": "2 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "2098e9f8-81f9-4589-90c3-ae654ecc949c",
+                "value": "1, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "96d53606-011d-400f-95e4-336b85270096",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "25737821-e16c-488b-9164-aa239d50fffa",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following liquid assets :\n\n1. Demand deposits with the banks\n\n2. Time deposits with the banks\n\n3. Savings deposits with the banks\n\n4. Currency\n\nThe correct sequence of these assets in the decreasing order of liquidity is",
+        "options": [
+            {
+                "id": "df24d280-766a-42c1-a872-279ca69c9dfb",
+                "value": "1-4-3-2",
+                "correct": false
+            },
+            {
+                "id": "d0359b64-62e1-4bdd-b299-d6e2d2155ed1",
+                "value": "4-3-2-1",
+                "correct": false
+            },
+            {
+                "id": "1bf4313a-ee36-493b-a800-3263de841d79",
+                "value": "2-3-1-4",
+                "correct": false
+            },
+            {
+                "id": "b131c935-cf11-4746-b458-c9ab220b534e",
+                "value": "4-1-3-2",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "0219a6fc-c9b9-4781-9f10-ee8fa70728d7",
+        "explanation": ""
+    },
+    {
+        "question": "In the context of Indian economy, \u2018Open Market Operations\u2019 refers to",
+        "options": [
+            {
+                "id": "e36e0ce6-8514-4972-8c30-23f1ec457c5a",
+                "value": "Borrowing by scheduled banks from the RBI",
+                "correct": false
+            },
+            {
+                "id": "0daab5e6-50f9-4216-b4b7-ad346639d553",
+                "value": "Lending by commercial banks to industry and trade",
+                "correct": false
+            },
+            {
+                "id": "5b71230c-4a5a-473d-9a84-1b4764b01bd5",
+                "value": "Purchase and sale of government securities by the RBI",
+                "correct": true
+            },
+            {
+                "id": "defe3b3a-b79d-41af-a8ba-07d6c40edfc2",
+                "value": "None of the above",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812652771,
+        "id": "196e41c2-d65c-40cd-af82-58f7f9626a7d",
+        "explanation": ""
+    }
+]

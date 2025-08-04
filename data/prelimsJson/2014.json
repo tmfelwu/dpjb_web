@@ -1,0 +1,3202 @@
+[
+    {
+        "question": "What are the significances of a practical approach to sugarcane production known as 'Sustainable Sugarcane Initiative'?\n\n1. Seed cost is very low in this compared to the conventional method of cultivation.\n\n2. Drip irrigation can be practiced very effectively in this.\n\n3. There is no application of chemical/inorganic fertilizers at all in this.\n\n4. The scope for intercropping is more in this compared to the conventional method of cultivation.\n\nSelect the correct answer using the code given below",
+        "options": [
+            {
+                "id": "bb8521bd-d8c6-4806-aec4-e22b8c767e55",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "67c9399d-452e-455e-86b5-54a3df9feb54",
+                "value": "1,2 and 4 only",
+                "correct": true
+            },
+            {
+                "id": "8ccdc371-0ae7-4b68-a3cc-c2d9a517969b",
+                "value": "2, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "e11e6257-b238-465b-b8a6-ce999b6f6edf",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "agriculture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "329ecf9e-d66e-4083-9016-dcd5032d8729",
+        "explanation": ""
+    },
+    {
+        "question": "If a wetland of international importance is brought under the _Montreux Record_, what does it imply?",
+        "options": [
+            {
+                "id": "10c4ffe8-ea33-421b-92c5-f6f9506f84a2",
+                "value": "Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference",
+                "correct": true
+            },
+            {
+                "id": "6f6449e4-e3b6-4be8-ab6d-56fbc735f86b",
+                "value": "The country in which the wetland is located should enact a law to prohibit any human activity within five kilometres from the edge of the wetland",
+                "correct": false
+            },
+            {
+                "id": "f6d1affc-7b5d-4367-b0be-7a4613ee6c25",
+                "value": "The survival of the wetland depends on the cultural practices and traditions of certain communities living in its vicinity and therefore the cultural diversity therein should not be destroyed",
+                "correct": false
+            },
+            {
+                "id": "c1239aa8-2903-4d4b-9693-b1d3a480f5a7",
+                "value": "It is given the status of 'World Heritage Site'",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "f210b57e-a2c9-43fa-a262-49c75a25ddbf",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following pairs of islands is separated from each other by the 'Ten Degree Channel'?",
+        "options": [
+            {
+                "id": "b7f7e6b2-9155-4df7-a3de-6a1cf1fd7eeb",
+                "value": "Andaman and Nicobar",
+                "correct": true
+            },
+            {
+                "id": "94724edc-d731-4dd4-916e-df4d8a8d6af8",
+                "value": "Nicobar and Sumatra",
+                "correct": false
+            },
+            {
+                "id": "d6317bcf-4d37-4c21-acd8-ecb192220530",
+                "value": "Maldives and Lakshadweep",
+                "correct": false
+            },
+            {
+                "id": "51f2702c-f95f-423d-82de-3558eef5aed7",
+                "value": "Sumatra and Java",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "e4f4499d-5a7d-41cf-93ac-c501cc233aca",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the fallowing pairs : \nProgramme/ Project : Ministry\n\n1. Drought-Prone Area Programme : Ministry of Agriculture\n\n2. Desert Development Programme : Ministry of Environment and Forests\n\n3. National Watershed Development Project for Rainfed Areas : Ministry of Rural Development\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "6d7bc0b9-0daa-4d28-82d0-d1da8673ca7a",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "0a4d84e4-b0e3-4463-82d0-05bdec3ab8f3",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "5f21739a-f5bc-4435-aec7-7a68db9edae2",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "19f2fd10-b0fb-4016-9ecf-f9c9dc14bc7c",
+                "value": "None",
+                "correct": true
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "bc4d3de4-4ee6-4aef-b375-08cc314cdd79",
+        "explanation": ""
+    },
+    {
+        "question": "With, reference to Bombay Natural History Society (BNHS), consider the following statements :\n\n1. It is an autonomous organization under the Ministry of Environment and Forests.\n\n2. It strives to conserve nature through action based research, education and public awareness.\n\n3. It organizes and conducts nature trails and camps for the general public. \n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "5d31896d-1ea3-4d7b-9e05-7a97ee84d824",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "894255e2-cfd6-4524-bfab-f89daea66d24",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "db28a397-a14c-47bb-93d8-c9f511201931",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "d14549ed-4382-41ae-8cb9-2f447f585c8f",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "440bffe7-40ed-4b99-bbcb-e169be6f7e9b",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to 'Global Environment Facility\u2019, which of the following statements is/are correct?",
+        "options": [
+            {
+                "id": "be9931b5-c58f-4e1a-9361-521f2a5f322b",
+                "value": "It serves as financial mechanism for 'Convention on Biological Diversity' and United nations Framework Convention on Climate Change'",
+                "correct": true
+            },
+            {
+                "id": "3a32f5b3-6a5b-4b30-898a-843821b51f77",
+                "value": "It undertakes scientific research on environmental issues at global level",
+                "correct": false
+            },
+            {
+                "id": "e7ce7727-b4f8-414d-8dcf-1a3cd38d3526",
+                "value": "It is an agency under OECD to facilitate the transfer of technology and funds to underdeveloped countries with specific aim to protect their environment",
+                "correct": false
+            },
+            {
+                "id": "b946e322-936a-4c5c-817b-1921557add03",
+                "value": "Both (a) and (b)",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "53778c62-f04c-4801-b1ec-2fb47f173a1d",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to technologies for solar power production, consider the following statements :\n\n1. 'Photovoltaics' is a technology that generates electricity by direct conversion of light into electricity, while 'Solar Thermal' is a technology that utilizes the Sun's rays to generate heat which is further used in electricity generation process,\n\n2. Photovoltaics generates Alternating Current (AC), while Solar Thermal generates Direct Current (DC).\n\n3. India has manufacturing base for Solar Thermal technology, but not for Photovoltaics\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "c7c12b62-d024-40ca-ac4a-50b95033b539",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "46f5d125-0f62-4038-a3b9-82817e50c157",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "c8347348-00ce-4f45-8589-2f8b57c549b2",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "157a51c0-6ea2-4174-8d46-5d94741dc032",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "b9e5eb36-d6f0-4a75-abb9-8f75e5aaaed0",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following languages\n\n1. Gujarati\n\n2. Kannada\n\n3. Telugu\n\nWhich of the above has/have been declared as 'Classical Language/ Languages' by the Government?",
+        "options": [
+            {
+                "id": "9e1fc13a-9ce6-40de-901f-70d1345991ac",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "9a4e94ed-474b-4b60-aab6-0637727895fa",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "74a162b8-1f0a-4617-9d20-7702b3161159",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "626a2e94-5fa3-4116-9cc7-de95ca16e73c",
+                "value": "1,2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "b1fc38e3-b16c-4c35-b60f-80c7da11793f",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs :\n\n1. Dampa Tiger Reserve : Mizoram\n\n2. Gumti Wildlife Sanctuary : Sikkim\n\n3. Saramati Peak : Nagaland\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "72ceb017-1b3b-4413-b8ea-8eef29b2692f",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "b2a463b9-e19c-4388-b2d5-dc92a9b4133b",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "6f3b1986-0741-454f-9ef5-7ef0ec0fb3ce",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "efb957b4-3df0-431d-a5b2-4036aa998495",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "e840c396-930a-4841-965a-a1a1c6fa36db",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to a conservation organization called 'Wetlands International', which of the following statements is/are correct?\n\n1. It is an intergovernmental organization formed by the countries which are signatories to Ramsar Convention.\n\n2. It works at the field level to develop and mobilize knowledge, and use the practical experience to advocate for better policies.\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "cc4d133e-24ae-4603-87d8-f2a96145a357",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "4353e724-ee6e-4d33-a465-347711e8e263",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "df33818d-d0f2-4269-ab0e-305dcefa5001",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "08d01326-db43-43e1-9c75-83696aa04038",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "6b9be764-9cb1-4589-a577-63a761ecb634",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to a grouping of countries known as BRICS, consider the following statements :\n\n1. The First Summit of BRICS was held in Rio de Janeiro in 2009.\n\n2. South Africa was the last to join the BRICS grouping.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "6dcb02f5-fd99-4421-be70-0c49a7bee703",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "e2f4bfe8-6a59-4b14-9864-04610d1334f0",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "388724b2-d1ab-4a64-9dca-87374505391c",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "e59ca1d2-5bff-489a-9919-8052bc46b586",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "international_relations"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "4329b800-8534-4d8f-8be2-a611ad16a097",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following diseases :\n\n1. Diphtheria\n\n2. Chickenpox\n\n3. Smallpox\n\nWhich of the above diseases has/have been eradicated in India?",
+        "options": [
+            {
+                "id": "8e36e47e-25a6-4237-ab78-ca43f80a1672",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "a459424e-f0da-499c-8cd6-7f8eb68f15e6",
+                "value": "3 only",
+                "correct": true
+            },
+            {
+                "id": "7874ead2-5477-4b50-bc66-6cac3950c985",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "50c91152-4111-4773-a772-78d1c2abc620",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "c1121021-b8ad-496a-bb72-2a8335b95175",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following phenomena might have influenced the evolution of organisms?\n\n1. Continental drift\n\n2. Glacial cycles\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "19642846-d640-4dc1-88c0-17d649a9b28c",
+                "value": "1 Only",
+                "correct": false
+            },
+            {
+                "id": "db3958f1-670f-48cd-8257-3822b58dcfb1",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "e2cfb533-26d8-4089-92b8-09fba7c6404e",
+                "value": "Both 1 and 2",
+                "correct": true
+            },
+            {
+                "id": "04d54f90-41ee-4d98-8ae1-a930d74aba9b",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "c10c50d8-609a-4cf1-8dd6-dea833454d02",
+        "explanation": ""
+    },
+    {
+        "question": "Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?\n\n1. Construction of dams and barrages on rivers\n\n2. Increase in the population of crocodiles in rivers\n\n3. Getting trapped in fishing nets accidentally\n\n4. Use or synthetic fertilizers and other agricultural chemicals in crop fields in the vicinity of rivers\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "9d268747-1387-4c24-9d11-c1b6d9b88b56",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "9ad46ad7-52e8-4a25-97ab-c90f33789f30",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "a1db91b9-dcaa-43f6-a15c-7a707bc9d7c7",
+                "value": "1,3 and 4 only",
+                "correct": true
+            },
+            {
+                "id": "09d0490a-c844-431b-8379-4d034611a924",
+                "value": "1,2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "4dab4b52-269f-4b61-a275-ddd697e16f9e",
+        "explanation": ""
+    },
+    {
+        "question": "The Radcliffe Committee was appointed to",
+        "options": [
+            {
+                "id": "ac0cfccd-8333-4d4b-a2da-05a78eeb97bb",
+                "value": "solve the problem of minorities in India",
+                "correct": false
+            },
+            {
+                "id": "3597a929-496a-4e13-acd2-41b1ac6f63e0",
+                "value": "give effect to the Independence Bill",
+                "correct": false
+            },
+            {
+                "id": "3f25693c-4537-4f65-9b66-d3eb1714ffcf",
+                "value": "delimit the boundaries between India and Pakistan",
+                "correct": true
+            },
+            {
+                "id": "fe6a5983-aab7-41e3-93d7-d1f7ea033cfd",
+                "value": "enquire into the riots in East Bengal",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596755,
+        "id": "18a0439f-35cf-463f-bc2a-9abd35ce8efb",
+        "explanation": ""
+    },
+    {
+        "question": "Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?\n\n1. They are highly resistant to degradation in the environment.\n\n2. They are able to accumulate in humans and animals.\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "1e6ef32d-2e5f-473d-ab16-59bf3bf649c0",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "02a420c7-dc3c-4207-9b2f-c2ed9a5dafba",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "e79c7f3c-3e3f-4f46-a1bb-ffa78390f367",
+                "value": "Both 1 and 2",
+                "correct": true
+            },
+            {
+                "id": "d7539932-30e1-45b3-8902-069dbe7d9c43",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "c941f7b6-aeed-4c9b-9012-e75ce394f7d1",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following :\n\n1. Bats\n\n2. Bears\n\n3. Rodents \n\nThe phenomenon of hibernation can be observed in which of the above kinds of animals?",
+        "options": [
+            {
+                "id": "4cb6b802-683e-43f8-bfbb-9f03aad2c49a",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "a004588c-ce47-4b8d-9ffd-337f042f556c",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "67b38ad2-5e1f-45c4-8b44-193e8311f5ae",
+                "value": "1, 2 and 3",
+                "correct": true
+            },
+            {
+                "id": "7f8e4e72-fb44-4799-a03b-1577afebf537",
+                "value": "Hibernation cannot be observed in any of the above",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "b7084f1c-7914-4e0b-bc17-6affa7c4a3b9",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following is the largest Committee of the Parliament?",
+        "options": [
+            {
+                "id": "8ea43059-8cf9-4db3-99e7-bbcf8f75b2b7",
+                "value": "The Committee on Public Accounts",
+                "correct": false
+            },
+            {
+                "id": "b50bd553-7604-4735-9cb0-42a3dffa6898",
+                "value": "The Committee on Estimates",
+                "correct": true
+            },
+            {
+                "id": "e8a5f6a0-e9a2-47a2-b8ed-f38f4e92b927",
+                "value": "The Committee on Public Undertakings",
+                "correct": false
+            },
+            {
+                "id": "e8b113ee-7f4a-4231-b6c2-d67475490b79",
+                "value": "The Committee an Petitions",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "e95d063e-faf1-406b-800e-b83749f08a1d",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth?\n\n1. Volcanic action\n\n2. Respiration\n\n3. Photosynthesis\n\n4. Decay of organic matter\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "3281a451-20b5-40bf-9230-bed54adb063d",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "a6ec425c-6276-41ec-8df7-76ce5f9b3f5b",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "4a01c9ba-be4c-4785-a313-93cd2bd4191b",
+                "value": "1, 2 and 4 only",
+                "correct": true
+            },
+            {
+                "id": "a4ff9235-7cfe-48f5-af62-4cd4f0a8e435",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "cc5ae1be-d028-4537-95d3-970f0239e31e",
+        "explanation": ""
+    },
+    {
+        "question": "If you walk through countryside, you are likely to see some birds stalking alongside the cattle to seize the insects disturbed by their movement through grasses. Which of the following is/are such bird/birds?\n\n1. Painted Stork\n\n2. Common Myna\n\n3. Black-necked Crane\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "34ed60cd-3160-4bb6-bf2d-d829cf92c08f",
+                "value": "1 and 2",
+                "correct": false
+            },
+            {
+                "id": "2c43637f-2c09-43e9-afa3-faa9b1afe3de",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "7c163233-9f72-4754-ba51-038c465ae6e8",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "45a31206-6586-436f-82c9-1d3ee1df2549",
+                "value": "3 only",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "85674a43-c1a5-46ee-910c-0b9904e06109",
+        "explanation": ""
+    },
+    {
+        "question": "In medieval India, the designations 'Mahattara' and 'Pattaklla' were used for",
+        "options": [
+            {
+                "id": "1cc729dc-e0c4-4fb6-a756-0f9e109490dd",
+                "value": "Military officers",
+                "correct": false
+            },
+            {
+                "id": "9a3604f5-1e63-4734-a63d-9e91bfc0de69",
+                "value": "Village headmen",
+                "correct": true
+            },
+            {
+                "id": "411a59b1-1646-41ea-b48a-5326621eb4ba",
+                "value": "Specialists in Vedic rituals",
+                "correct": false
+            },
+            {
+                "id": "cb495f39-e6ca-4da6-9226-ff415e58f4b4",
+                "value": "Chiefs of craft guilds",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "b2e16df6-e2f4-4a70-ada7-dbc7efc0775e",
+        "explanation": ""
+    },
+    {
+        "question": "Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a Symbiotic association of",
+        "options": [
+            {
+                "id": "c299cb39-01d4-4454-bb07-789e3d4388b6",
+                "value": "algae and bacteria",
+                "correct": false
+            },
+            {
+                "id": "837ae8f5-2029-4488-b6c3-62a80aca9462",
+                "value": "algae and fungi",
+                "correct": true
+            },
+            {
+                "id": "ecd14d44-7a51-4173-962a-04ebc1520957",
+                "value": "bacteria and fungi",
+                "correct": false
+            },
+            {
+                "id": "7c081540-c513-47f4-8c45-ca6f09711719",
+                "value": "fungi and mosses",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "d86166e4-30fa-4258-b839-82a767ba50a0",
+        "explanation": ""
+    },
+    {
+        "question": "If you travel through the Himalayas, you are likely to see which of the following plants naturally growing there?\n\n1. Oak\n\n2. Rhododendron\n\n3. Sandalwood\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "e08b46e3-cef6-4966-b3bf-b117a9843266",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "a0e26d77-627a-43b8-bd51-fc192e6053ca",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "f9dd23ea-fdca-40b2-8907-e14a8e03bd31",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "6aa55279-0c8e-4d73-8137-f18c128995d0",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "da1f269a-0234-4deb-85fe-fcd44f082a80",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following are some important pollutants released by steel industry in India?\n\n1. Oxides of sulphur\n\n2. Oxides of nitrogen\n\n3. Carbon monoxide\n\n4. Carbon dioxide\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "4ead594b-ab34-4887-8d4a-5d576078a26e",
+                "value": "1, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "6939083b-6c22-49df-916a-be89a3f44d08",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "bde9d960-ca0e-4384-8cf5-7fcbec12e995",
+                "value": "1 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "6d23c4e3-3084-4b6c-8ed2-abbb6e256fc1",
+                "value": "1, 2, 3 and 4",
+                "correct": true
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "7a611549-064b-4dc5-8549-149b203c1c98",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following Kingdoms were associated with the life of the Buddha?\n\n1. Avanti\n\n2. Gandhara\n\n3. Kosala\n\n4. Magadha\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "09744206-cf3b-43ab-a317-9fee7d2998ce",
+                "value": "1,2 and 3",
+                "correct": false
+            },
+            {
+                "id": "29dba9bd-5933-48ad-a2ef-5daabf6645f9",
+                "value": "2 and 4",
+                "correct": false
+            },
+            {
+                "id": "588cfcac-ec79-4c27-975d-230da27f71ea",
+                "value": "3 and 4 only",
+                "correct": true
+            },
+            {
+                "id": "4dd11eac-7fba-477e-9e30-f85ce5666bb3",
+                "value": "1, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "e645c74c-be49-4e05-9093-c107387d1f5f",
+        "explanation": ""
+    },
+    {
+        "question": "Every year, a month long ecologically important campaign/festival is held during which certain communities/ tribes plant saplings of fruit-hearing trees.\n\nWhich of the following are such communities/tribes?",
+        "options": [
+            {
+                "id": "b4df6358-790f-4d12-aad4-f152be209bff",
+                "value": "Bhutia and Lepcha",
+                "correct": false
+            },
+            {
+                "id": "172729b4-760c-4337-bca4-f71a66bb7e54",
+                "value": "Gond and Korku",
+                "correct": true
+            },
+            {
+                "id": "4a7a216f-1f95-4980-98d9-f2f64ac4a6ba",
+                "value": "Irula arid Toda",
+                "correct": false
+            },
+            {
+                "id": "5a65b835-60b8-4763-9605-1f599f2921e1",
+                "value": "Sahariya and Agariya",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "28cacd62-c3cd-4f2a-9518-b159108af9d1",
+        "explanation": ""
+    },
+    {
+        "question": "The sales tax you pay while purchasing a toothpaste is a",
+        "options": [
+            {
+                "id": "47bafd60-200c-45f7-8b7d-c4759670f7d4",
+                "value": "tax imposed by the Central Government",
+                "correct": false
+            },
+            {
+                "id": "18b53a28-09ce-459f-88c8-34589bba17e5",
+                "value": "tax imposed by the Centra] Government but collected by the State Government",
+                "correct": false
+            },
+            {
+                "id": "9f9e4ef1-2a5d-428a-bb4f-472206e4a8ee",
+                "value": "tax imposed by the State Government but collected by the Central Government",
+                "correct": false
+            },
+            {
+                "id": "b89bf680-6d73-4b41-8c46-69b84f16a409",
+                "value": "tax imposed and collected by the State Government",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "0c7395ea-54a5-4855-9b06-7dccb3347222",
+        "explanation": ""
+    },
+    {
+        "question": "What does venture capital mean?",
+        "options": [
+            {
+                "id": "344363b6-483f-4995-ab50-61f6af7c712a",
+                "value": "A short-term capital provided to industries",
+                "correct": false
+            },
+            {
+                "id": "1ac57088-f9d7-4ed6-b3f9-ddea9b991a86",
+                "value": "A long-term start-up capital provided to new entrepreneurs",
+                "correct": true
+            },
+            {
+                "id": "06f8ccc9-1d14-4a4f-9751-a89a89609ff7",
+                "value": "Funds provided to industries at rimes of incurring losses",
+                "correct": false
+            },
+            {
+                "id": "4117115c-fc03-48a2-9711-d891df63b7b9",
+                "value": "Funds provided for replacement and renovation of industries",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "c3fd2229-fb84-4454-afbb-475e2f133791",
+        "explanation": ""
+    },
+    {
+        "question": "The main objective of the 12th Five-Year Plan is",
+        "options": [
+            {
+                "id": "9e0f7b13-e5c4-4341-8503-bf97613e5b33",
+                "value": "inclusive growth and poverty reduction\t,",
+                "correct": false
+            },
+            {
+                "id": "74ff75f1-1d00-4d6b-b02d-d0b214944c39",
+                "value": "inclusive and sustainable growth",
+                "correct": false
+            },
+            {
+                "id": "f53f9ed3-b305-48de-b93c-d13d0a483a40",
+                "value": "sustainable and inclusive growth to reduce unemployment",
+                "correct": false
+            },
+            {
+                "id": "337ad429-af00-4b5d-9c79-fbbb67da9c39",
+                "value": "faster, sustainable and more inclusive growth",
+                "correct": true
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "d4ea818f-195f-4692-86ef-f71ade526dfd",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Balance of Payments, which of the following constitutes/constitute the Current Account?\n\n1. Balance of trade\n\n2. Foreign assets\n\n3. Balance of invisibles\n\n4. Special Drawing Rights\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "688f5b76-39b6-43b9-ba8d-348356d42de7",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "2bca87dd-cfea-40fc-a6fe-a4f936868d31",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "6e50d661-921a-4d36-9940-6251102e5a82",
+                "value": "I and 3",
+                "correct": true
+            },
+            {
+                "id": "3e10bfe7-d13e-4af8-bbae-23d3abb4db4a",
+                "value": "1, 2 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "6b4a1116-91a8-4f86-85ae-8745f46e8476",
+        "explanation": ""
+    },
+    {
+        "question": "The terms Marginal Standing Facility Rate and Net Demand and Time Liabilities sometimes appearing in news, are used in relation to",
+        "options": [
+            {
+                "id": "9b7aca19-1b58-41d0-8ceb-6da4e8270bad",
+                "value": "banking operations",
+                "correct": true
+            },
+            {
+                "id": "00a34521-4630-4f2d-ae01-e6d1e80ecad5",
+                "value": "communication networking",
+                "correct": false
+            },
+            {
+                "id": "b8b548f0-c351-4911-b767-d041727784da",
+                "value": "military strategies",
+                "correct": false
+            },
+            {
+                "id": "233cbfe8-6520-4815-a044-a83bafc66f5e",
+                "value": "supply and demand or agricultural products",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "81e9b6d7-d3b4-424a-ba74-d04a7b2fba14",
+        "explanation": ""
+    },
+    {
+        "question": "What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?\n\n1. It enables the beneficiaries to draw their subsidies and social security benefits in their villages.\n\n2. It enables the beneficiaries in the rural areas to make deposits and withdrawals.\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "0dce4696-7b56-4c7b-a5dc-4ca4b33cc247",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "6eeefa95-e569-43c6-95eb-32065ef41b40",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "704461ba-c753-40ae-a4f9-f5f25ff2fd67",
+                "value": "Both 1 and 2",
+                "correct": true
+            },
+            {
+                "id": "39fb1ff7-6d3b-43ab-9938-e9ff0dffe4d0",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "a6cee14b-25fd-4530-9d30-b453f6b424a3",
+        "explanation": ""
+    },
+    {
+        "question": "In the context of Indian economy, which of the following is/are the purpose/purposes of 'Statutory Reserve Requirements'?\n\n1. To enable the Central Bank to control the amount of advances the banks can create\n\n2. To make the people\u2019s deposits with banks safe and liquid\n\n3. To prevent the commercial banks from making excessive profits\n\n4. To force the banks to have sufficient vault cash to meet their day-to-day requirements\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "fce118f6-0709-4466-818c-69f530b2df74",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "2184eea5-09d7-44aa-90ee-26e2bd319f8d",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "16473c6e-264d-43d3-bebd-e829d8cdc99c",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "864ccb40-a276-41d3-a84a-885583777797",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "2b59808c-769a-481f-b1d8-2215cf7c8aa7",
+        "explanation": ""
+    },
+    {
+        "question": "Recently, a series of uprisings of people referred to as \u2018Arab Spring' originally started from",
+        "options": [
+            {
+                "id": "6c56f12b-0fda-4a49-9f3f-3c9463aa7ca0",
+                "value": "Egypt",
+                "correct": false
+            },
+            {
+                "id": "c75b82c6-627f-45fe-8710-0115de7e859a",
+                "value": "Lebanon",
+                "correct": false
+            },
+            {
+                "id": "4baf6dc0-6d59-4ee0-a276-7ba23448e7bf",
+                "value": "Syria",
+                "correct": false
+            },
+            {
+                "id": "6233b410-4b96-4b77-9b58-19df28f48358",
+                "value": "Tunisia",
+                "correct": true
+            }
+        ],
+        "category": [
+            "current_affairs"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "13ae6f50-948c-436b-893a-39034925f97d",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following countries .\n\n1. Denmark\n\n2. Japan\n\n3. Russian Federation\n\n4. United Kingdom \n\n5. United States of America\n\nWhich of the above are the members of the \u2018Arctic Council?",
+        "options": [
+            {
+                "id": "2fcb628d-1d91-4836-a7c7-a7813642aec2",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "be739be9-a4b9-4a39-bde0-438259ecaa24",
+                "value": "2, 3 and 4",
+                "correct": false
+            },
+            {
+                "id": "a6fcc39c-c2b2-459d-8174-3dd1c49dc488",
+                "value": "1, 4 and S",
+                "correct": false
+            },
+            {
+                "id": "f3d1cfad-fa6c-44fb-8fcb-8b0b209f8ac9",
+                "value": "1, 3 and S",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "5da6e57d-7833-469f-a50e-e6a9cb9ce1b3",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs : \nRegion often in news -- Country\n\n1. Chechnya : Russian Federation\n\n2. Darfur : Mali\n\n3. Swat Valley : Iraq\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "82be2e2f-52c3-4fe6-a794-09d35735bd0b",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "5ea31267-e829-4d8d-b0d4-7f2e48819d41",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "423e08f0-b676-4fc7-b100-36a3b2235582",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "1e48eda6-378c-441f-9790-df1eea82c8da",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "42f4c1f5-bff9-4c64-bbd2-22d66d4f33d7",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Agni - IV Missile, which of the following statements is/are correct?\n\n1. It is a surface-to-surface missile.\n\n2. It is fuelled by liquid propellant only.\n\n3. It can deliver one-tonne nuclear warheads about 7500 km away.\n\nSelect the correct answer using the code given below,",
+        "options": [
+            {
+                "id": "f624f2d1-c0a7-42e6-aa02-0194a4134dcf",
+                "value": "I only",
+                "correct": true
+            },
+            {
+                "id": "b9165592-0269-4088-b0c7-da445fd8af32",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "425e0649-484a-4e1c-a858-1e9e8e3352e0",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "42ca76d0-3bd3-454e-9ed1-ead7ebb3aa44",
+                "value": "1,2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "7e30d863-e3a9-4dfb-8460-f0fe19c632e4",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to two non conventional energy sources called 'coalbed methane' and \u2018shale gas', consider the following statements :\n\n1. Coal bed methane is the pure methane gas extracted from coal seams, while shale gas is a mixture of propane and butane only that can be extracted from fine-grained sedimentary rocks.\n\n2. In India, abundant coal bed methane sources exist, but so far no shale gas sources have been found.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "781a3748-e204-428a-a568-42d50e60c087",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "c7ccbac4-a4f3-4532-a375-d4fe58dbaba3",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "19db176b-a01b-45b0-a37b-bc6fc39e5cca",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "73e4ab4a-2a3a-467d-8d6b-7806411948f3",
+                "value": "Neither 1 nor 2",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "b188809d-106e-47fc-afe5-05bd06a368c0",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to 'Changpa' community of India, consider the following statements :\n\n1. They live mainly in the State of Uttarakhand.\n\n2. They rear the Pashmina goats that yield a fine wool.\n\n3. They are kept in the category of Scheduled Tribes.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "ac658aac-17cb-4dbd-8dda-6b48ad3b8359",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "70edde69-4d1a-41f1-9757-c2aac3d512a1",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "cc088bd4-4bc4-4109-97dc-8d2e6f5bf097",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "73043991-980c-4a3f-90dd-4ea26548ab50",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "98ca80fc-306b-42cb-9bd1-62de60c763ee",
+        "explanation": ""
+    },
+    {
+        "question": "In India, cluster bean (Guar) in traditionally used as a vegetable or animal feed, but recently the cultivation of this has assumed significance.\n\nWhich one of the following statements is correct in this context?",
+        "options": [
+            {
+                "id": "b67f0bc1-c6c0-4453-9d23-65aad461d092",
+                "value": "The oil extracted from seeds is used in the manufacture of biodegradable plastics",
+                "correct": false
+            },
+            {
+                "id": "fc07b329-a27d-4aee-8291-15158cc77b71",
+                "value": "The gum made from its seeds is used in the extraction of shale gas",
+                "correct": true
+            },
+            {
+                "id": "d2e2564b-c4dc-43be-a607-a68c769aa229",
+                "value": "The leaf extract of this plant has the properties of anti- histamines",
+                "correct": false
+            },
+            {
+                "id": "ad866be2-1e14-40df-9f94-e2da62608219",
+                "value": "It is a source of high quality biodiesel",
+                "correct": false
+            }
+        ],
+        "category": [
+            "current_affairs"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "58702d5e-b09e-4208-b7c9-d4ac182f7b95",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following have coral reefs?\n\n1. Andaman and Nicobar Islands\n\n2. Gulf of Kachchh\n\n3. Gulf of Mannar\n\n4. Sunderbans\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "5d751cb6-2d1d-474a-9a98-f54486e7da77",
+                "value": "1,2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "e451b3b2-69f7-4221-8b84-2898209e6e5a",
+                "value": "2 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "bba6fd14-5704-46a5-bf10-5478121a696b",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "d543dc03-c791-4c19-8a16-94363e5432c3",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "cca30f9b-e653-400d-904f-1f4021364503",
+        "explanation": ""
+    },
+    {
+        "question": "In India, the problem of soil erosion is associated with which of the following?\n\n1. Terrace cultivation\n\n2. Deforestation\n\n3. Tropical climate\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "f80858a9-6cf9-458c-ae19-7b73bcbddc51",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "240d44e2-1c9b-4865-b363-e7d41a539f96",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "12edf824-2eb9-4d07-8812-8e00e997ee4f",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "19bb0748-37ba-41fc-964b-ec6a590cb434",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "90d0f3a2-d04c-4e90-ad6f-e457d1f7142d",
+        "explanation": ""
+    },
+    {
+        "question": "The seasonal reversal of winds is the typical characteristic of",
+        "options": [
+            {
+                "id": "66e47c95-e6c5-409d-a253-ad8e4b2e7d92",
+                "value": "Equatorial climate",
+                "correct": false
+            },
+            {
+                "id": "ae7c1f08-ce8f-4747-bbcd-01324808da6c",
+                "value": "Mediterranean climate",
+                "correct": false
+            },
+            {
+                "id": "9168e26c-7ae6-41ce-9412-2a62650abf02",
+                "value": "Monsoon climate",
+                "correct": true
+            },
+            {
+                "id": "d1ec545e-f240-4b60-8b63-d88cccb2eb05",
+                "value": "All of the above climates",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "550655b8-1014-4a5b-9ed0-9ec7c70fc13d",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the cultural history of India, the term panchayatan refers to",
+        "options": [
+            {
+                "id": "dc89bde1-b87d-45cc-afab-aef665ad7bb7",
+                "value": "an assembly of village elders",
+                "correct": false
+            },
+            {
+                "id": "ad642b83-1098-4057-9a44-f4f662447cde",
+                "value": "a religious sect",
+                "correct": false
+            },
+            {
+                "id": "e9fdb43d-8763-47af-9a99-d6a13a6e29a8",
+                "value": "a style of temple construction",
+                "correct": true
+            },
+            {
+                "id": "05249dd1-a054-477d-aafb-b9fb90b1e0bf",
+                "value": "an administrative functionary",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "0c89f987-8eae-44f4-b692-86a1a4bbd7e0",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following rivers :\n\n1. Barak\n\n2. Lohit\n\n3. Subansiri\n\nWhich of the above flows/flow through Arunachal Pradesh?",
+        "options": [
+            {
+                "id": "bfcfbef7-791d-4fb1-bd54-02df71118d7d",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "be95f802-be84-4b0c-b030-dbd311fdbf0e",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "b14afc07-bf4f-4d8c-a10b-304c347232cc",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "2a9be1d3-87ca-42b4-a813-66386a3a576f",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "afb816e8-6386-45e1-be09-fa3d479ec079",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs :\nWetlands : Confluence of rivers\n\n1. Harike Wetlands : Confluence of Beas and Satluj/Sutlej\n\n2. Keoladeo Ghana National Park : Confluence of Banas and Chambal\n\n3. Kolleru Lake : Confluence of Musi and Krishna\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "bd5e2f84-7dac-47a3-8477-6d5aa0195649",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "d8b0ec4e-152a-4094-b3ca-3ffadd0b36d1",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "749ad994-c6c2-48e3-8d09-fc3ee08830f6",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "cdacffe4-c6aa-4fc1-9a32-4ba473d29008",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "587017b9-dc12-4372-97fc-a8b9b054f92b",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following pairs does not form part of the six systems of Indian Philosophy?",
+        "options": [
+            {
+                "id": "7ff217b5-56a1-47b1-ab87-cd0cd4af78e0",
+                "value": "Mimamsa and Vedanta",
+                "correct": false
+            },
+            {
+                "id": "91e634b1-616b-44c4-bd7c-65f384e68f04",
+                "value": "Nyaya and Vaisheshika",
+                "correct": false
+            },
+            {
+                "id": "390c58e8-708a-4c22-94f6-5cd374277696",
+                "value": "Lokayata and Kapalika",
+                "correct": true
+            },
+            {
+                "id": "4f9ebd0e-c879-410e-adb2-5e52b2e7ab9d",
+                "value": "Sankhya and Yoga",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "c5411b4c-40a3-4783-adf7-19fbdd0a7396",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the follwing pairs :\nHills : Region\n\n1 . Cardamom Hills : Coromandel Coast\n\n2. Kaimur Hills : Konkan Coast\n\n3. Mahadeo Hills : Central India\n\n4. Mikir Hills : North-East India\n\nWhich of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "40b86245-47c8-4edc-9a82-d51630ec86e4",
+                "value": "1 and 2",
+                "correct": false
+            },
+            {
+                "id": "f47d3a1f-40c3-4bc7-8b2c-199f9e392971",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "4c798b2f-8921-44d1-b520-cbdef9e46498",
+                "value": "3 and 4",
+                "correct": true
+            },
+            {
+                "id": "be8e0537-a17a-43b9-8a9f-a0600f53cd1f",
+                "value": "2 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "ab7e5b07-f740-49cb-ab27-07a13ad910a6",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following Schedule of the Constitution of India contains provisions regarding anti-defection?",
+        "options": [
+            {
+                "id": "323a46f5-723f-4e19-b15e-d734087e62f4",
+                "value": "Second Schedule",
+                "correct": false
+            },
+            {
+                "id": "0b47b0e3-4e08-4c84-b1dd-5a74d20de881",
+                "value": "Fifth Schedule",
+                "correct": false
+            },
+            {
+                "id": "4b4e153c-0263-48df-b335-203247ffbf17",
+                "value": "Eighth Schedule",
+                "correct": false
+            },
+            {
+                "id": "c1c8694f-a594-4771-a5b5-8d68aa9b08de",
+                "value": "Tenth Schedule",
+                "correct": true
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "58f1f72e-c6c7-4a10-93a6-1b1955ff0b6e",
+        "explanation": ""
+    },
+    {
+        "question": "The most important strategy for the conservation of biodiversity together with traditional human life is the establishment of",
+        "options": [
+            {
+                "id": "915f66dc-ea14-4681-b4d9-a061f2844892",
+                "value": "biosphere reserves",
+                "correct": true
+            },
+            {
+                "id": "ba0982d6-b78a-4377-b876-dd01f77d54b5",
+                "value": "botanical gardens",
+                "correct": false
+            },
+            {
+                "id": "ba013217-f6b5-4688-873a-f51df39983d8",
+                "value": "national parks",
+                "correct": false
+            },
+            {
+                "id": "1eae5419-2c82-425f-a138-c392d1103d51",
+                "value": "wildlife sanctuaries",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "71c9030f-94df-4041-be34-d780f4b3537a",
+        "explanation": ""
+    },
+    {
+        "question": "Turkey is located between",
+        "options": [
+            {
+                "id": "03d66fe2-8bba-4ee4-b8ea-1e0bd059cbcb",
+                "value": "Black Sea and Caspian Sea",
+                "correct": false
+            },
+            {
+                "id": "02a3cf5d-5792-4b3a-a477-79c412cea3c9",
+                "value": "Black Sea and Mediterranean Sea",
+                "correct": true
+            },
+            {
+                "id": "b30622e3-0d99-48a2-bbe3-7e5ffc7596b4",
+                "value": "Gulf of Suez and Mediterranean Sea",
+                "correct": false
+            },
+            {
+                "id": "d6d7ef86-865f-4b94-ba37-42bdaade5869",
+                "value": "Gulf of Aqaba and Dead Sea",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "6f015fdd-2ecb-4790-b634-1d8e44636183",
+        "explanation": ""
+    },
+    {
+        "question": "What is the correct, sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north?\n\n1. Bangkok\n\n2. Hanoi\n\n3. Jakarta\n\n4. Singapore\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "29d9c55f-38ad-4587-85cb-d69058566d4e",
+                "value": "4-2-1-3",
+                "correct": false
+            },
+            {
+                "id": "ea21d18f-7d69-487d-98a2-9c8078af7c2b",
+                "value": "3-2-4-1",
+                "correct": false
+            },
+            {
+                "id": "e9ddc2e3-95db-45b9-a819-f7dbd340df33",
+                "value": "3-4-1-2",
+                "correct": true
+            },
+            {
+                "id": "84146521-f9e9-4a68-9eb3-b5f2fae58064",
+                "value": "4-3-2-1",
+                "correct": false
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "5ef625d6-0c73-404c-bdd0-3d1576407db5",
+        "explanation": ""
+    },
+    {
+        "question": "The scientific view is that the increase in global temperature should not exceed 2\u00b0C above pre-industrial level. If the global temperature increases beyond 3\u00b0C above the pre-industrial level, what can be its possible impact/ impacts on the world?\n\n1. Terrestrial biosphere tends toward a net carbon source.\n\n2. Widespread coral mortality Will occur.\n\n3. All the global wetlands will permanently disappear.\n\n4. Cultivation of cereals will not be possible anywhere in the world.\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "4b050406-1986-4268-b4e7-64f4d7806515",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "9b7e701c-d9b9-4d70-8d6e-e0b3b29c7dd2",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "edff77e1-95b9-49e6-b849-739cb8726800",
+                "value": "2, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "08a8182d-354e-4072-ba69-60f8dda16eb5",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "b5650499-6495-4ef9-af3b-6d61f6f4a686",
+        "explanation": ""
+    },
+    {
+        "question": "The national motto of India, \u2018Satyameva Jayate\u2019 inscribed below the Emblem of India is taken from",
+        "options": [
+            {
+                "id": "6474b657-3a00-4aec-bc6e-bd73e99b219e",
+                "value": "Katha Upanishad",
+                "correct": false
+            },
+            {
+                "id": "b2debd0f-dd6c-40e5-8f84-3de0fe5d2a86",
+                "value": "Chandogya Upanishad",
+                "correct": false
+            },
+            {
+                "id": "1484a5a8-3716-4fe5-8cd3-52aa92243e91",
+                "value": "Aitareya Upanishad",
+                "correct": false
+            },
+            {
+                "id": "48de46af-63fa-4e4e-9728-a463a32bd02f",
+                "value": "Mundaka Upanishad",
+                "correct": true
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "6b6d191d-67f5-46c1-8f53-7aa687b132cd",
+        "explanation": ""
+    },
+    {
+        "question": "In the Constitution of India, promotion of international peace and security is included in the",
+        "options": [
+            {
+                "id": "1a39706c-c831-4b4d-b63c-e77790a96e9a",
+                "value": "Preamble to the Constitution",
+                "correct": false
+            },
+            {
+                "id": "7e7400a6-3226-4c6f-9cf9-cc8341cd32ff",
+                "value": "Directive Principles of State Policy",
+                "correct": true
+            },
+            {
+                "id": "8e79a0bf-1cfb-4d6a-83f0-66e2d604c46c",
+                "value": "Fundamental Duties",
+                "correct": false
+            },
+            {
+                "id": "1c001a06-ef90-41f5-8485-5982b70a21bc",
+                "value": "Ninth Schedule",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "37f93d5b-f9d1-4b1f-a9fe-5e12404e8290",
+        "explanation": ""
+    },
+    {
+        "question": "What are the benefits of implementing the 'Integrated Watershed Development Programme'?\n\n1. Prevention of soil runoff\n\n2. Linking the country\u2019s perennial rivers with seasonal rivers\n\n3. Rainwater harvesting and recharge of groundwater table\n\n4. Regeneration of natural vegetation\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "1f098701-d5db-4e15-9ae5-03e15cdc9abf",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "541bf2f8-e804-4d42-a870-7af1c41ce402",
+                "value": "2, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "40806370-c7bc-4256-bc09-2818732500f1",
+                "value": "1, 3 and 4 only",
+                "correct": true
+            },
+            {
+                "id": "4d6ef83f-6ba6-4e5c-a4a3-eba6ba9c2d5c",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "10faafa6-1a2e-4f62-95bc-f55b76d0b127",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following are associated with Planning in India?\n\n1. The Finance Commission\n\n2. The National Development Council\n\n3. The Union Ministry of Rural Development\n\n4. The Union Ministry of Urban Development \n\n5. The Parliament\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "a88434f8-36e3-4fcb-848c-bb1d1303d51e",
+                "value": "1, 2 and 5 only",
+                "correct": false
+            },
+            {
+                "id": "946c7bcf-597b-46c5-b308-c9c8c4b58578",
+                "value": "1,3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "44a27d0d-1fba-4db1-a471-489eede5948f",
+                "value": "2 and 5 only",
+                "correct": true
+            },
+            {
+                "id": "93d04cc5-7695-456d-af13-4f1d94e30964",
+                "value": "1, 2, 3, 4 and 5",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "60333062-aa79-4323-b5ae-50df3cb4c017",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following is/are the function/functions of the Cabinet Secretariat?\n\n1. Preparation of agenda for Cabinet Meetings\n\n2. Secretarial assistance to Cabinet Committees\n\n3. Allocation of financial resources to the Ministries\n\nSelect the correct answer using the code given below,",
+        "options": [
+            {
+                "id": "99a4ed8c-c0c0-487a-8432-6023f7a5dda7",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "6a13a2c5-9546-47ad-8059-144035755ba4",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "c7642ae2-24c0-4c1c-af71-17fca3843d66",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "96504a9b-0c71-47b6-8a63-66fc72471fa5",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "73dc8cca-1e70-44cf-ba4c-062d35dfb939",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: A Constitutional Government is one which\n\n1. Places effective restrictions on individual liberty in the interest of State Authority\n\n2. Places effective restrictions on the Authority of the State in the interest of individual liberty\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "1c7837e1-1872-4f3b-9a36-22e0bc81a058",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "3b720775-be0e-4c5d-9bd3-5c1ac7e0a381",
+                "value": "2 only",
+                "correct": true
+            },
+            {
+                "id": "991162ea-3a49-4bd2-a816-29e895f5df6b",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "02006fa7-3b54-4498-ae3f-19904f03c1f1",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "8d936978-621f-4805-a996-6869942556d4",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following are the discretionary powers given to the Governor of a State?\n\n1. Sending a report to the President of India for imposing the President\u2019s rule\n\n2. Appointing the Ministers\n\n3. Reserving certain bills passed by the State Legislature for consideration of the President of India\n\n4. Making the rules to conduct the business of the State Government\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "9e3ef986-7932-46d0-8daa-ec9cb9b20adf",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "c3491474-570d-48de-904c-69566272c401",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "d639955b-efb6-47d7-a1a4-294ed2b7fd03",
+                "value": "2, 3 and 4 only",
+                "correct": false
+            },
+            {
+                "id": "653c6177-eb5e-436a-bc28-8ec285a0ba1a",
+                "value": "1, 2, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "5ee4bd59-a663-49c2-beca-1228a5b2c0b9",
+        "explanation": ""
+    },
+    {
+        "question": "If the interest rate is decreased in an economy, it will",
+        "options": [
+            {
+                "id": "9b136c26-8f08-4a49-8c9b-8293c5d5f3a6",
+                "value": "decrease the consumption expenditure in the economy",
+                "correct": false
+            },
+            {
+                "id": "101b6b5f-89e6-47f0-9e67-7dbf341540e8",
+                "value": "increase the tax collection of the Government",
+                "correct": false
+            },
+            {
+                "id": "43717c57-7c16-4cc3-a345-817296df9829",
+                "value": "increase the investment expenditure in the economy",
+                "correct": true
+            },
+            {
+                "id": "4263e43b-4b6f-454f-b8cb-9220c0b53325",
+                "value": "increase the total savings in the economy",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "2e3e5354-efd2-4257-bcc8-e3756f61699f",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements :\n\n1. The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business\n\n2. All executive actions of the Government of India shall be expressed to he taken in the name of the Prime Minister.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "420ff5c8-8778-4a0e-b3d3-a6a15bd39bf6",
+                "value": "1 only",
+                "correct": true
+            },
+            {
+                "id": "0752ff42-bdb1-4fc5-9b80-7afe9ada1fd7",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "64b4b8bf-4a8f-4aec-ae7e-07bdc1d16014",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "513ffb95-57a2-4a74-abb4-f0a0e40d2794",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "e338b7e3-4da4-4c3d-bbb2-1cddf6c13995",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements regarding a No-Confidence Motion in India :\n\n1. There is no mention of a No-Confidence Motion in the Constitution of India.\n\n2. A Motion of No-Confidence can be introduced in the Lok Sabha only.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "70b7feaa-9410-42cd-b6b6-44152aa55d77",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "90e14abf-8601-45cd-8918-b411481da624",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "0a1566b4-fc63-4ba4-ba1d-e1d0e9c8e869",
+                "value": "Both 1 and 2",
+                "correct": true
+            },
+            {
+                "id": "868c8400-34b7-4b80-9b8e-b8e393a34a16",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "292625f2-f2ad-4ac3-9eb0-b8c5b00e61ba",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Neem tree, consider the following statements :\n\n1. Neem oil can he used as a pesticide to control the proliferation of some species of insects and mites.\n\n2. Neem seeds are used in the manufacture of biofuels and hospital detergents.\n\n3. Neem oil has applications in pharmaceutical industry.\n\nWhich of the Statements given above is/are correct?",
+        "options": [
+            {
+                "id": "47d93aa2-8855-4950-abe1-61b02e97f88e",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "c70c972b-37e3-4344-8909-cc5279c2d9e1",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "29654e09-623b-40b7-9723-d7b496140a47",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "71ef0dd6-921e-46ec-8607-29ebcf027feb",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "5625b90e-32f1-4081-8bc9-c165b6c586ef",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following is the process involved in photosynthesis?",
+        "options": [
+            {
+                "id": "0c9370d4-e5c3-4efb-875b-242b37372709",
+                "value": "Potential energy is released to form free energy",
+                "correct": false
+            },
+            {
+                "id": "63f16e15-8ef3-4c68-bce8-141d5e5a98a0",
+                "value": "Free energy is converted into potential energy and stored",
+                "correct": true
+            },
+            {
+                "id": "6630fbe4-cf1a-40ea-bc11-ff8e643eb3b7",
+                "value": "Food is oxidized to release carbon dioxide and water",
+                "correct": false
+            },
+            {
+                "id": "7cf8b99f-817f-4125-9d7b-a8c190355148",
+                "value": "Oxygen is taken, and carbon dioxide and water vapour are given out",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "92127cb2-8863-4e4a-aa60-3030d17dca73",
+        "explanation": ""
+    },
+    {
+        "question": "In addition to fingerprint scanning, which of the following can be used in the biometric identification of a person?\n\n1. Iris scanning\n\n2. Retinal scanning\n\n3. Voice recognition\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "950beeef-7a9c-4132-bd30-ff3a65a5889d",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "ead0d5e6-dc1f-44f4-8e5a-3810316ce094",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "6fbabc5d-0d12-42cf-b4e9-e7e5f12086f8",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "1a510888-dffa-48f1-9ba4-625add474425",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "a3cc96ae-1520-4131-acfe-cb82087b567a",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following statements is/are correct regarding vegetative propagation of plants?\n\n1. Vegetative propagation produces clonal population.\n\n2. Vegetative propagation helps in eliminating the virus.\n\n3. Vegetative propagation can be practiced most of the year\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "9ab28f96-0969-4e7f-9a69-050a375d7521",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "a7c31357-6fd6-40e8-8d7d-87b5f4ba95cc",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "361900ca-d93d-4df6-889d-b6e3fe58a798",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "8211d56c-56fb-4017-9f9f-b5ec84cb77b1",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "bdd43fbd-f3c4-4dc7-b92f-7a57b120b806",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following pairs is/are correctly matched? \nSpacecraft : Purpose\n\n1. Cassini-Huygens : Orbiting the Venus and transmitting data to the Earth\n\n2. Messenger : Mapping and investigating the Mercury\n\n3. Voyager 1 and 2 : Exploring the outer solar system\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "c2b9fb32-c786-4552-973b-bfc42e692307",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "af1979f6-2e36-4048-8164-29e3506bd9a6",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "3c1d3ef4-15dd-44bc-8d89-852f72d63e7c",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "22bf2f36-3f97-41e8-a3cd-c9db0f94aac1",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "f8b908b8-02da-4a54-a85e-1eb39b98761c",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs : \nRegion : Well known for the production of\n\n1. Kinnaur : Areca nut\n\n2. Mewat : Mango\n\n3. Coromandel : Soya bean\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "4d9d4637-1ccf-414a-a7c4-28d6536f0665",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "21b2c73c-0c2e-4664-b271-495d4d228357",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "27f9db77-c23e-474a-96cd-88cb25098a3a",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "a0ee55f9-1a60-45a2-9409-3060de0711cc",
+                "value": "None",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "4885bd27-1d0c-4b1a-889e-82727f7fd868",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following is/are the example/examples of chemical change?\n\n1. Crystallization of sodium chloride\n\n2. Melting of ice\n\n3. Souring of milk\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "03fa3a66-7bff-4f84-b211-ffabe04b90ec",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "478cec71-00f7-4986-b6f0-3b82dfb9c6f7",
+                "value": "3 only",
+                "correct": true
+            },
+            {
+                "id": "7e49678a-ea19-44c6-a31e-383c9847ecd3",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "6aead657-6a97-4d0b-bd80-0d631d4e4bde",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "620f89d4-c355-498b-93ec-6f6c10513cc3",
+        "explanation": ""
+    },
+    {
+        "question": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its",
+        "options": [
+            {
+                "id": "5ae2db38-3461-400e-9283-8cd3062aa7dc",
+                "value": "advisory jurisdiction",
+                "correct": false
+            },
+            {
+                "id": "520d25eb-6f87-4b8c-8cd9-729ab87075c2",
+                "value": "appellate jurisdiction",
+                "correct": false
+            },
+            {
+                "id": "de20507e-5528-4521-8676-f8af29295e08",
+                "value": "original jurisdiction",
+                "correct": true
+            },
+            {
+                "id": "d9836a6f-9dc5-4b2e-8462-c702a1112efe",
+                "value": "writ jurisdiction",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "e5c745e1-f8bc-49fc-97e7-561b0825b833",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following techniques/phenomena :\n\n1. Budding and grafting in fruit plants\n\n2. Cytoplasmic male sterility\n\n3. Gene silencing\n\nWhich of the above is/are used to create transgenic crops?",
+        "options": [
+            {
+                "id": "405181b0-fc4a-4cce-a3d7-0d1630e629d6",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "e8a4060a-ac68-4d4e-b13a-e0ce12d45651",
+                "value": "2 and 3",
+                "correct": true
+            },
+            {
+                "id": "d23366d6-afe4-4baf-a541-f7499d97edc1",
+                "value": "1 and 3",
+                "correct": false
+            },
+            {
+                "id": "fd3f4da3-553e-4948-abf1-51fecc8bc788",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "85bb4c25-d824-4e97-ade4-b9ff684d38f4",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements :\n\n1. Maize can be used for the production of starch.\n\n2. Oil extracted from maize can be a feedstock for biodiesel.\n\n3. Alcoholic beverages can be produced by using maize.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "a6fe9ee6-8fdb-4fe9-8d19-3362163fa4c1",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "3e286a6c-1016-402c-8734-ee38a658b574",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "f8a1acf9-b5cf-4520-ad62-c868610c39e6",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "839fd541-8c94-419e-bed7-a631b9dac413",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "43465eb9-f450-4ef6-b8a0-2be24d1a3910",
+        "explanation": ""
+    },
+    {
+        "question": "Among the following organisms, which one does not belong to the class of other three?",
+        "options": [
+            {
+                "id": "a1ab69cd-8470-4940-849d-54c5bcfc3e16",
+                "value": "Crab",
+                "correct": true
+            },
+            {
+                "id": "dde63aad-25da-4ee2-b1b4-4e181a612922",
+                "value": "Mite",
+                "correct": false
+            },
+            {
+                "id": "6cec21bd-868c-4073-83e1-9b6be6ff1967",
+                "value": "Scorpion",
+                "correct": false
+            },
+            {
+                "id": "366d37b7-d770-4e52-9d2e-1259cada28fd",
+                "value": "Spider",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "c390a9c0-e96f-45fc-994d-53fda43eaff2",
+        "explanation": ""
+    },
+    {
+        "question": "The power to increase the number of judges in the Supreme Court of India is vested in",
+        "options": [
+            {
+                "id": "e06fbc96-37f2-48b5-8239-32adc0e13f64",
+                "value": "the President of India",
+                "correct": false
+            },
+            {
+                "id": "96e48d25-b0bd-4a32-b311-f799fc55deea",
+                "value": "the Parliament",
+                "correct": true
+            },
+            {
+                "id": "5f93fca3-852b-43d5-8606-c01c9b66eea7",
+                "value": "the Chief Justice of India",
+                "correct": false
+            },
+            {
+                "id": "2332d022-da4b-4363-ac6d-43add7a41075",
+                "value": "the Law Commission",
+                "correct": false
+            }
+        ],
+        "category": [
+            "polity"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "d0d95a5a-9dff-4d6b-ad9c-26a006ed9e60",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following towns of India :\n\n1. Bhadrachalam\n\n2. Chanderi\n\n3. Kancheepuram\n\n4. Karnal\n\nWhich of the above are famous for the production of traditional sarees/fabric?",
+        "options": [
+            {
+                "id": "8d855746-c4cf-4b5e-9953-554368d3242f",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "a9dcf218-0d7a-4e73-b76e-73d4e6bab474",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "563b6217-454a-4d64-ab24-e71b30b2ae5e",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "d2f2257d-b351-4335-810c-9d108c643d71",
+                "value": "1, 3 and 4",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "da4c021d-f87e-4c96-85db-48e34a5a5966",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs : \nNational Highway : Cities connected\n\n1. NH 4 : Chennai and Hyderabad\n\n2. NH 6 : Mumbai and Kolkata\n\n3. NH 15 : Ahmedabad and Jodhpur\n\nWhich of the above pairs is/are correctly matched?",
+        "options": [
+            {
+                "id": "8004382b-6b55-4480-9509-f20244788cea",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "4e66417a-26ee-4b1a-9423-316b2f309760",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "51858838-af65-452e-af5d-e3a995645e0b",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "5a594b07-d04d-425a-992d-b48fec2bb0f0",
+                "value": "None",
+                "correct": true
+            }
+        ],
+        "category": [
+            "geography"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "4b6df3a0-1a68-4ecd-b54d-7d64f58dd743",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following international agreements :\n\n1. The International Treaty on Plant Genetic Resources for Food and Agriculture\n\n2. The United Nations Convention to Combat Desertification\n\n3. The World Heritage Convention\n\nWhich of the above has /have a bearing on the biodiversity?",
+        "options": [
+            {
+                "id": "f8c2b7fe-d124-4391-85c3-ffcf5db3e068",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "3aea4e05-5199-4442-a956-2fb5604cefbe",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "c4f37dc4-be74-4e4c-a27f-e7c203575c1c",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "37849dd9-be6b-4453-ab95-78810ab75579",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "8bf2c904-12bb-469f-8119-7b27d9ab3417",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements regarding Earth Hour :\n\n1. It is an initiative of UNEP and UNESCO.\n\n2. It is a movement in which the participants switch off the lights for one hour on a certain day every year.\n\n3. It is a movement to raise the awareness about the climate change and the need to save the planet.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "29c3403a-3a72-422d-aa7f-ccf230ee3180",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "92881d12-e79f-44bb-8616-940409f79b94",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "db3526e8-8da3-40f2-ba01-9379f25da5c3",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "54dbd7bc-960d-4cef-92df-0fd96da54e4a",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "66756e59-cb2d-4914-8b62-793a88ecb228",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following is the correct sequence of a food chain?",
+        "options": [
+            {
+                "id": "5697b5e8-28d5-4467-b510-b320665429fa",
+                "value": "Diatoms-Crustaceans-Herrings",
+                "correct": true
+            },
+            {
+                "id": "3f9d687b-8c2a-4a20-b50e-dc43ef5dbc9e",
+                "value": "Crustaceans-Diatoms-Herrings",
+                "correct": false
+            },
+            {
+                "id": "73fed3e3-0941-46e0-aa9b-fa7ba0175c44",
+                "value": "Diatoms-Herrings-Crustaceans",
+                "correct": false
+            },
+            {
+                "id": "20df5217-8dcf-4287-8129-e1345d11eb43",
+                "value": "Crustaceans-Herrings-Diatoms",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "2e63f6b5-4ef8-4b16-a130-01c51bc631d4",
+        "explanation": ""
+    },
+    {
+        "question": "The Partition of Bengal made by Lord Curzon in 1905 lasted until",
+        "options": [
+            {
+                "id": "e87ae65e-4fd0-4b8c-a1b2-150cf3feac51",
+                "value": "the First World War when Indian troops were needed by the British and the partition was ended",
+                "correct": false
+            },
+            {
+                "id": "9f928863-fa03-4274-b8e0-ff9368a48243",
+                "value": "King George V abrogated Curzons Act at the Royal Durbar in Delhi in 1911",
+                "correct": true
+            },
+            {
+                "id": "7adc1363-8993-4efe-a4a0-2a07f8f55c13",
+                "value": "Gsndhiji launched his Civil Disobedience Movement",
+                "correct": false
+            },
+            {
+                "id": "81964982-466f-46e7-9afc-3afe1222a72f",
+                "value": "when East Bengal became East Pakistan",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "af2cc834-5033-4b15-b25a-e8dc620321a2",
+        "explanation": ""
+    },
+    {
+        "question": "The 1929 session of Indian National Congress is of significance in the history of the Freedom Movement because the",
+        "options": [
+            {
+                "id": "69f05f31-0582-4d2e-9384-f27358f1cef1",
+                "value": "attainment of Self-Government was declared as the objective of the Congress",
+                "correct": false
+            },
+            {
+                "id": "db2ec162-ee0c-4ccf-bf4c-bc9e76294da6",
+                "value": "attainment of Poorna Swaraj was adopted as the goal of the Congress",
+                "correct": true
+            },
+            {
+                "id": "0d15864c-a076-4558-8755-8f64c6d39a60",
+                "value": "Non-Cooperation Movement was launched",
+                "correct": false
+            },
+            {
+                "id": "9d2ae142-9746-414e-96ec-910aa1e70bc6",
+                "value": "decision to participate in the Round Table Conference in London was taken",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "d75e6ae6-2db5-453a-b32a-47e9448a08f0",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the famous Sattriya dance, consider the following statements :\n\n1. Sattriya is a combination of music, dance and drama\n\n2. It is a centuries-old living tradition of Vaishnavites of Assam.\n\n3. It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir and Mirabai.\n\nWhich of the statements given Above is/are correct?",
+        "options": [
+            {
+                "id": "f9e6ad77-b429-4b69-81e1-3ed4e5ff421d",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "4ba032b0-c78d-430b-999e-5a1ccb1068e7",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "9d9a8dbd-021c-4c3a-9b91-096caa314f81",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "db8e674b-750c-40d3-88a7-7c6e99d2c83b",
+                "value": "1,2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "5a3a0eb2-735f-4d73-90dc-0cc824b10146",
+        "explanation": ""
+    },
+    {
+        "question": "Chaitra 1 of the national calendar based on the Saka Era corresponds to which one of the following dates of the Gregorian calendar in a normal year of 365 days?",
+        "options": [
+            {
+                "id": "a2ea9f90-9dbc-4804-85d5-2b33a7fa5abd",
+                "value": "22nd March (or 21st March)",
+                "correct": true
+            },
+            {
+                "id": "f1f7b78d-674b-4f9d-92ea-c3278f70cc8f",
+                "value": "15th May (or 16th May?",
+                "correct": false
+            },
+            {
+                "id": "9ab299fa-bf17-4205-a28c-bc1a594d699d",
+                "value": "31st March (or 30th March}",
+                "correct": false
+            },
+            {
+                "id": "99c9570e-5a1c-40cc-8ef8-10b97186e109",
+                "value": "21st April (or 20th April)",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596756,
+        "id": "09882a06-1660-4002-98c0-b65cea7a6c9d",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the Indian history of art and culture, consider the following pairs. \nFamous work of sculpture : Site\n\n1. A grand image of Buddha's Mahaparinirvana with numerous celestial musicians above and the sorrowful figures of his followers below : Ajanta\n\n2. A huge image of Varaha Avatar (boar incarnation) of Vishnu, as he rescues Goddess Earth from the deep and chaotic waters, sculpted on rock : Mount Abu\n\n3. Arjunas Penance Descent of Ganga sculpted on the surface of huge boulders : Mamallapuram\n\nWhich of the pairs given above is/are correctly matched?",
+        "options": [
+            {
+                "id": "76981117-4807-4017-aa50-38a21bc8a11b",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "e592c840-7362-4fda-9edd-3bf89b03c356",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "4994e8a1-940c-4d7e-906f-917154607243",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "1442f941-99cc-4a9f-a84d-55adfa0339c6",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "c2da57c2-ac1e-47b7-82da-9888602e9ea4",
+        "explanation": ""
+    },
+    {
+        "question": "The Ghadr (Ghadar) was a",
+        "options": [
+            {
+                "id": "f80a5eaa-d291-4651-9c69-eaf0ec42ea03",
+                "value": "revolutionary association of Indians with headquarters at San Francisco",
+                "correct": true
+            },
+            {
+                "id": "485987e8-3b3a-4be2-8979-b40b910f9109",
+                "value": "nationalist organization operating from Singapore",
+                "correct": false
+            },
+            {
+                "id": "4b1ed0c4-f15e-4609-90a3-9e6faa20dbdb",
+                "value": "militant organization with headquarters at Berlin",
+                "correct": false
+            },
+            {
+                "id": "5652f63c-a3fa-4f92-9e49-8e284cd3f2ac",
+                "value": "communist movement for India's freedom with head quarters at Tashkent",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "68711ba4-1a2d-42cf-957e-3f53c6bfa512",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to India\u2019s culture and tradition, what is Kalaripayattu?",
+        "options": [
+            {
+                "id": "9ab56116-e1d9-4d16-91a1-02eca2493004",
+                "value": "It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India",
+                "correct": false
+            },
+            {
+                "id": "50eabe02-8af9-41e5-a767-c7ebe4cefb9e",
+                "value": "It is an ancient style bronze and brasswork still found in southern part of Coromandel area",
+                "correct": false
+            },
+            {
+                "id": "50058315-876f-4f89-b7b6-0c2debb6a8f9",
+                "value": "It is an ancient form of dance-drama and a living tradition in the northern part of Malabar",
+                "correct": false
+            },
+            {
+                "id": "3a079bea-bcee-4f94-9df9-bea111c1b1fa",
+                "value": "It is an ancient martial art and a living tradition in some parts of South India",
+                "correct": true
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "cabef136-d59b-4b76-bf10-2621949c72ee",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs :\n\n1. Garba : Gujarat\n\n2. Mohiniattam : Odisha\n\n3. Yakshagana : Karnataka\n\nWhich of the pairs given above is/are correctly matched?",
+        "options": [
+            {
+                "id": "3ac15766-a7f2-4877-8f5d-c0e490210a4e",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "e57a430b-47bd-479f-8233-340593410aa6",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "67adbfbf-5f3e-4320-8b84-6e6ad629c105",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "d9648cde-bd4e-41ba-9eca-f9a78f7d417d",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "57e19a60-ba21-4216-89c3-05cc79197055",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Buddhist history, tradition and culture in India, consider the following pairs. \nFamous shrine : location\n\n1. Tabo monastery and temple complex : : Spiti Valley\n\n2. Lhotsava Lhakhang templer Nako : Zanskar Valiev\n\n3. Alchi temple complex : Ladakh\n\nWhich of the pairs given above is/are correctly matched?",
+        "options": [
+            {
+                "id": "ab0866a5-e098-430d-8cf6-7db9b9fac43e",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "f0dd474c-4249-4e00-abde-010f17800420",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "a49c31a9-d501-41d6-be57-1e979416e1e5",
+                "value": "1 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "91a2af78-4cb9-4ed6-811a-f0955a656767",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "873c0fbb-597c-434b-9713-62be6a6410e5",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements :\n\n1. 'Bijak' is a composition of the teachings of Saint Dadu Dayal.\n\n2. The Philosophy of Pushti Marg was propounded by Madhvacharya.\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "0b009a03-99db-4e27-9119-7ee2e4d4f895",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "f5713392-185c-4405-b519-4967f1835c93",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "af4fddeb-44b4-46cc-9223-1c8b3398d280",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "47359e7f-a600-42df-92a4-5a5c8d6da039",
+                "value": "Neither 1 nor 2",
+                "correct": true
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "0a3c2402-360e-41ed-9e75-c8bd7183e093",
+        "explanation": ""
+    },
+    {
+        "question": "A community of people called Manganiyars is well-known for their",
+        "options": [
+            {
+                "id": "152b78da-4d8c-438e-ae13-e2db3c625d58",
+                "value": "martial arts in North-East India",
+                "correct": false
+            },
+            {
+                "id": "7e6e7248-3b23-433f-ac26-03ed0a5745a1",
+                "value": "musical tradition in North-West India",
+                "correct": true
+            },
+            {
+                "id": "a4933659-2b8a-46f6-a3d1-81dc4f6c311c",
+                "value": "classical vocal music in South India",
+                "correct": false
+            },
+            {
+                "id": "43605d20-6d5f-470b-b077-85043a5a6cc5",
+                "value": "pictra dura tradition in Central India",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "69fbf19f-8ea5-4ac0-a58b-463c6e11b2f1",
+        "explanation": ""
+    },
+    {
+        "question": "What was/were the object /objects of Queen Victoria's Proclamation (1858)?\n\n1. To disclaim any intention to annex Indian States\n\n2. To place the Indian administration under the British Crown\n\n3. To regulate East India Company's trade with India\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "9afd4cab-2896-43a6-b504-c2a8ef218bcc",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "cb4360bf-b563-402a-8ad0-95d14d73094f",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "f1c190e5-680c-483c-84df-2414454f94a3",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "cfb14a11-72f8-4f79-8abf-39e28000bf25",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "history_modern"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "c1dfd782-e3e2-4e51-a003-c2141cbdb84e",
+        "explanation": ""
+    },
+    {
+        "question": "Ibadat Khana at Fatehpur Sikri was",
+        "options": [
+            {
+                "id": "f297c71c-f3c0-44ac-a34b-e11c54ee9e68",
+                "value": "the mosque for the use of Royal Family",
+                "correct": false
+            },
+            {
+                "id": "3881e206-c5f7-4c39-add2-f6088bb3be3a",
+                "value": "Akbar\u2019s private prayer chamber",
+                "correct": false
+            },
+            {
+                "id": "8be24252-d799-4b42-b338-1399a8ac3db7",
+                "value": "the hall in which Akbar held discussions with scholars of various religions",
+                "correct": true
+            },
+            {
+                "id": "b2b5dc89-80b8-4766-8025-5142b7151ff0",
+                "value": "the room in which the nobles belonging to different religions gathered to discuss religious affairs",
+                "correct": false
+            }
+        ],
+        "category": [
+            "art_n_culture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "3d7e10bd-2ebf-422b-8591-375ca9a5e7e9",
+        "explanation": ""
+    },
+    {
+        "question": "In the context of food and nutritional security of India, enhancing the 'Seed Replacement Rates' of various crops helps in achieving the food production targets of the future, But what is/are the constraint/ constraints in its wider/greater implementation?\n\n1. There is no National Seeds Policy in place.\n\n2. There is no participation of private sector seed companies in the supply of quality seeds of vegetables and planning materials of horticultural crops,\n\n3. There is a demand-supply gap regarding quality seeds in case of low value and high volume crops.\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "cc75c9eb-bcb6-4320-ac71-bcf11739e6ba",
+                "value": "1 and 2",
+                "correct": false
+            },
+            {
+                "id": "c1b0c0e0-1b9f-4e91-b0ed-ed3126dea495",
+                "value": "3 only",
+                "correct": true
+            },
+            {
+                "id": "d3fd2602-1ec2-4a2d-aeb3-1aaaf7bc03a3",
+                "value": "2 and 3",
+                "correct": false
+            },
+            {
+                "id": "e61736f4-f7f0-4cbb-80ce-229574bbee88",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "agriculture"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "a7e520cc-cf33-4a44-96a3-c5f5d097e996",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to 'Eco-Sensitive Zones', which of the following statements is/are correct?\n\n1. Eco-Sensitive Zones are the areas that are declared under the Wildlife (Protection) Act, 1972.\n\n2. The purpose of the declaration of Eco-Sensitive Zones is to prohibit all kinds of human activities in those zones except agriculture.\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "2ef81382-509a-4446-83a5-04b9cd654e46",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "58aac517-e706-49f4-855c-0f99c23890d5",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "9c14784d-4ee6-4cb0-8f61-bd605b0657ca",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "4f5c0195-3447-467b-90be-0ea5f04b6853",
+                "value": "Neither 1 nor 2",
+                "correct": true
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "551ead03-0032-4b9b-b155-74d98616f976",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements :\n\n1. Animal Welfare Board of India is established under the Environment (Protection) Act 1986.\n\n2. National Tiger Conservation Authority Is a statutory body,\n\n3. National Ganga River Basin Authority is chaired by the Prime Minister,\n\nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "7ee564a9-a67f-4447-8a73-da00f90805fd",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "b192ea81-ad5d-49d3-ba03-5f4eb48c5ca8",
+                "value": "2 and 3 only",
+                "correct": true
+            },
+            {
+                "id": "307ba28b-184a-4cfb-9dce-fcf2d3d88178",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "cb8a81e0-8b76-4767-a3d9-4aca7686e935",
+                "value": "1, 2 and 3",
+                "correct": false
+            }
+        ],
+        "category": [
+            "environment"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "fa7371b4-00a3-4619-8173-83af0735d0cb",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs : \nVitamin : Deficiency disease\n\n1. Vitamin C : Scurvy\n\n2. Vitamin D : Rickets\n\n3. Vitamin E : Night blindness\n\nWhich of the pairs given above is/art correctly matched?",
+        "options": [
+            {
+                "id": "3c239da9-463a-47cd-96db-fb33fbf72659",
+                "value": "1 and 2 only",
+                "correct": true
+            },
+            {
+                "id": "fb8b1f14-7c3a-4392-904c-78f0fb460eac",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "b05b73d7-5eb3-4786-8930-fced6b642fb5",
+                "value": "1, 2 and 3",
+                "correct": false
+            },
+            {
+                "id": "28d8543d-019d-4dbe-9db1-b06fd7dd6b95",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "6b0f1d06-4fdb-4537-ace0-b1c044f79fce",
+        "explanation": ""
+    },
+    {
+        "question": "There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why?\n\n1. They can accumulate in the environment, and contaminate water and soil.\n\n2. They can enter the food chains.\n\n3. They can trigger the production of free radicals.\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "a8d757df-6a5f-4f05-89f3-d3ab580a0a9d",
+                "value": "1 and 2 only",
+                "correct": false
+            },
+            {
+                "id": "0497800c-8d4a-497f-9a9d-897ba316d661",
+                "value": "3 only",
+                "correct": false
+            },
+            {
+                "id": "578bf3e0-5bd0-4ae5-8dd0-48f538c227f7",
+                "value": "1 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "dfeec6c9-8999-455f-a877-8a7022a0e888",
+                "value": "1, 2 and 3",
+                "correct": true
+            }
+        ],
+        "category": [
+            "science_n_technology"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "47857bff-9e11-476e-8ce5-1a0a13685062",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following organizations brings out the publication known as World Economic Outlook?",
+        "options": [
+            {
+                "id": "8a6d0d85-26ee-4d2f-b509-57b2605fe183",
+                "value": "The International Monetary Fund",
+                "correct": true
+            },
+            {
+                "id": "09044593-154c-4850-8985-69c83253dac0",
+                "value": "The United Nations development Programme",
+                "correct": false
+            },
+            {
+                "id": "ff6e49dc-1c18-4c5a-a428-9bc4dfc8337d",
+                "value": "The World Economic Forum",
+                "correct": false
+            },
+            {
+                "id": "61bea950-236b-4988-93ed-643059c552f3",
+                "value": "The World Bank",
+                "correct": false
+            }
+        ],
+        "category": [
+            "current_affairs"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "bdb75116-e5fb-4a86-a1d9-a8aa0caf8fa4",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Union Budget, which of the following is/are covered under Non-Plan Expenditure?\n\n1. Defence expenditure\n\n2. Interest payments\n\n3. Salaries and pensions\n\n4. Subsidies\n\nSelect the correct answer using the code given below.",
+        "options": [
+            {
+                "id": "bdea8099-6ec5-408c-bc3a-174745ac5850",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "919da224-cf6a-44cc-a8d9-9a4a01324a8a",
+                "value": "2 and 3 only",
+                "correct": false
+            },
+            {
+                "id": "b9bb3689-798c-4888-8225-2b6302cee234",
+                "value": "1, 2, 3 and 4",
+                "correct": true
+            },
+            {
+                "id": "9b4646f9-1f4e-4a45-8e3a-c5835cd27deb",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [
+            "economy"
+        ],
+        "difficulty": "",
+        "created_at": 1683812596757,
+        "id": "e7931d34-c90c-4fdb-847e-5c8a50606471",
+        "explanation": ""
+    }
+]

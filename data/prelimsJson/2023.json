@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "Consider the following statements:\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of Gandak River formed Kanwar Lake.\n\nHow many of the statements given above are correct?",
+        "options": [
+            {
+                "id": "bd90df25-90c2-48cf-956c-e8b1c75c51e4",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "abce55f0-c7de-4073-a67d-eabaa244538b",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "fe2661c0-de7f-4665-852f-c049e085c994",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "38027b34-d59b-47b2-bcc8-7895c5e5be12",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1691689200000,
+        "id": "f306e697-fdc1-4b04-b1c6-f86a44c77781",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs:\n\n| Port              | Well Known As                                       |\n|-------------------|-----------------------------------------------------|\n| Kamarajar Port    | First major port in India registered as a company   |\n| Mundra Port       | Largest privately owned port in India               |\n| Visakhapatnam Port| Largest container port in India                     |\n\nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "6a471a29-3f12-42da-8222-995304cdd88c",
+                "value": "Only one pair",
+                "correct": false
+            },
+            {
+                "id": "5a5610fc-4e96-4919-903d-a3fe0e4ed903",
+                "value": "Only two pairs",
+                "correct": false
+            },
+            {
+                "id": "9580fea9-dafb-4938-a53f-7586c5058b3c",
+                "value": "All three pairs",
+                "correct": false
+            },
+            {
+                "id": "5c567e92-a91f-420b-beef-ed91816b54a0",
+                "value": "None of the pairs",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1691689200000,
+        "id": "dfd50e05-e59f-4e95-8406-112c17315eab",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following trees:\n1. Jackfruit (Artocarpus heterophyllus)\n2. Mahua (Madhuca indica)\n3. Teak (Tectona grandis)\nHow many of the above are deciduous trees?",
+        "options": [
+            {
+                "id": "d00a916f-3543-4759-8d9a-d7969f51a288",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "68bb6290-33ae-49fe-be7a-3b8b92719aa4",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "7b710332-ae73-4ebe-b0ad-907a1c33c9d7",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "045b0333-ba9e-4a96-b22a-4727fc08a269",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1691689200000,
+        "id": "9ce59d5f-aa6c-4c8b-9a5a-f8c065b30f03",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements:\n1. India has more arable area than China.\n2. The proportion of irrigated area is more in India as compared to China.\n3. The average productivity per hectare in Indian agriculture is higher than that in China.\nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "f6409c2a-2f26-4caa-af71-776dc0ffe599",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "bde41192-be79-46a3-b4d7-8cd85e0515df",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "357d8e91-d1e9-4342-9fba-6692d2bb2c87",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "fe29a649-b88b-442a-b9d1-314274df0a05",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1691689200000,
+        "id": "db19b5df-0613-49e8-aab9-cab54999d5da",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following is the best example of repeated falls in sea level, giving rise to present-day extensive marshland?",
+        "options": [
+            {
+                "id": "d2d7716f-641e-4c7d-9c4c-16c0b6f72776",
+                "value": "Bhitarkanika Mangroves",
+                "correct": false
+            },
+            {
+                "id": "60b24203-3ef3-483a-be6a-bd356f35664a",
+                "value": "Marakkanam Salt Pans",
+                "correct": false
+            },
+            {
+                "id": "246df8fb-26d7-4861-bc98-590026f65309",
+                "value": "Naupada Swamp",
+                "correct": false
+            },
+            {
+                "id": "72451cc1-0a5b-45ce-aac3-c232609b6f96",
+                "value": "Rann of Kutch",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1691689200000,
+        "id": "1f34ba9b-9f18-4282-9331-eb36cf0d225c",
+        "explanation": ""
+    },
+    {
+        "question": "Ilmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following?",
+        "options": [
+            {
+                "id": "03bed9c4-1e1a-4a83-a9b0-0d1c287f5294",
+                "value": "Aluminium",
+                "correct": false
+            },
+            {
+                "id": "0cab326f-e54d-463b-ae70-bc3919161c44",
+                "value": "Copper",
+                "correct": false
+            },
+            {
+                "id": "6784b0f8-f764-4faf-9b04-981ac028b662",
+                "value": "Iron",
+                "correct": false
+            },
+            {
+                "id": "50603648-9b74-4158-a085-b8d6b5e2150e",
+                "value": "Titanium",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1691689200000,
+        "id": "91b83ed2-574c-4992-9eb8-afc9af71678c",
+        "explanation": ""
+    },
+    {
+        "question": "About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by",
+        "options": [
+            {
+                "id": "f875ace1-a8df-4440-a4f8-df808f4b6f70",
+                "value": "Argentina",
+                "correct": false
+            },
+            {
+                "id": "8a718378-6cff-42e5-a21e-5403410be311",
+                "value": "Botswana",
+                "correct": false
+            },
+            {
+                "id": "b7f57849-9119-459e-a325-b2fcb18016d2",
+                "value": "Democratic Republic of the Congo",
+                "correct": false
+            },
+            {
+                "id": "3c73436a-7e89-49c6-95aa-42916ad38a31",
+                "value": "Kazakhstan",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1691689200000,
+        "id": "e01bcc52-64f1-4357-8119-aa65fb709f55",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following is a part of the Congo Basin?",
+        "options": [
+            {
+                "id": "32573175-91c9-4c96-826e-9ae0c6a51fd5",
+                "value": "Cameroon",
+                "correct": false
+            },
+            {
+                "id": "55a4ba35-c7f7-444f-9319-c043e0dce1cf",
+                "value": "Nigeria",
+                "correct": false
+            },
+            {
+                "id": "28698705-b15b-48d0-9538-5b7b5681109c",
+                "value": "South Sudan",
+                "correct": false
+            },
+            {
+                "id": "9744eda9-0285-47cd-96b9-74cc25c2abb1",
+                "value": "Uganda",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "5ff705eb-ebb7-4dc5-b8db-ba9f951ec6e6",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges. \n2. Biligirirangan Hills constitute the easternmost part of Satpura Range. \n3. Seshachalam Hills constitute the southernmost part of Western Ghats. \nHow many of the statements given above are correct?",
+        "options": [
+            {
+                "id": "511dd63a-b1d2-40e8-8765-9891a35b394b",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "e031b382-581c-4dec-96f5-189ceba44aa6",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "1ca9c3e5-2e45-4970-b85c-8ad607b0f0ce",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "eedb7ac3-c834-4833-877a-30d51f1bab55",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "b61f2c70-ab27-474f-804d-ccde8e626a48",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to India's projects on connectivity, consider the following statements: \n1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat. \n2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar. \n3. Bangladesh-China-India-Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "b4f601aa-1778-423d-8c91-260d39775dbf",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "469ddfb5-1eed-470e-b8ec-ac8a501b5c8f",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "e0585115-cab1-48d6-b2d6-b94710f83a52",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "9c996330-4755-4145-a1ec-480a9e6ecd4f",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "ce661bb4-d950-471e-9c36-7b9456ec622c",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: India, despite having uranium deposits, depends on coal for most of its electricity production. \nStatement-II: Uranium, enriched to the extent of at least 60%, is required for the production of electricity. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "8a5a72bc-2dd7-4c0a-8115-9ad1e99eb283",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "87217895-5826-4a35-ad1d-904f65616049",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "d0e74850-c014-4770-92ae-b4947ad08874",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "abc46d0c-7d10-41fb-b9ce-10d257b9118e",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "5bff2164-cca2-4796-b903-0c0e9d64a4be",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: Marsupials are not naturally found in India. \nStatement-II: Marsupials can thrive only in montane grasslands with no predators. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "b11d3c2b-1fb6-48ce-96ab-0a8fbe747fbf",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "408165e8-405e-4617-ae7e-0f05c6824717",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "02f52dec-299e-4771-9219-b96d924e3b2e",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "4e61e9f1-bfa6-4258-9e7d-05e9cfc59c11",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "962c890d-c6f8-41e2-847d-6cdc844d89f6",
+        "explanation": ""
+    },
+    {
+        "question": "'Invasive Species Specialist Group' (that develops Global Invasive Species Database) belongs to which one of the following organizations?",
+        "options": [
+            {
+                "id": "e9d22282-353d-4c3d-b8e6-cc7da6e43630",
+                "value": "The International Union for Conservation of Nature",
+                "correct": false
+            },
+            {
+                "id": "54d65eed-6c5f-44dd-a506-e75e3684b7b7",
+                "value": "The United Nations Environment Programme",
+                "correct": false
+            },
+            {
+                "id": "4e874cc2-8d0d-435c-8401-72c29b45d7a3",
+                "value": "The United Nations World Commission for Environment and Development",
+                "correct": false
+            },
+            {
+                "id": "38207dec-e265-4c17-86a7-6d1281f3797b",
+                "value": "The World Wide Fund for Nature",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "e2ae25d4-60ea-4fe4-b5ee-d1c1102a396d",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following fauna: \n1. Lion-tailed Macaque \n2. Malabar Civet \n3. Sambar Deer \nHow many of the above are generally nocturnal or most active after sunset?",
+        "options": [
+            {
+                "id": "766323c5-75c5-4aa7-a9f2-550d2cb8a736",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "7d5bd781-93f5-45dc-bcb2-44326ba6846c",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "4d31cd2e-f50b-400a-8b30-80e660d11953",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "61c6a6c1-c7b6-4641-9456-2a8da4a9c6b8",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "8b8b0b3f-5025-4849-960c-82809d616252",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
+        "options": [
+            {
+                "id": "b8a499ed-e0f6-4d8e-bcb6-268ffa471d8a",
+                "value": "Butterflies",
+                "correct": false
+            },
+            {
+                "id": "7d9bba7c-c699-41df-bcff-7110aba0a971",
+                "value": "Dragonflies",
+                "correct": false
+            },
+            {
+                "id": "836d713e-fe0b-44cc-a94d-1f60729e3430",
+                "value": "Honeybees",
+                "correct": false
+            },
+            {
+                "id": "9caf5b59-cf2f-464b-b39e-b0a3e5944e8d",
+                "value": "Wasps",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "3c32e177-dc9d-401d-94de-0b46277f23c5",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. Some mushrooms have medicinal properties. \n2. Some mushrooms have psychoactive properties. \n3. Some mushrooms have insecticidal properties. \n4. Some mushrooms have bioluminescent properties. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "2ac75bc8-62a7-4a54-8324-470731b1c24a",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "525874e6-429c-41ad-8743-b2c070604c24",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "bfa45c93-2c7e-468f-b3d5-aa050d25eb32",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "e49ba52d-280f-437e-8053-9efe03e2d8b6",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "f9b1a0fc-caa9-4ce7-afd7-38c62a8bb128",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements regarding the Indian squirrels: \n1. They build nests by making burrows in the ground. \n2. They store their food materials like nuts and seeds in the ground. \n3. They are omnivorous. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "d1e71180-fd01-450a-b895-ae01695fed19",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "ea36d6dc-2c24-46fa-8590-2c29ac58faab",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "8fa1de70-1d4b-45d2-ad9a-7c6ac017f7c8",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "72437376-0089-4732-989d-90b856d992f5",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "8386c01e-ff57-4de5-bf8b-c7e8231605f3",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. Some microorganisms can grow in environments with temperature above the boiling point of water. \n2. Some microorganisms can grow in environments with temperature below the freezing point of water. \n3. Some microorganisms can grow in highly acidic environments with a pH below 3. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "e7d86aa8-ad4f-4e91-8b9e-349737bb63a3",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "b6ea4458-c6ee-43bf-a26e-30e06f80529d",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "8e987f78-4a6e-407c-af14-2d25f50c4543",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "1b65dfda-d6d1-429d-9c92-a0b2ae96de64",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "07bc8d9d-662b-42c5-bf8c-d3aabcc3af97",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?",
+        "options": [
+            {
+                "id": "8be5cfec-77c6-4646-999b-f1a272f01d3d",
+                "value": "Fishing cat",
+                "correct": false
+            },
+            {
+                "id": "01cdad09-0138-45f1-ad0a-e470054e158b",
+                "value": "Orangutan",
+                "correct": false
+            },
+            {
+                "id": "07e91a78-6017-488d-bdb1-644b2343618f",
+                "value": "Otter",
+                "correct": false
+            },
+            {
+                "id": "a2b2a6cc-e663-4ba5-9666-1e950c7d11ea",
+                "value": "Sloth bear",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "63323ef5-2cad-4a4d-8c6d-f7f5682b4f38",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following: \n1. Aerosols \n2. Foam agents \n3. Fire retardants \n4. Lubricants \nIn the making of how many of the above are hydrofluorocarbons used?",
+        "options": [
+            {
+                "id": "29b13e92-87f9-4f5a-ae76-478868a04efe",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "a54c47fe-d0e2-494b-abc7-7579ef82e278",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "d77cc1a4-1b7d-4bb8-b382-3b21f31e734d",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "f5726057-63aa-44c1-bf66-00d96d4eaca8",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "28c137c7-4620-4a00-b089-b3b9a7d3f852",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: Interest income from the deposits in Infrastructure Investment Trusts (InviTs) distributed to their investors is exempted from tax, but the dividend is taxable. \nStatement-II: InviTs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002'. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "e8dab8cc-94ea-48bb-b58b-b4e5bc001b94",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "481dfdbb-0a3f-4733-b8c4-1df28cd2bd6f",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "c4ef63df-a73c-4da1-a026-3efcf043ebaf",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "4e9d6d49-fc0a-42b2-ad4d-80d24cd338aa",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "48728814-b2aa-4df9-977a-10bf7c2f9323",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes. \nStatement-II: Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "2dd4ef99-13ad-4a4b-a581-b906ffc42a0b",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "cbcaad50-753b-48ef-8c67-98d12415ef3d",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "b2cd3f9a-ec03-4055-8ae3-eae5deb4319b",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "90e2ed2a-ac2e-4d39-ba68-d2d4268c2a8e",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "71488134-69a9-4924-a6ab-ba1cda626362",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: Carbon markets are likely to be one of the most widespread tools in the fight against climate change. \nStatement-II: Carbon markets transfer resources from the private sector to the State. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "d63ae452-deb2-4377-9176-1281d4d1e79d",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "0454509e-0863-44f0-ba03-5c4306e7ec28",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "0c7c09d9-89ab-413e-a25b-563d9b8873c5",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "4d84996d-cd8c-45c0-b555-251a98d5fe75",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "43ef32a1-ef9e-4a9e-898e-518c0d31107d",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following activities of the Reserve Bank of India is considered to be part of 'sterilization'?",
+        "options": [
+            {
+                "id": "eb9de8cf-78d2-4999-9031-5ab6a888058e",
+                "value": "Conducting 'Open Market Operations'",
+                "correct": false
+            },
+            {
+                "id": "c4a40a56-52eb-450d-8a6f-94e26c8a44e7",
+                "value": "Oversight of settlement and payment systems",
+                "correct": false
+            },
+            {
+                "id": "a697fa57-690f-4e10-814a-e273dbaf39b5",
+                "value": "Debt and cash management for the Central and State Governments",
+                "correct": false
+            },
+            {
+                "id": "749b9b51-6db0-40bb-b5ce-03fa6ddaee7c",
+                "value": "Regulating the functions of Non-banking Financial Institutions",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "f25eb41c-e272-4d20-af12-8a40cf7fd7e8",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following markets: \n1. Government Bond Market \n2. Call Money Market \n3. Treasury Bill Market \n4. Stock Market \nHow many of the above are included in capital markets?",
+        "options": [
+            {
+                "id": "a6b825f2-f774-40ad-9a59-d7fe5281a76b",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "7e05e460-9a23-4219-9b59-007b98050e60",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "30df8679-405c-41fa-892d-1c8303ba032f",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "ee8beeba-ff90-47d1-b464-bcded39e80ce",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "e0f6d72e-c097-4ee8-80ad-7e4f9918efc7",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following best describes the concept of 'Small Farmer Large Field'?",
+        "options": [
+            {
+                "id": "b5f01002-6aae-45b5-9209-9f46c2ab0c9d",
+                "value": "Resettlement of a large number of people, uprooted from their countries due to war, by giving them a large cultivable land which they cultivate collectively and share the produce",
+                "correct": false
+            },
+            {
+                "id": "76320c0a-210b-4536-8d31-d23864a641d9",
+                "value": "Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations",
+                "correct": false
+            },
+            {
+                "id": "22223e9f-1e98-4a3d-b98c-dbf60e685ffa",
+                "value": "Many marginal farmers in an area together make a contract with a corporate body and surrender their land to the corporate body for a fixed term for which the corporate body makes a payment of agreed amount to the farmers",
+                "correct": false
+            },
+            {
+                "id": "bd0f0705-c392-42f6-823f-954d2d0d9c7e",
+                "value": "A company extends loans, technical knowledge and material inputs to a number of small farmers in an area so that they produce the agricultural commodity required by the company for its manufacturing process and commercial production",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "83498e4e-cefd-4abe-a394-48f686eee01b",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. The Government of India provides Minimum Support Price for niger (Guizotia abyssinica) seeds. \n2. Niger is cultivated as a Kharif crop. \n3. Some tribal people in India use niger seed oil for cooking. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "b0b7fb95-e4fd-4db7-a9d3-5d8314fb620d",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "091d8c7a-01ee-4296-8b12-9cf701316907",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "5879d621-7241-4dd9-94e8-78b9dbaec9c4",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "71571d79-2cd2-4f52-8140-461e78531255",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "3ba24e74-9660-44b3-ac15-f03c0894d6ee",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the investments in the following assets: \n1. Brand recognition \n2. Inventory \n3. Intellectual property \n4. Mailing list of clients \nHow many of the above are considered intangible investments?",
+        "options": [
+            {
+                "id": "04080fe6-7222-4246-bcfd-96fcdb7a9bff",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "bf1155fd-560f-42b4-b583-ddfb4886720a",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "beb4f518-bea6-4520-96f2-f1454e28d0a0",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "d2ad5cf4-ef0c-46c9-95bb-e0edc6892413",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "8282e3b3-f37e-4a3c-9d0e-cbe3dc5827f8",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following: \n1. Demographic performance \n2. Forest and ecology \n3. Governance reforms \n4. Stable government \n5. Tax and fiscal efforts \nFor the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance?",
+        "options": [
+            {
+                "id": "6c4a5e47-ebd1-455c-8317-f5a23e365e04",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "c65dc3e1-c513-48f4-8fc8-e01dfebae0d6",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "275a5bec-a077-4f7e-ab85-b697dc35f411",
+                "value": "Only four",
+                "correct": false
+            },
+            {
+                "id": "1df4f58e-fadf-4ea7-8c2e-e1e08cf6b899",
+                "value": "All five",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "04f75e2f-7c92-4b0d-8f9e-310d94ae505d",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following infrastructure sectors: \n1. Affordable housing \n2. Mass rapid transport \n3. Health care \n4. Renewable energy \nOn how many of the above does UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus for its investments?",
+        "options": [
+            {
+                "id": "3e5e7fad-8d71-4df8-9334-e44107054711",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "935eb8a3-0999-449d-98d7-2cf16f447d68",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "928f28be-3602-4505-bf50-1ffbf9bcb1eb",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "b14ac1d8-5414-4966-8cb9-80f36ea644a8",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "e0ea2f85-6e35-49d8-aa55-0c2cac983206",
+        "explanation": ""
+    },
+    {
+        "question": "In essence, what does 'Due Process of Law' mean?",
+        "options": [
+            {
+                "id": "f202a98e-00f3-42c8-8f81-8ffff7b0a4ba",
+                "value": "The principle of natural justice",
+                "correct": false
+            },
+            {
+                "id": "6d4edb70-db29-4b0e-8f1a-9d6d13ee1314",
+                "value": "The procedure established by law",
+                "correct": false
+            },
+            {
+                "id": "dc4b5110-30b0-4529-85f9-b83dacccabc5",
+                "value": "Fair application of law",
+                "correct": false
+            },
+            {
+                "id": "eac7c5cf-2494-4f34-a85b-30a3d31550d3",
+                "value": "Equality before law",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "e116411b-cdae-4f39-9b30-ebaa1b9e694a",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons. \nStatement-II: In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "60b5b01f-04a1-43b3-a3db-454d9703fc7c",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "34fca63e-d663-4be6-94ae-59d65a09bfee",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "3f8e7872-691a-4392-950c-df9940e484e0",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "1c50073c-d4df-438d-893e-1127a984647e",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "ef2d0be7-7e87-4cec-8d9c-a2db8a95858e",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country?",
+        "options": [
+            {
+                "id": "058fbb0e-daaf-4c46-bdd8-f79db0c109a5",
+                "value": "It determines the objective for the making of necessary laws.",
+                "correct": false
+            },
+            {
+                "id": "4d12caf8-3316-4595-9bc0-8b91ea8f9ef0",
+                "value": "It enables the creation of political offices and a government.",
+                "correct": false
+            },
+            {
+                "id": "a6f9eeef-c694-4e58-b848-7b48764e8a85",
+                "value": "It defines and limits the powers of government.",
+                "correct": false
+            },
+            {
+                "id": "466891ab-e1c7-477e-8d89-efe409556f82",
+                "value": "It secures social justice, social equality and social security.",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "78907e5d-fb09-465d-b851-2a151f74be6d",
+        "explanation": ""
+    },
+    {
+        "question": "In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of the Fundamental Rights?",
+        "options": [
+            {
+                "id": "e04fccf9-a324-41fc-9e8b-9fd28e55675b",
+                "value": "1st Amendment",
+                "correct": false
+            },
+            {
+                "id": "f35b911a-a87f-4087-8dda-f3f2894b4bc7",
+                "value": "42nd Amendment",
+                "correct": false
+            },
+            {
+                "id": "5fb35601-6725-4225-ad10-07f222685630",
+                "value": "44th Amendment",
+                "correct": false
+            },
+            {
+                "id": "b3ba6327-514e-4a90-a8ef-688cfc3c9e13",
+                "value": "86th Amendment",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "0fd0b1c2-536b-4afd-981a-69ddc7bd5561",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following organizations/bodies in India: \n1. The National Commission for Backward Classes \n2. The National Human Rights Commission \n3. The National Law Commission \n4. The National Consumer Disputes Redressal Commission \nHow many of the above are constitutional bodies?",
+        "options": [
+            {
+                "id": "e15d6747-b9c2-4264-8b34-320e896f85f6",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "96a62e25-6e89-4c32-a4e5-0bccde036dd6",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "d3eb91ca-f7cf-45fa-a20e-8267de0abf7e",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "9308cbd4-dcbf-491e-a4d1-71e7a256b35c",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "fb5ede07-9da1-4d72-9a49-aa15cd24b86a",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. If the election of the President of India is declared void by the Supreme Court of India, all acts done by him/her in the performance of duties of his/her office of President before the date of decision become invalid. \n2. Election for the post of the President of India can be postponed on the ground that some Legislative Assemblies have been dissolved and elections are yet to take place. \n3. When a Bill is presented to the President of India, the Constitution prescribes time limits within which he/she has to declare his/her assent. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "dfa2e8a9-4630-4240-841f-bc8446a995c7",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "56ce48b0-2d82-48fb-be44-56e49d753d53",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "ff13f316-2372-4b84-bbda-7df31f68d9c3",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "625e66a7-6f61-4f36-8746-9d49db4daec4",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "3da119b8-f2d7-4428-b5d7-0ea615845232",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements: \n1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill. \n2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations. \n3. In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "3d30c0c3-d1e0-4e1d-8b52-9dde153fa9f6",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "2af45e2d-a117-40b6-8f5d-17e1c6308ba2",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "d25dcb63-9568-44c7-bec6-439bf1910483",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "7ae468a7-2ea4-4961-ad54-1e243fb6c184",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "b2c6bb8c-d9f1-4e1e-9a37-683e3e7311a3",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nOnce the Central Government notifies an area as a 'Community Reserve' \n1. the Chief Wildlife Warden of the State becomes the governing authority of such forest \n2. hunting is not allowed in such area \n3. people of such area are allowed to collect non-timber forest produce \n4. people of such area are allowed traditional agricultural practices \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "b46b0890-a9a0-4bc3-b487-0acdac28a591",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "c23ea909-2f97-495c-87e5-676a44a66e69",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "9d0bb615-c41b-49c6-8d94-1713f64c9d16",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "b04abed8-53a0-4710-bc99-5897c8dce7d3",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "da2e89aa-4ea1-4972-9e07-ad54a8d81bea",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to 'Scheduled Areas' in India, consider the following statements: \n1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. \n2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. \n3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "c77522e9-0e48-4dc4-aadc-cd54ee6793aa",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "b5e69bc1-981f-42fc-9d0c-9b7708a4921c",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "522a9ac1-e13c-4037-94eb-922df2faa43f",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "fd0f5a95-9f66-4cae-8272-8b67d905f569",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "d03a8abf-b7fe-4280-a3a4-7f2113ec1746",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. \nStatement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "d4f67d3a-cd37-4a19-bca4-a42454d529a7",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "28122407-138f-4342-9376-f00191c71103",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "30936017-5a41-4b88-8792-2829c35faa54",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "1381ac82-742a-4c16-ba91-006b8ae9ea81",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "68db1062-dce6-4235-80e4-01cd6bed0b5e",
+        "explanation": ""
+    },
+    {
+        "question": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?",
+        "options": [
+            {
+                "id": "a9529f0d-5af8-404f-a2e1-e22258149555",
+                "value": "Andhra",
+                "correct": false
+            },
+            {
+                "id": "e3c96d2b-cab9-474c-bbcc-b3d898f70416",
+                "value": "Gandhara",
+                "correct": false
+            },
+            {
+                "id": "98087089-1cc0-48d2-a615-062d594d3f5f",
+                "value": "Kalinga",
+                "correct": false
+            },
+            {
+                "id": "87e31149-059a-40c8-bbc3-dd8f043ec0fa",
+                "value": "Magadha",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "38a71969-6dd6-42f3-8fde-e62e808dd151",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to ancient India, consider the following statements: \n1. The concept of Stupa is Buddhist in origin. \n2. Stupa was generally a repository of relics. \n3. Stupa was a votive and commemorative structure in Buddhist tradition. \nHow many of the statements given above are correct?",
+        "options": [
+            {
+                "id": "8d7c9b6e-bd6b-4f09-b21f-5773748ed0dc",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "98ca7dcc-4010-4887-a7c5-5707c24854ba",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "d9185ea0-1609-41f1-af79-7f7e42a8f39f",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "9d817ccb-f779-4ded-bd45-f9ca65ab00b7",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "b282a939-66af-4457-ae4b-255a8ab4f999",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as",
+        "options": [
+            {
+                "id": "0cf632a1-0654-4705-8e11-a46f9c81f2d0",
+                "value": "capital cities",
+                "correct": false
+            },
+            {
+                "id": "55789e45-623d-4259-b7d8-e1a4136b97a4",
+                "value": "ports",
+                "correct": false
+            },
+            {
+                "id": "da8a17a7-5f84-4131-b0e8-990c4230627b",
+                "value": "centres of iron-and-steel making",
+                "correct": false
+            },
+            {
+                "id": "8a3212c7-2883-475a-aac9-9507e9d38428",
+                "value": "shrines of Jain Tirthankaras",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "45574823-7fc1-4bd4-b54e-6ecd95215070",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems?",
+        "options": [
+            {
+                "id": "59b6386d-0c26-4629-8345-11f259f75ba4",
+                "value": "Kings employing women bodyguards",
+                "correct": false
+            },
+            {
+                "id": "8e9fc609-9198-439d-ad56-d4c6a69e8b9b",
+                "value": "Learned persons assembling in royal courts to discuss religious and philosophical matters",
+                "correct": false
+            },
+            {
+                "id": "07d4b4ab-b53c-47d4-b06d-3b919d5474a2",
+                "value": "Young girls keeping watch over agricultural fields and driving away birds and animals",
+                "correct": false
+            },
+            {
+                "id": "436e4624-c3e4-4c95-a321-1656af4e5e65",
+                "value": "A king defeated in a battle committing ritual suicide by starving himself to death",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "da0936f8-bd37-4a4e-84b3-f54a6e6771e0",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following dynasties: \n1. Hoysala \n2. Gahadavala \n3. Kakatiya \n4. Yadava \nHow many of the above dynasties established their kingdoms in early eighth century AD?",
+        "options": [
+            {
+                "id": "ca55c7d0-e5be-4342-9d8d-a2764b2965ca",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "f4683808-b179-4f8d-b4ba-703f8915bc18",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "2e5a8e7b-24f1-4d64-b522-451671df8b68",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "bde55cc6-d1a1-4cd0-8e6c-36ec9eb270a5",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "c111ba4a-21b7-4a97-8e89-4b39add72b4a",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to ancient Indian History, consider the following pairs: \nLiterary work : Author \n1. Devichandragupta : Bilhana \n2. Hammira-Mahakavya : Nayachandra Suri \n3. Milinda-panha : Nagasena \n4. Nitivakyamrita : Somadeva Suri \nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "c49a2146-b732-4de9-847b-75358d20e9a1",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "bc5a2df3-1e50-4418-82f7-cac4b3e71c04",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "e92c9da2-f113-400c-a588-dd3e3b2cfe6c",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "30a2109d-0bc9-4fdc-b494-49890a30a937",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "db18841e-af3d-468f-9027-8606ee98a599",
+        "explanation": ""
+    },
+    {
+        "question": "\"Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.\" \nThe above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?",
+        "options": [
+            {
+                "id": "ca04aaee-11aa-4be6-8513-6834dd87559e",
+                "value": "Buddhism",
+                "correct": false
+            },
+            {
+                "id": "0c04b11f-6fc3-402f-a50d-070016bf0891",
+                "value": "Jainism",
+                "correct": false
+            },
+            {
+                "id": "1ac801e4-03d8-4996-aebb-b71e1408d7e4",
+                "value": "Shaivism",
+                "correct": false
+            },
+            {
+                "id": "d109f700-6db2-4411-9224-a520905a77b1",
+                "value": "Vaishnavism",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "599f5b57-abb8-4bee-a0b1-9e44d8ea0447",
+        "explanation": ""
+    },
+    {
+        "question": "Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city?",
+        "options": [
+            {
+                "id": "9b0b64d2-5986-4ad6-85e9-4ad0552ddc29",
+                "value": "Devaraya I",
+                "correct": false
+            },
+            {
+                "id": "f4756722-e987-4763-a362-f4edbb02543f",
+                "value": "Mallikarjuna",
+                "correct": false
+            },
+            {
+                "id": "5ca1a915-767c-4c2d-bce8-f64891881c22",
+                "value": "Vira Vijaya",
+                "correct": false
+            },
+            {
+                "id": "1283f73b-4b38-4c19-8b78-d2a49d3b90a0",
+                "value": "Virupaksha",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "bcade519-a671-46a9-ab32-2ecb348a042e",
+        "explanation": ""
+    },
+    {
+        "question": "Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese?",
+        "options": [
+            {
+                "id": "10172da7-63e6-4b87-b32b-ce85a3ad3684",
+                "value": "Ahmad Shah",
+                "correct": false
+            },
+            {
+                "id": "1cfaf119-339d-4786-91d6-61ad77e9bac1",
+                "value": "Mahmud Begarha",
+                "correct": false
+            },
+            {
+                "id": "c842525b-3478-4d89-a8a7-c814183a0e6b",
+                "value": "Bahadur Shah",
+                "correct": false
+            },
+            {
+                "id": "c9b05827-2ecd-43e9-ab29-6616c71f741e",
+                "value": "Muhammad Shah",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "9b5f14fc-248a-4ade-b2a7-4286871689a9",
+        "explanation": ""
+    },
+    {
+        "question": "By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India?",
+        "options": [
+            {
+                "id": "cceb66fb-e32f-4413-83c9-71297065689f",
+                "value": "The Regulating Act",
+                "correct": false
+            },
+            {
+                "id": "4d1d8535-6c9c-4c54-b9d1-4e64e1c94db6",
+                "value": "The Pitt's India Act",
+                "correct": false
+            },
+            {
+                "id": "b2fd0e5f-d5f7-43c1-a4dd-0bab7514160b",
+                "value": "The Charter Act of 1793",
+                "correct": false
+            },
+            {
+                "id": "e0e871ce-b653-4341-a479-07785b6bb073",
+                "value": "The Charter Act of 1833",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "36d3bf78-fe40-42c4-848a-519d2b9d39a6",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements in relation to Janani Suraksha Yojana: \n1. It is a safe motherhood intervention of the State Health Departments. \n2. Its objective is to reduce maternal and neonatal mortality among poor pregnant women. \n3. It aims to promote institutional delivery among poor pregnant women. \n4. Its objective includes providing public health facilities to sick infants up to one year of age. \nHow many of the statements given above are correct?",
+        "options": [
+            {
+                "id": "5e1d9d45-ca98-447c-b5e9-10f07c49d9a9",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "c96d390a-2bbe-47d8-b6c1-2f55650e3cdd",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "b2df2942-d284-4c2b-954b-5efb975293eb",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "56738cbd-b09f-4ef0-9fd0-120e8310f3de",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "69155e6e-53b8-4f70-8071-8b8e75a1daec",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements in the context of interventions being undertaken under Anaemia Mukt Bharat Strategy: \n1. It provides prophylactic calcium supplementation for pre-school children, adolescents and pregnant women. \n2. It runs a campaign for delayed cord clamping at the time of childbirth. \n3. It provides for periodic deworming to children and adolescents. \n4. It addresses non-nutritional causes of anaemia in endemic pockets with special focus on malaria, hemoglobinopathies and fluorosis. \nHow many of the statements given above are correct?",
+        "options": [
+            {
+                "id": "02429161-0d59-4efa-b1cf-e7a1054be426",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "d60a36b7-9857-4d5a-8072-8048c1469529",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "821f251b-214e-4e99-ae4c-5ff90a24b391",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "e6867bbe-82a9-43e5-af90-723320ef4f9f",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "a8221bf3-2c7a-4146-9fba-4c49e6b21146",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts. \n2. Carbon fibres once used cannot be recycled. \nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "ab2e2b6e-3f3e-4f5e-aa18-31ed26a0827a",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "d55734e0-a08f-4a5a-a8da-b6859d8ce1e8",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "fc5a3f76-f730-48d8-9d9c-ab8edeca7f23",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "16219c61-35b6-440f-bef0-73f639d46fe8",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "08f2ef93-fb7a-4158-b670-462bf0efd89a",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following actions: \n1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously \n2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive \n3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode \nIn how many of the above actions is the function of accelerometer required?",
+        "options": [
+            {
+                "id": "eed86bad-4875-46a7-85c1-60de95330191",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "c1a9e5e5-9ebd-461e-9abe-791a068d851f",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "25c1cdf8-99c7-44b1-a59a-856f2792e6aa",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "e9779b37-7749-400e-bdca-bbe464be67ae",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "d86c6f0b-2a14-4cee-81a7-cb867abfe7da",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the role of biofilters in Recirculating Aquaculture System, consider the following statements: \n1. Biofilters provide waste treatment by removing uneaten fish feed. \n2. Biofilters convert ammonia present in fish waste to nitrate. \n3. Biofilters increase phosphorus as nutrient for fish in water. \nHow many of the statements given above are correct?",
+        "options": [
+            {
+                "id": "44a2de94-e3b8-4baa-a78a-516e16193db4",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "59cf85c5-d3f2-4860-a02a-ce713a5bcaf8",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "e3c86890-5308-4d0f-95d4-5637a1337416",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "1868a80b-0baf-4019-9ac4-436d28bf67bc",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "e766e64a-522c-4ca6-9401-1f2e8911c7a2",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs: \nObjects in space : Description \n1. Cepheids : Giant clouds of dust and gas in space \n2. Nebulae : Stars which brighten and dim periodically \n3. Pulsars : Neutron stars that are formed when massive stars run out of fuel and collapse \nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "7e5b21c0-89d2-42e3-b4a8-042fa8162a46",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "2a2acf6c-fc54-4b7c-9796-ceb2dcf88533",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "a4a1538b-6ce6-4b4a-b605-ef8933bd3d88",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "f198690a-c666-431e-9b56-4a3351f74838",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "d179cdd0-c4d0-4e90-89cc-fc27c9cd4920",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following countries has its own Satellite Navigation System?",
+        "options": [
+            {
+                "id": "ab872e9e-8640-4f1b-a8c0-a37d15baf813",
+                "value": "Australia",
+                "correct": false
+            },
+            {
+                "id": "874eb02e-8634-4150-b9f3-06ccaf51b647",
+                "value": "Canada",
+                "correct": false
+            },
+            {
+                "id": "4eea2038-b085-4297-af34-f1a985de5042",
+                "value": "Israel",
+                "correct": false
+            },
+            {
+                "id": "f5ec53c2-c9be-4793-b6bd-bc37e37fec19",
+                "value": "Japan",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "e797be3e-1eb5-44a6-8bdf-9bf63a12fbbb",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket-powered only in the initial phase of flight. \n2. Agni-V is a medium-range supersonic cruise missile, while BrahMos is a solid-fuelled intercontinental ballistic missile. \nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "439dc901-3ea6-4433-9cb6-6f19501f3a3a",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "93fd08d0-02d0-4459-8541-4b40b04563a7",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "73964dd9-82b2-4cbe-8f66-755b6b3ed30f",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "b2dae2c9-03f1-4a17-a4da-4ed9edfb6bbd",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "4fa2b7ff-dcd7-460b-87b0-16682706465d",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements regarding mercury pollution: \n1. Gold mining activity is a source of mercury pollution in the world. \n2. Coal-based thermal power plants cause mercury pollution. \n3. There is no known safe level of exposure to mercury. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "4f39736a-f6d2-4fcd-96e5-e372a9d5aef7",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "212cec52-c610-4229-8587-40983c6dadca",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "ed796914-9cee-4a29-9092-f1c41b6dced5",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "6b8b1719-d2d5-421a-a350-3d20a1cd92cc",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "c0719138-44eb-4584-82cc-2ee656b900aa",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to green hydrogen, consider the following statements: \n1. It can be used directly as a fuel for internal combustion. \n2. It can be blended with natural gas and used as fuel for heat or power generation. \n3. It can be used in the hydrogen fuel cell to run vehicles. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "7bda05bb-e088-4921-976b-0aa5f209ceb7",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "21926aea-14b8-442a-96be-a19949c6a007",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "97a4952f-dae0-48fd-9b87-8b15018254ae",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "295ea016-bf7e-430f-a2c8-24e3f1f2c3bb",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "9036c31c-9ce9-49ce-b00d-2091445c91f1",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following countries: \n1. Bulgaria \n2. Czech Republic \n3. Hungary \n4. Latvia \n5. Lithuania \n6. Romania \nHow many of the above-mentioned countries share a land border with Ukraine?",
+        "options": [
+            {
+                "id": "840b47f1-7da8-4be3-b99d-ef6ba014439d",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "45f00510-b772-4289-885c-26b3703fd96a",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "7e627ae7-ef66-4cf8-b442-54c452b00152",
+                "value": "Only four",
+                "correct": false
+            },
+            {
+                "id": "ac54fd19-7fd7-4426-b7a2-575134218e97",
+                "value": "Only five",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "06496f8a-9b9a-43f0-9da9-5046b1228fa6",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Earth's atmosphere, which one of the following statements is correct?",
+        "options": [
+            {
+                "id": "bb3657ce-bb6d-45ba-8d56-e14fb5575bbc",
+                "value": "The total amount of insolation received at the equator is roughly about 10 times of that received at the poles.",
+                "correct": false
+            },
+            {
+                "id": "1de0345f-a06e-4d6d-8535-2ae1538e5abe",
+                "value": "Infrared rays constitute roughly two-thirds of insolation.",
+                "correct": false
+            },
+            {
+                "id": "b3ff2a4a-882e-45fc-9795-dbb58c4cf359",
+                "value": "Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.",
+                "correct": false
+            },
+            {
+                "id": "a7e2a6ce-37bf-4294-ab7c-1ac34ca63b9b",
+                "value": "Infrared waves are a part of visible spectrum of electromagnetic waves of solar radiation.",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "37f7eb74-b60b-4916-8bb3-27795b515d47",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: The soil in tropical rain forests is rich in nutrients. \nStatement-II: The high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "d756f253-e120-4f33-b40d-d2eae5eb88df",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "7a23d1dc-330f-439b-ba1f-a632cfefbd6c",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "a264e81f-be4f-4b5d-8ad5-1175a3c4ab90",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "482746fd-2ee1-4a39-ab9c-16ba6e2935ed",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "df5cf0a1-82b3-4034-8f70-7d4ab16cf3ca",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: The temperature contrast between continents and oceans is greater during summer than in winter. \nStatement-II: The specific heat of water is more than that of land surface. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "ea53b5c7-e4b6-49e4-944a-6ae250f1f262",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "e7584db8-6fc9-4669-8cc5-156c4b053eef",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "39460392-086f-4a8e-9841-af95157a0f31",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "c2bee55d-ef97-4557-8a0a-dc739a093595",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "79cabca9-e23f-470a-8757-bad210ddaed9",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. In a seismograph, P waves are recorded earlier than S waves. \n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation. \nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "b2064ba0-5be0-4051-82ee-1d742ed441d6",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "572d8d19-1c1a-48d8-9e87-be7eaeebec70",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "f9833aec-ef52-4f1e-869d-c0d4fa359af0",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "afb5ab06-1244-4b42-bae4-e3313e0fda05",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "1f2a067f-69c4-478b-9e8f-f10888e19ee6",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to coal-based thermal power plants in India, consider the following statements: \n1. None of them uses seawater. \n2. None of them is set up in water-stressed districts. \n3. None of them is privately owned. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "3821bfd4-686a-4411-bf37-8338150dd2da",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "57e89e2f-d129-4f93-93af-57bab2181949",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "8e16bb55-a545-4b77-a7b5-9dd21fb5169f",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "b1f5fb1c-f8cf-480f-800c-1eb0f8cd7ce8",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "b60c20d5-4e6e-42a9-b51a-6857e438ff60",
+        "explanation": ""
+    },
+    {
+        "question": "The 'Wolbachia method' is sometimes talked about with reference to which one of the following?",
+        "options": [
+            {
+                "id": "fe9d6234-e4f6-454c-a422-79a41eafd472",
+                "value": "Controlling the viral diseases spread by mosquitoes",
+                "correct": false
+            },
+            {
+                "id": "1dab2659-db4c-488e-a5f2-9b52d434eeca",
+                "value": "Converting crop residues into packing material",
+                "correct": false
+            },
+            {
+                "id": "074e78f3-7a32-4f41-b013-cc7a157fcb53",
+                "value": "Producing biodegradable plastics",
+                "correct": false
+            },
+            {
+                "id": "68764c9e-90f7-4d8b-9080-d71baf5b6bdd",
+                "value": "Producing biochar from thermochemical conversion of biomass",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "c34ab77f-8ab2-4143-aba5-719560ae39ce",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following activities: \n1. Spreading finely ground basalt rock on farmlands extensively \n2. Increasing the alkalinity of oceans by adding lime \n3. Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated waters \nHow many of the above activities are often considered and discussed for carbon capture and sequestration?",
+        "options": [
+            {
+                "id": "cbf03a9b-b7ed-4060-a0d3-3be5cfaf6e80",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "00c20235-347b-4c5d-aa1e-89bc97da0d52",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "0190a8f2-8955-4371-b0f3-a134dc48fcab",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "3377034e-47ac-427d-974e-8a09a38a4291",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "c6713f52-14e4-4eae-b381-4e65f6596395",
+        "explanation": ""
+    },
+    {
+        "question": "'Aerial metagenomics' best refers to which one of the following situations?",
+        "options": [
+            {
+                "id": "05ed9d94-720b-4ea7-afed-ef7052633088",
+                "value": "Collecting DNA samples from air in a habitat at one go",
+                "correct": false
+            },
+            {
+                "id": "2f764bc6-207f-497d-9496-3183fa0ac8cd",
+                "value": "Understanding the genetic makeup of avian species of a habitat",
+                "correct": false
+            },
+            {
+                "id": "9f1a3790-5085-468a-bc31-851dbbe4e338",
+                "value": "Using air-borne devices to collect blood samples from moving animals",
+                "correct": false
+            },
+            {
+                "id": "dc97865e-58f4-413d-8e4b-f6379ba7ae03",
+                "value": "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "ee684832-1f48-4c3c-a581-f33bc35c71ce",
+        "explanation": ""
+    },
+    {
+        "question": "'Microsatellite DNA' is used in the case of which one of the following?",
+        "options": [
+            {
+                "id": "b4b9d812-2759-45e2-af20-bccc3aeec7b6",
+                "value": "Studying the evolutionary relationships among various species of fauna",
+                "correct": false
+            },
+            {
+                "id": "51710e2d-6019-4184-8a51-72e5adb2de3a",
+                "value": "Stimulating 'stem cells' to transform into diverse functional tissues",
+                "correct": false
+            },
+            {
+                "id": "a2f00564-b543-4153-9679-683d880f5b89",
+                "value": "Promoting clonal propagation of horticultural plants",
+                "correct": false
+            },
+            {
+                "id": "83e7ffaf-0d3a-477a-9d60-4b72801a2872",
+                "value": "Assessing the efficacy of drugs by conducting series of drug trials in a population",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "fd7c7762-8328-457d-ae73-ac9c1fba71e2",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements with reference to India: \n1. According to the 'Micro, Small and Medium Enterprises Development (MSMED) Act, 2006', the 'medium enterprises' are those with investments in plant and machinery between \u20b915 crore and \u20b925 crore. \n2. All bank loans to the Micro, Small and Medium Enterprises qualify under the priority sector. \nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "510be361-a737-4a1d-9433-b0a3dee6d578",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "6f80fc27-7dfc-48fa-8f9c-2be55526f056",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "1f96c8e3-fc97-42ed-a08a-9cbe4b6d7641",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "26b6b736-c1dc-4a59-9608-28aa227560da",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "7a1c7dd2-4bfd-42b9-9e3e-6846beb11a46",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Central Bank digital currencies, consider the following statements: \n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system. \n2. A digital currency can be distributed with a condition programmed into it such as a timeframe for spending it. \nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "74e12ea7-12ed-4721-95a2-a43c81585be9",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "d2943777-d0e9-4aca-bb91-56a2a125edc0",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "09100a09-e035-43a2-8190-3a5554a92426",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "edf3c0eb-56d1-4f7f-8dbd-6103c3df0c7d",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "1cff776c-ee89-4b7b-849c-8e55dd5d7150",
+        "explanation": ""
+    },
+    {
+        "question": "In the context of finance, the term 'beta' refers to",
+        "options": [
+            {
+                "id": "8b4976e7-4180-4813-b6b3-88a9fbd16d88",
+                "value": "The process of simultaneous buying and selling of an asset from different platforms",
+                "correct": false
+            },
+            {
+                "id": "4360d2f3-699c-489d-894a-dbfa52319b3e",
+                "value": "An investment strategy of a portfolio manager to balance risk versus reward",
+                "correct": false
+            },
+            {
+                "id": "2ab7f25d-fc4e-4a23-a068-3d1a54b61a75",
+                "value": "A type of systemic risk that arises where perfect hedging is not possible",
+                "correct": false
+            },
+            {
+                "id": "2f2ca61d-5540-4d9e-b411-b3a8a45f118e",
+                "value": "A numeric value that measures the fluctuations of a stock to changes in the overall stock market",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "3ad945aa-f1cc-47d2-94e1-b28710d6566f",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived. \n2. In an SHG, all members of a group take responsibility for a loan that an individual member takes. \n3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "677cce7b-1668-4fd6-b806-1489aa41a710",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "6bd56cac-5626-45f3-8fdf-b04a5d9e8f6f",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "1c6f8986-cabc-42b9-89e1-fb4a086d5bcb",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "c4f52179-7065-4d05-822f-dd0f75102dfd",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "fbf02e41-335a-4143-965e-676c8f87ace4",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: India's public sector health care system largely focuses on curative care with limited preventive, promotive and rehabilitative care. \nStatement-II: Under India's decentralized approach to health care delivery, the States are primarily responsible for organizing health services. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "6a99d94b-9491-4998-91fd-8280651cd36b",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "6d3969db-9a54-4a43-9f42-d0b47a362871",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "313f9d84-4d48-4040-be3b-22f6b0e921b9",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "292fe2c2-602c-40f7-8fe2-3f73a91ce22e",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "950de65d-40be-4326-8ff9-2e54619c7ed2",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: According to the United Nations 'World Water Development Report, 2022', India extracts more than a quarter of the world's groundwater withdrawal each year. \nStatement-II: India needs to extract more than a quarter of the world's groundwater each year to satisfy the drinking water and sanitation needs of almost 18% of the world's population living in its territory. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "8f86cd41-356d-4c1e-ac49-d57cb5292315",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "938920d1-9c31-40b2-b468-db2e8829f068",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "0f9fb63d-8726-496c-a91c-5f570e2cffb3",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "15e3dbe8-878f-4d3e-aa76-0f30708e4a84",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "ecd9c173-e638-4c3e-bd57-0617bef039e3",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances. \n2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention. \n3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "11957aad-b055-45a3-a662-52a79c73f7a0",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "88485fd8-c67d-4de9-b602-57c80ad908ba",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "d8c8170e-00ad-4e23-a228-7cd080adbf70",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "0cb81578-36ab-4edd-aa96-e62f0826ef30",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "0de1a515-73b4-41a4-bd26-2d1e23ab9926",
+        "explanation": ""
+    },
+    {
+        "question": "Which one of the following countries has been suffering from decades of civil strife and food shortages and was in news in the recent past for its very severe famine?",
+        "options": [
+            {
+                "id": "12345678-9abc-def0-1234-56789abcdef0",
+                "value": "Angola",
+                "correct": false
+            },
+            {
+                "id": "23456789-abcd-ef01-2345-6789abcdef01",
+                "value": "Costa Rica",
+                "correct": false
+            },
+            {
+                "id": "34567890-bcde-f012-3456-789abcdef012",
+                "value": "Ecuador",
+                "correct": false
+            },
+            {
+                "id": "45678901-cdef-0123-4567-89abcdef0123",
+                "value": "Somalia",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "1111aaaa-2222-bbbb-3333-cccc4444dddd",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. In India, the Biodiversity Management Committees are key to the realization of the objectives of the Nagoya Protocol. \n2. The Biodiversity Management Committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction. \nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "56789012-3456-7f12-8901-234567890123",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "67890123-4567-8f23-9012-345678901234",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "78901234-5678-9f34-0123-456789012345",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "89012345-6789-0f45-1234-567890123456",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "2222bbbb-3333-cccc-4444-dddd5555eeee",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements in respect of election to the President of India: \n1. The members nominated to either House of the Parliament or the Legislative Assemblies of States are also eligible to be included in the Electoral College. \n2. Higher the number of elective Assembly seats, higher is the value of vote of each MLA of that State. \n3. The value of vote of each MLA of Madhya Pradesh is greater than that of Kerala. \n4. The value of vote of each MLA of Puducherry is higher than that of Arunachal Pradesh because the ratio of total population to total number of elective seats in Puducherry is greater as compared to Arunachal Pradesh. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "89012345-6789-0abc-def1-234567890abc",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "90123456-7890-1bcd-ef23-456789012345",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "01234567-8901-2cde-f345-678901234567",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "12345678-9012-3def-4567-890123456789",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "3333cccc-4444-dddd-5555-eeee6666ffff",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to the Indian History, Alexander Rea, A. H. Longhurst, Robert Sewell, James Burgess and Walter Elliot were associated with",
+        "options": [
+            {
+                "id": "23456789-abcd-ef12-3456-7890abcdef12",
+                "value": "archaeological excavations",
+                "correct": false
+            },
+            {
+                "id": "34567890-bcde-f123-4567-890abcdef123",
+                "value": "establishment of English Press in Colonial India",
+                "correct": false
+            },
+            {
+                "id": "45678901-cdef-0123-4567-89abcdef1234",
+                "value": "establishment of Churches in Princely States",
+                "correct": false
+            },
+            {
+                "id": "56789012-def0-1234-5678-90abcdef1234",
+                "value": "construction of railways in Colonial India",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "34f02353-79a4-48c0-aea0-08dede5f69c1",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs: \nSite : Well known for \n1. Besnagar : Shaivite cave shrine \n2. Bhaja : Buddhist cave shrine \n3. Sittanavasal : Jain cave shrine \nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "67890123-4567-8f34-9012-345678901234",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "78901234-5678-9f45-0123-456789012345",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "89012345-6789-0f56-1234-567890123456",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "90123456-7890-1f67-2345-678901234567",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "a3e64e22-90d4-403e-944c-005740ebf952",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: 7th August is declared as the National Handloom Day. \nStatement-II: It was in 1905 that the Swadeshi Movement was launched on the same day. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "92999a88-284f-4afd-a8b5-aff96d875c93",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "48085d40-cabc-4d4e-bdb5-b61395eb0944",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "62c01141-0b8f-46b7-82c8-56adde86721a",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "df9a8b36-574f-4cd4-b901-73bf7fc4f732",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "5982aaa6-8eaf-4e55-895f-4d3bcea33bc0",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements in respect of the National Flag of India according to the Flag Code of India, 2002: \nStatement-I: One of the standard sizes of the National Flag of India is 600 mm x 400 mm. \nStatement-II: The ratio of the length to the height (width) of the Flag shall be 3:2. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "c7fab47f-f411-45ed-a4b6-1f13f0f5b3e4",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "d1e7f694-00d1-4ded-ae82-3d11807ca5b0",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "b69e2920-9e91-4f95-8049-c9126bbbfaa2",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "c844a324-d97a-4188-96f7-dcd7d499ee93",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "8bb47ae8-eed4-4c65-b92d-6c8d39913fbd",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements in respect of the Constitution Day: \nStatement-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. \nStatement-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B. R. Ambedkar to prepare a Draft Constitution of India. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "e19c9446-1dc0-48a5-bc79-a76f3bda40b4",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "a016a2f7-5a57-45e8-b6ab-77447166f96e",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "f17cbba5-ad33-475f-aa6e-a352e89d7e44",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "e4b09179-53b8-45a8-b5ad-9bdc597853a4",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "798a6fc7-fda9-43bd-8555-63b1c6dc9191",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: Switzerland is one of the leading exporters of gold in terms of value. \nStatement-II: Switzerland has the second largest gold reserves in the world. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "78735203-db28-4268-8bd3-d85d5fa14cc7",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "8ce2997c-0657-46bd-805a-8ae890e864e8",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "1e8080f2-bd27-43af-b517-fe53be934b90",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "a47233f7-b538-43e8-92ce-6049a431da5a",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "92eedd41-1c82-4342-80f0-b16057eb59b7",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: Recently, the United States of America (USA) and the European Union (EU) have launched the 'Trade and Technology Council'. \nStatement-II: The USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "a27e15f8-3831-4f7e-8917-5b329c498358",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "d6c5c426-f584-4e54-88ae-22264930f56b",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "fce435b5-fbba-4de2-9fe1-b879f8f35124",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "0683b93d-2b27-4bf5-bf50-e803f045c8c8",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "aa198300-2d5a-42f0-a077-083fc2c01e83",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: India accounts for 3.2% of global export of goods. \nStatement-II: Many local companies and some foreign companies operating in India have taken advantage of India's 'Production-linked Incentive' scheme. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "8cfe7b33-8fe5-4872-9cba-ce863b2c65f8",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "048767fe-bd7d-4708-8add-10aab8452c7f",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "ff25ca4b-1291-49ae-80ad-a95e42264d59",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "a9538d55-a4b8-4461-ac58-0be1ce649786",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "cb5f185d-9a8f-48fc-90a9-e805ffcd9e47",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nThe 'Stability and Growth Pact' of the European Union is a treaty that \n1. limits the levels of the budgetary deficit of the countries of the European Union \n2. makes the countries of the European Union to share their infrastructure facilities \n3. enables the countries of the European Union to share their technologies \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "b64319b6-73ee-4055-9dea-cf1c22fc5ebe",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "c09aac1a-eb24-4b1e-b0b8-70b647b634f3",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "027dda05-1c62-4872-ab56-96ba8c7818d4",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "bfec0ec0-7cf3-4a20-9533-d895c10c1aaa",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "59a3b2a8-5957-4418-b99f-830c1b01b716",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \n1. Recently, all the countries of the United Nations have adopted the first-ever compact for international migration, the 'Global Compact for Safe, Orderly and Regular Migration (GCM)'. \n2. The objectives and commitments stated in the GCM are binding on the UN member countries. \n3. The GCM addresses internal migration or internally displaced people also in its objectives and commitments. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "3190a9a7-0080-41f4-a27a-e37ca6a6d8da",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "585c79c1-b98d-46b6-a17c-85f05d7d5855",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "561cb7bf-1ea1-4372-8da8-41dd42fae3d0",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "b2f5feaf-50ac-4970-a459-14195acc7076",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "d365325e-7e72-49ac-829c-b62fc38743c8",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to Home Guards, consider the following statements: \n1. Home Guards are raised under the Home Guards Act and Rules of the Central Government. \n2. The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of internal security. \n3. To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards Battalions have been raised in some States. \nHow many of the above statements are correct?",
+        "options": [
+            {
+                "id": "724655c1-eea8-48c6-969e-5a29b853182e",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "7ed2d999-1836-49b3-aef6-77df792794b6",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "4e9fa3ae-7c9f-4608-811e-8b4379011eb9",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "7381b020-9c9c-4a7e-a9a1-274e0037c884",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "8fd0d35a-2121-417e-b21d-92b4b2b2dd48",
+        "explanation": ""
+    },
+    {
+        "question": "With reference to India, consider the following pairs: \nAction : The Act under which it is covered \n1. Unauthorized wearing of police or military uniforms : The Official Secrets Act, 1923 \n2. Knowingly misleading or otherwise interfering with a police officer or military officer when engaged in their duties : The Indian Evidence Act, 1872 \n3. Celebratory gunfire which can endanger the personal safety of others : The Arms (Amendment) Act, 2019 \nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "dcedd62e-5b93-4858-8521-25a3b80bd2d5",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "7581c56f-c4ea-47d1-9dd0-652cd5743b71",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "a07d45c5-37db-4b39-9eee-09617241bad8",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "ecebdd7c-1c19-4144-9191-542530aa4acf",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "b5bfd807-16b5-4b6b-8f0a-e05e6d7cfab5",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs: \nRegions often mentioned in news : Reason for being in news \n1. North Kivu and Ituri : War between Armenia and Azerbaijan \n2. Nagorno-Karabakh : Insurgency in Mozambique \n3. Kherson and Zaporizhzhia : Dispute between Israel and Lebanon \nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "6b7e03e5-1dce-4a9e-9291-08b6edcfd514",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "e8575895-9a2d-4b71-b9c0-c7836f4e3755",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "4a45b49e-c931-46ff-8934-3518f10cf550",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "444188ef-a83e-40c4-9165-d6838bc1ab8e",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "17388172-3bbb-41b8-b4fd-9d3b76546bae",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements: \nStatement-I: Israel has established diplomatic relations with some Arab States. \nStatement-II: The 'Arab Peace Initiative' mediated by Saudi Arabia was signed by Israel and Arab League. \nWhich one of the following is correct in respect of the above statements?",
+        "options": [
+            {
+                "id": "d84f8382-ed9d-4bce-bad9-946c5aec197b",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "8a19c616-6f03-47a9-aca8-776f37c3b818",
+                "value": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+                "correct": false
+            },
+            {
+                "id": "5cae1c44-0f24-4f74-a5ac-6c7104ad3521",
+                "value": "Statement-I is correct but Statement-II is incorrect",
+                "correct": false
+            },
+            {
+                "id": "59ce9572-6fd9-48e6-9fb8-86da53e67a15",
+                "value": "Statement-I is incorrect but Statement-II is correct",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "8e5003b7-9329-4cbc-b139-877bd1154baf",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs with regard to sports awards: \n1. Major Dhyan Chand Khel Ratna Award : For the most spectacular and outstanding performance by a sportsperson over a period of last four years \n2. Arjuna Award : For the lifetime achievement by a sportsperson \n3. Dronacharya Award : To honour eminent coaches who have successfully trained sportspersons or teams \n4. Rashtriya Khel Protsahan Puraskar : To recognize the contribution made by sportspersons even after their retirement \nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "54525bd6-291e-4f7f-8a8d-4589abeedae8",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "6ebe221e-cf0d-41de-aac4-218c10bafa3d",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "299615f4-4086-4cc3-9602-e7111d45a010",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "f61d3e2a-a267-444a-9635-d5ae6e9d742e",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "9d54f900-3bbc-4f60-8032-82d8bfe4661e",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements in respect of the 44th Chess Olympiad, 2022: \n1. It was the first time that Chess Olympiad was held in India. \n2. The official mascot was named 'Thambi'. \n3. The trophy for the winning team in the open section is the Vera Menchik Cup. \n4. The trophy for the winning team in the women's section is the Hamilton-Russell Cup. \nHow many of the statements given above are correct?",
+        "options": [
+            {
+                "id": "514cbfb4-a53a-46ad-8d30-af9bfe2240d2",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "120e8eba-3de7-4e76-ad04-dac0cd06b450",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "69eb0170-8abe-4c72-8735-2afdec3b5fe5",
+                "value": "Only three",
+                "correct": false
+            },
+            {
+                "id": "67829c4d-d6d4-4d90-82d1-8f4dc3a73319",
+                "value": "All four",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "626a1b71-c21b-4230-b929-ab86a106f413",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following pairs: \nArea of conflict : Country where it is located \n1. Donbas : Syria \n2. Kachin : Ethiopia \n3. Tigray : North Yemen \nHow many of the above pairs are correctly matched?",
+        "options": [
+            {
+                "id": "fd92d7bf-615c-44f5-9f20-7b899b0d164a",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "3db672a8-484e-45ed-9b5c-0c5c20b6e6b1",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "d74d02c8-1fbc-4c8a-b7dc-dfdd109e3209",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "6edc300f-3630-4272-8c2c-11a7755ffc88",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "b322c80e-d6f8-4604-adc6-2476cdc4d2be",
+        "explanation": ""
+    },
+    {
+        "question": "In the recent years Chad, Guinea, Mali, and Sudan caught the international attention for which one of the following reasons common to all of them?",
+        "options": [
+            {
+                "id": "ea5b30a9-58ce-4986-833f-6affdaa78dea",
+                "value": "Discovery of rich deposits of rare earth elements",
+                "correct": false
+            },
+            {
+                "id": "88c96eaa-0b12-4d82-9858-42e506caaf0e",
+                "value": "Establishment of Chinese military bases",
+                "correct": false
+            },
+            {
+                "id": "cc3441d0-244a-47ec-a5c5-ea99d177ed30",
+                "value": "Southward expansion of Sahara Desert",
+                "correct": false
+            },
+            {
+                "id": "9e5c5286-10a6-4a0e-ac06-6393dac73e4c",
+                "value": "Successful coups",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "9365c4dd-bc93-49ee-a3c1-9e8c8fde9465",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following heavy industries: \n1. Fertilizer plants \n2. Oil refineries \n3. Steel plants \nGreen hydrogen is expected to play a significant role in decarbonizing how many of the above industries?",
+        "options": [
+            {
+                "id": "4d6ab9ca-387c-4f25-87ed-c81fa6045697",
+                "value": "Only one",
+                "correct": false
+            },
+            {
+                "id": "8e056e6e-e6a4-4b63-a802-b78795f43524",
+                "value": "Only two",
+                "correct": false
+            },
+            {
+                "id": "e6513e8d-ee01-4e46-86fd-277cf11239eb",
+                "value": "All three",
+                "correct": false
+            },
+            {
+                "id": "e8d60ec8-a45d-428b-9469-333131a2ba22",
+                "value": "None",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "9c4f3c09-a3b4-4088-a413-a7eca2d22b00",
+        "explanation": ""
+    },
+    {
+        "question": "Consider the following statements about G-20: \n1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues. \n2. Digital public infrastructure is one of India's G-20 priorities. \nWhich of the statements given above is/are correct?",
+        "options": [
+            {
+                "id": "3305c3c2-6b10-4f31-b741-cf934e252aea",
+                "value": "1 only",
+                "correct": false
+            },
+            {
+                "id": "609e5870-8845-45fd-ae78-e30b42810985",
+                "value": "2 only",
+                "correct": false
+            },
+            {
+                "id": "d1d254c5-5712-4c33-9263-af0a4405233b",
+                "value": "Both 1 and 2",
+                "correct": false
+            },
+            {
+                "id": "b51d326d-4b40-4a2c-8437-85367930199e",
+                "value": "Neither 1 nor 2",
+                "correct": false
+            }
+        ],
+        "category": [],
+        "difficulty": "",
+        "created_at": 1683805507038,
+        "id": "decf30b6-8953-4427-8349-3fffb4a57760",
+        "explanation": ""
+    }
+]
