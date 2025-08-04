@@ -34,26 +34,20 @@ def create_breadcrumb(year=None, question_num=None):
     """Create clean breadcrumb navigation."""
     if question_num:
         return f"""<nav class="breadcrumb">
-    <a href="../../">Home</a>
+    <a href="../../">PIQ</a>
     <span>›</span>
-    <a href="../">PIQ</a>
-    <span>›</span>
-    <a href="./">{year}</a>
+    <a href="../">{year}</a>
     <span>›</span>
     <span>Question {question_num}</span>
 </nav>"""
     elif year:
         return f"""<nav class="breadcrumb">
-    <a href="../">Home</a>
-    <span>›</span>
-    <a href="./">PIQ</a>
+    <a href="../">PIQ</a>
     <span>›</span>
     <span>{year} Questions</span>
 </nav>"""
     else:
         return f"""<nav class="breadcrumb">
-    <a href="../">Home</a>
-    <span>›</span>
     <span>PIQ</span>
 </nav>"""
 
@@ -86,9 +80,9 @@ keywords: "UPSC, Prelims, {year}, Question {question_num}, Civil Services, IAS, 
 
 {create_breadcrumb(year, question_num)}
 
-<div class="question-header">
-    <div class="question-meta">
-        <span class="year-badge">{year}</span>
+<div class="question-header" style="margin-bottom: 8px;">
+    <div class="question-meta" style="padding: 0.5em 0;">
+        <a href="../" class="year-badge">{year}</a>
         <span class="question-number">Question {question_num}</span>
         <span class="progress">{question_num}/{total_questions}</span>
     </div>
@@ -97,8 +91,8 @@ keywords: "UPSC, Prelims, {year}, Question {question_num}, Civil Services, IAS, 
     </div>
 </div>
 
-<div class="question-content">
-    <div class="question-text">
+<div class="question-content" style="padding: 0.5em 0;">
+    <div class="question-text" style="font-size: 0.95em; line-height: 1.4;">
         {processed_question_text}
     </div>
     
@@ -116,7 +110,7 @@ keywords: "UPSC, Prelims, {year}, Question {question_num}, Civil Services, IAS, 
         processed_option_text = process_markdown_content(option["value"])
         content += f'        <div class="{class_name}">\n'
         content += f'            <span class="option-letter">{chr(64+i)}</span>\n'
-        content += f'            <span class="option-text">{processed_option_text}</span>\n'
+        content += f'            <span class="option-text" style="font-size: 0.95em; line-height: 1.4;">{processed_option_text}</span>\n'
         content += f'        </div>\n'
     
     content += "    </div>\n"
