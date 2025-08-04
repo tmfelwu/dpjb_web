@@ -1,0 +1,84 @@
+---
+title: "UPSC 2022 Prelims Q87: **Consider the following pairs** _Country_ |  _Important rea..."
+description: "UPSC Civil Services Preliminary Examination 2022 Question 87 with options and answer"
+keywords: "UPSC, Prelims, 2022, Question 87, Civil Services, IAS, Previous Year Questions"
+---
+
+<nav class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>›</span>
+    <a href="../">PIQ</a>
+    <span>›</span>
+    <a href="./">2022</a>
+    <span>›</span>
+    <span>Question 87</span>
+</nav>
+
+<div class="question-header">
+    <div class="question-meta">
+        <span class="year-badge">2022</span>
+        <span class="question-number">Question 87</span>
+        <span class="progress">87/100</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-fill" style="width: 87.0%"></div>
+    </div>
+</div>
+
+<div class="question-content">
+    <div class="question-text">
+        <p><strong>Consider the following pairs</strong></p>
+<table>
+<thead>
+<tr>
+<th><em>Country</em></th>
+<th><em>Important reason for being in the news recently</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Chad</td>
+<td>Setting up of permanent military base by Chine</td>
+</tr>
+<tr>
+<td>2. Guinea</td>
+<td>Suspension of Constitution and Government by military</td>
+</tr>
+<tr>
+<td>3. Lebanon</td>
+<td>Severe and prolonged economic depression</td>
+</tr>
+<tr>
+<td>4. Tunisia</td>
+<td>Suspension of Parliament by President</td>
+</tr>
+</tbody>
+</table>
+<p>How many pairs given above are correcly matched?</p>
+    </div>
+    
+    <div class="options">
+        <div class="option">
+            <span class="option-letter">A</span>
+            <span class="option-text"><p>Only one pair</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">B</span>
+            <span class="option-text"><p>Only two pairs</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">C</span>
+            <span class="option-text"><p>Only three pairs</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">D</span>
+            <span class="option-text"><p>All four Pairs</p></span>
+        </div>
+    </div>
+</div>
+
+<div class="question-nav">
+    <a href="../q086-which-one-of-the-following-statements-best-reflect/" class="nav-btn prev">← Previous</a>
+    <a href="../" class="nav-btn center">All Questions</a>
+    <a href="../q088-consider-the-following-pairs-_region-often-mention/" class="nav-btn next">Next →</a>
+</div>

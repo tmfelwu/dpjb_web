@@ -1,0 +1,73 @@
+---
+title: "UPSC 2012 Prelims Q29: The National Green Tribunal Act, 2010 was enacted in consona..."
+description: "UPSC Civil Services Preliminary Examination 2012 Question 29 with options and answer"
+keywords: "UPSC, Prelims, 2012, Question 29, Civil Services, IAS, Previous Year Questions"
+---
+
+<nav class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>›</span>
+    <a href="../">PIQ</a>
+    <span>›</span>
+    <a href="./">2012</a>
+    <span>›</span>
+    <span>Question 29</span>
+</nav>
+
+<div class="question-header">
+    <div class="question-meta">
+        <span class="year-badge">2012</span>
+        <span class="question-number">Question 29</span>
+        <span class="progress">29/100</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-fill" style="width: 29.0%"></div>
+    </div>
+</div>
+
+<div class="question-content">
+    <div class="question-text">
+        <p>The National Green Tribunal Act, 2010 was enacted in consonance with which of the following provisions of the Constitution of India?</p>
+<ol>
+<li>
+<p>Right to healthy environment, construed as a part of Right to life under Article 21</p>
+</li>
+<li>
+<p>Provision of grants for raising the level of administration in the Scheduled Areas for the welfare of Scheduled Tribes under Article 275 (A)</p>
+</li>
+<li>
+<p>Power and functions of Gram Sabha as mentioned under Article 243(A)</p>
+</li>
+</ol>
+<p>Select the correct answer using the codes given below:</p>
+    </div>
+    
+    <div class="options">
+        <div class="option correct">
+            <span class="option-letter">A</span>
+            <span class="option-text"><p>1 only</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">B</span>
+            <span class="option-text"><p>2 and 3 only</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">C</span>
+            <span class="option-text"><p>1 and 3 only</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">D</span>
+            <span class="option-text"><p>1, 2 and 3</p></span>
+        </div>
+    </div>
+
+    <div class="answer-box">
+        <strong>Correct Answer:</strong> Option A
+    </div>
+</div>
+
+<div class="question-nav">
+    <a href="../q028-how-does-national-biodiversity-authority-nba-help/" class="nav-btn prev">← Previous</a>
+    <a href="../" class="nav-btn center">All Questions</a>
+    <a href="../q030-if-national-water-mission-is-properly-and-complete/" class="nav-btn next">Next →</a>
+</div>

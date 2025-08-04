@@ -1,0 +1,63 @@
+---
+title: "UPSC 2018 Prelims Q23: If the president of India exercise his power as provided und..."
+description: "UPSC Civil Services Preliminary Examination 2018 Question 23 with options and answer"
+keywords: "UPSC, Prelims, 2018, Question 23, Civil Services, IAS, Previous Year Questions"
+---
+
+<nav class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>›</span>
+    <a href="../">PIQ</a>
+    <span>›</span>
+    <a href="./">2018</a>
+    <span>›</span>
+    <span>Question 23</span>
+</nav>
+
+<div class="question-header">
+    <div class="question-meta">
+        <span class="year-badge">2018</span>
+        <span class="question-number">Question 23</span>
+        <span class="progress">23/100</span>
+    </div>
+    <div class="progress-bar">
+        <div class="progress-fill" style="width: 23.0%"></div>
+    </div>
+</div>
+
+<div class="question-content">
+    <div class="question-text">
+        <p>If the president of India exercise his power as provided under article 356 of<br />
+the constitutional in respect of a particular state, then</p>
+    </div>
+    
+    <div class="options">
+        <div class="option">
+            <span class="option-letter">A</span>
+            <span class="option-text"><p>The assembly of the state is automatically dissolved.</p></span>
+        </div>
+        <div class="option correct">
+            <span class="option-letter">B</span>
+            <span class="option-text"><p>The powers of the legislature of that state shall be exercisable by or under<br />
+the authority of the parliament.</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">C</span>
+            <span class="option-text"><p>Article 19 is suspended in that state.</p></span>
+        </div>
+        <div class="option">
+            <span class="option-letter">D</span>
+            <span class="option-text"><p>The president can make laws relating to that state.</p></span>
+        </div>
+    </div>
+
+    <div class="answer-box">
+        <strong>Correct Answer:</strong> Option B
+    </div>
+</div>
+
+<div class="question-nav">
+    <a href="../q022-economically-one-of-the-results-of-the-british-rul/" class="nav-btn prev">← Previous</a>
+    <a href="../" class="nav-btn center">All Questions</a>
+    <a href="../q024-consider-the-following-pairs-crafts-heritage-of-1/" class="nav-btn next">Next →</a>
+</div>

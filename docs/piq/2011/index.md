@@ -1,0 +1,435 @@
+---
+title: "UPSC Prelims 2011 Previous Year Questions"
+description: "Complete collection of UPSC Civil Services Preliminary Examination 2011 questions with answers"
+keywords: "UPSC Prelims 2011, Previous Year Questions, Civil Services Examination, IAS, Question Papers"
+---
+
+<nav class="breadcrumb">
+    <a href="../">Home</a>
+    <span>›</span>
+    <a href="./">PIQ</a>
+    <span>›</span>
+    <span>2011 Questions</span>
+</nav>
+
+<div class="year-header">
+    <h1>UPSC Prelims 2011</h1>
+    <div class="year-stats">
+        <div class="stat">
+            <span class="stat-number">100</span>
+            <span class="stat-label">Questions</span>
+        </div>
+        <div class="stat">
+            <span class="stat-number">2011</span>
+            <span class="stat-label">Year</span>
+        </div>
+    </div>
+</div>
+
+<div class="questions-grid">
+    <a href="q001-in-the-union-budget-2011-12-a-full-exemption-from/" class="question-card">
+        <div class="question-number">1</div>
+        <div class="question-preview">In the Union Budget 2011-12, a full exemption from the basic customs duty was ex...</div>
+    </a>
+    <a href="q002-consider-the-following-1-carbon-dioxide-2-oxides-o/" class="question-card">
+        <div class="question-number">2</div>
+        <div class="question-preview">Consider the following: 1. Carbon dioxide 2. Oxides of Nitrogen 3. Oxides of Sul...</div>
+    </a>
+    <a href="q003-satellites-used-for-telecommunications-rely-are-ke/" class="question-card">
+        <div class="question-number">3</div>
+        <div class="question-preview">Satellites used for telecommunications rely are kept in a geostationary orbit. A...</div>
+    </a>
+    <a href="q004-india-has-experienced-persistent-and-high-food-inf/" class="question-card">
+        <div class="question-number">4</div>
+        <div class="question-preview">India has experienced persistent and high food inflation in the recent past. Wha...</div>
+    </a>
+    <a href="q005-at-present-scientists-can-determine-the-arrangemen/" class="question-card">
+        <div class="question-number">5</div>
+        <div class="question-preview">At present, scientists can determine the arrangements or relative position of ge...</div>
+    </a>
+    <a href="q006-in-terms-of-economy-the-visit-b-foreign-nationals/" class="question-card">
+        <div class="question-number">6</div>
+        <div class="question-preview">In terms of economy, the visit b foreign nationals to witness the XIX Common Wea...</div>
+    </a>
+    <a href="q007-microbial-fuel-cells-are-considered-a-source-of-su/" class="question-card">
+        <div class="question-number">7</div>
+        <div class="question-preview">Microbial fuel cells are considered a source of sustainable energy. Why ? 1. The...</div>
+    </a>
+    <a href="q008-which-one-of-the-following-statements-appropriatel/" class="question-card">
+        <div class="question-number">8</div>
+        <div class="question-preview">Which one of the following statements appropriately describes the “fiscal stimul...</div>
+    </a>
+    <a href="q009-the-formation-of-ozone-hole-in-the-antarctic-regio/" class="question-card">
+        <div class="question-number">9</div>
+        <div class="question-preview">The formation of ozone hole in the Antarctic region has been a cause of concern....</div>
+    </a>
+    <a href="q010-consider-the-following-actions-which-the-governmen/" class="question-card">
+        <div class="question-number">10</div>
+        <div class="question-preview">Consider the following actions which the Government can take: 1. Devaluing the d...</div>
+    </a>
+    <a href="q011-the-constitution-seventy-third-amendment-act-1992/" class="question-card">
+        <div class="question-number">11</div>
+        <div class="question-preview">The constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting th...</div>
+    </a>
+    <a href="q012-two-important-rivers-one-with-its-sources-in-jhark/" class="question-card">
+        <div class="question-number">12</div>
+        <div class="question-preview">Two important rivers - one with its sources in Jharkhand (and known by a differe...</div>
+    </a>
+    <a href="q013-a-rapid-increase-in-the-rate-of-inflation-is-somet/" class="question-card">
+        <div class="question-number">13</div>
+        <div class="question-preview">A rapid increase in the rate of inflation is sometimes attribute to the “base ef...</div>
+    </a>
+    <a href="q014-india-is-regarded-as-a-country-with-demographic-di/" class="question-card">
+        <div class="question-number">14</div>
+        <div class="question-preview">India is regarded as a country with “Demographic Dividend”. This is due to</div>
+    </a>
+    <a href="q015-regarding-carbon-credits-which-one-of-the-followin/" class="question-card">
+        <div class="question-number">15</div>
+        <div class="question-preview">Regarding “Carbon credits”, which one of the following statements is not correct...</div>
+    </a>
+    <a href="q016-which-one-of-the-following-is-not-a-feature-of-val/" class="question-card">
+        <div class="question-number">16</div>
+        <div class="question-preview">Which one of the following is not a feature of “Value Added Tax”?</div>
+    </a>
+    <a href="q017-a-closed-economy-is-an-economy-is-which/" class="question-card">
+        <div class="question-number">17</div>
+        <div class="question-preview">A “closed economy” is an economy is which</div>
+    </a>
+    <a href="q018-when-the-bark-of-a-tree-is-removed-in-a-circular-f/" class="question-card">
+        <div class="question-number">18</div>
+        <div class="question-preview">When the bark of a tree is removed in a circular fashion all around near its bas...</div>
+    </a>
+    <a href="q019-the-new-start-treaty-was-in-the-news-what-is-this/" class="question-card">
+        <div class="question-number">19</div>
+        <div class="question-preview">The “New Start” treaty was in the news. What is this treaty ?</div>
+    </a>
+    <a href="q020-three-of-the-following-criteria-have-contributed-t/" class="question-card">
+        <div class="question-number">20</div>
+        <div class="question-preview">Three of the following criteria have contributed to recognition of Western Ghats...</div>
+    </a>
+    <a href="q021-human-activities-in-the-recent-past-have-caused-th/" class="question-card">
+        <div class="question-number">21</div>
+        <div class="question-preview">Human activities in the recent past have caused the increased concentration of c...</div>
+    </a>
+    <a href="q022-in-the-context-of-ecosystem-productivity-marine-up/" class="question-card">
+        <div class="question-number">22</div>
+        <div class="question-preview">In the context of ecosystem productivity, marine upwelling zones are important a...</div>
+    </a>
+    <a href="q023-if-a-tropical-rain-forest-is-removed-it-does-not-r/" class="question-card">
+        <div class="question-number">23</div>
+        <div class="question-preview">If a tropical rain forest is removed, it does not regenerate quickly as compared...</div>
+    </a>
+    <a href="q024-the-himalayan-range-is-very-rich-in-species-divers/" class="question-card">
+        <div class="question-number">24</div>
+        <div class="question-preview">The Himalayan range is very rich in species diversity. Which one among the follo...</div>
+    </a>
+    <a href="q025-with-reference-to-india-consider-the-following-cen/" class="question-card">
+        <div class="question-number">25</div>
+        <div class="question-preview">With reference to India, consider the following Central Acts: 1. Import and Expo...</div>
+    </a>
+    <a href="q026-karl-marx-explained-the-process-of-class-struggle/" class="question-card">
+        <div class="question-number">26</div>
+        <div class="question-preview">Karl Marx explained the process of class struggle with the help of which one of...</div>
+    </a>
+    <a href="q027-a-layer-in-the-earths-atmosphere-called-ionosphere/" class="question-card">
+        <div class="question-number">27</div>
+        <div class="question-preview">A layer in the Earth’s atmosphere called Ionosphere facilitates radio communicat...</div>
+    </a>
+    <a href="q028-both-foreign-direct-investment-fdi-and-foreign-ins/" class="question-card">
+        <div class="question-number">28</div>
+        <div class="question-preview">Both Foreign Direct Investment (FDI) and Foreign Institutional Investor (FII) ar...</div>
+    </a>
+    <a href="q029-a-genetically-engineered-form-of-brinjal-known-as/" class="question-card">
+        <div class="question-number">29</div>
+        <div class="question-preview">A genetically engineered form of brinjal, known as the Bt-brinjal, has been deve...</div>
+    </a>
+    <a href="q030-with-reference-to-aam-admi-bima-yojana-consider-th/" class="question-card">
+        <div class="question-number">30</div>
+        <div class="question-preview">With reference to “Aam Admi Bima Yojana”, consider the following statements: 1....</div>
+    </a>
+    <a href="q031-in-the-context-of-global-oil-prices-brent-crude-oi/" class="question-card">
+        <div class="question-number">31</div>
+        <div class="question-preview">In the context of global oil prices, “Brent crude oil” is frequently referred to...</div>
+    </a>
+    <a href="q032-the-function-of-heavy-water-in-a-nuclear-reactor-i/" class="question-card">
+        <div class="question-number">32</div>
+        <div class="question-preview">The Function of heavy water in a nuclear reactor is to</div>
+    </a>
+    <a href="q033-in-india-if-a-religious-sect-community-is-given-th/" class="question-card">
+        <div class="question-number">33</div>
+        <div class="question-preview">In India, if a religious sect/ community is given the status of a national minor...</div>
+    </a>
+    <a href="q034-india-is-home-to-lakhs-of-persons-with-disabilitie/" class="question-card">
+        <div class="question-number">34</div>
+        <div class="question-preview">India is home to lakhs of persons with disabilities. What are the benefits avail...</div>
+    </a>
+    <a href="q035-with-what-purpose-is-the-government-of-india-promo/" class="question-card">
+        <div class="question-number">35</div>
+        <div class="question-preview">With what purpose is the Government of India promoting the concept of “Mega Food...</div>
+    </a>
+    <a href="q036-the-authorization-for-the-withdrawal-of-funds-from/" class="question-card">
+        <div class="question-number">36</div>
+        <div class="question-preview">The authorization for the withdrawal of funds from the Consolidated Fund of Indi...</div>
+    </a>
+    <a href="q037-all-revenues-received-by-the-union-government-by-w/" class="question-card">
+        <div class="question-number">37</div>
+        <div class="question-preview">All revenues received by the Union Government by way of taxes and other receipts...</div>
+    </a>
+    <a href="q038-microfinance-is-the-provision-of-financial-service/" class="question-card">
+        <div class="question-number">38</div>
+        <div class="question-preview">Microfinance is the provision of financial service to people of low-income group...</div>
+    </a>
+    <a href="q039-southeast-asia-has-captivates-the-attention-of-glo/" class="question-card">
+        <div class="question-number">39</div>
+        <div class="question-preview">Southeast Asia has captivates the attention of global community over space and t...</div>
+    </a>
+    <a href="q040-a-company-marketing-food-products-advertises-that/" class="question-card">
+        <div class="question-number">40</div>
+        <div class="question-preview">A company marketing food products advertises that its items do not contain trans...</div>
+    </a>
+    <a href="q041-among-the-following-which-are-eligible-to-benefit/" class="question-card">
+        <div class="question-number">41</div>
+        <div class="question-preview">Among the following which are eligible to benefit from the “Mahatma Gandhi Natio...</div>
+    </a>
+    <a href="q042-with-reference-to-look-east-policy-of-india-consid/" class="question-card">
+        <div class="question-number">42</div>
+        <div class="question-preview">With reference to “Look East Policy” of India, consider the following statements...</div>
+    </a>
+    <a href="q043-when-the-annual-union-budget-is-not-passed-by-the/" class="question-card">
+        <div class="question-number">43</div>
+        <div class="question-preview">When the annual Union Budget is not passed by the Lok Sabha</div>
+    </a>
+    <a href="q044-under-the-constitution-of-india-which-one-of-the-f/" class="question-card">
+        <div class="question-number">44</div>
+        <div class="question-preview">Under the Constitution of India, which one of the following is not a fundamental...</div>
+    </a>
+    <a href="q045-with-reference-to-the-finance-commission-of-india/" class="question-card">
+        <div class="question-number">45</div>
+        <div class="question-preview">With reference to the Finance Commission of India, which of the following statem...</div>
+    </a>
+    <a href="q046-consider-the-following-1-right-to-education-2-righ/" class="question-card">
+        <div class="question-number">46</div>
+        <div class="question-preview">Consider the following : 1. Right to education 2. Right to equal access to publi...</div>
+    </a>
+    <a href="q047-there-is-a-concern-over-the-increase-in-harmful-al/" class="question-card">
+        <div class="question-number">47</div>
+        <div class="question-preview">There is a concern over the increase in harmful algal booms in the sea waters of...</div>
+    </a>
+    <a href="q048-consider-the-following-1-photosynthesis-2-respirat/" class="question-card">
+        <div class="question-number">48</div>
+        <div class="question-preview">Consider the following 1. Photosynthesis 2. Respiration 3. Decay of organic matt...</div>
+    </a>
+    <a href="q049-recently-the-usa-decided-to-support-indias-members/" class="question-card">
+        <div class="question-number">49</div>
+        <div class="question-preview">Recently the USA decided to support India’s membership in multi-lateral export c...</div>
+    </a>
+    <a href="q050-the-surface-of-a-lake-is-frozen-in-severe-winter-b/" class="question-card">
+        <div class="question-number">50</div>
+        <div class="question-preview">The surface of a lake is frozen in severe winter, but the water at its bottom is...</div>
+    </a>
+    <a href="q051-a-sandy-and-saline-area-is-the-natural-habitat-of/" class="question-card">
+        <div class="question-number">51</div>
+        <div class="question-preview">A sandy and saline area is the natural habitat of an India animal species. The a...</div>
+    </a>
+    <a href="q052-la-nina-is-suspected-to-have-caused-recent-floods/" class="question-card">
+        <div class="question-number">52</div>
+        <div class="question-preview">La Nina is suspected to have caused recent floods in Australia. How is La Nina d...</div>
+    </a>
+    <a href="q053-the-tendency-for-increased-litigation-was-visible/" class="question-card">
+        <div class="question-number">53</div>
+        <div class="question-preview">The tendency for increased litigation was visible after the introduction of the...</div>
+    </a>
+    <a href="q054-which-one-of-the-following-observations-is-not-tru/" class="question-card">
+        <div class="question-number">54</div>
+        <div class="question-preview">Which one of the following observations is not true about the Quit India Movemen...</div>
+    </a>
+    <a href="q055-which-amongst-the-following-provided-a-common-fact/" class="question-card">
+        <div class="question-number">55</div>
+        <div class="question-preview">Which amongst the following provided a common factor for tribal insurrection in...</div>
+    </a>
+    <a href="q056-india-maintained-its-early-cultural-contacts-and-t/" class="question-card">
+        <div class="question-number">56</div>
+        <div class="question-preview">India maintained its early cultural contacts and trade links with Southeast Asia...</div>
+    </a>
+    <a href="q057-what-is-the-difference-between-bluetooth-and-wi-fi/" class="question-card">
+        <div class="question-number">57</div>
+        <div class="question-preview">What is the difference between Bluetooth and Wi-Fi devices</div>
+    </a>
+    <a href="q058-with-reference-to-micro-irrigation-which-of-the-fo/" class="question-card">
+        <div class="question-number">58</div>
+        <div class="question-preview">With reference to micro-irrigation, which of the following statements is/are cor...</div>
+    </a>
+    <a href="q059-with-reference-to-the-period-of-colonial-rule-in-i/" class="question-card">
+        <div class="question-number">59</div>
+        <div class="question-preview">With reference to the period of colonial rule in India, “Home Charges” formed an...</div>
+    </a>
+    <a href="q060-what-was-the-reason-for-mahatma-gandhi-to-organize/" class="question-card">
+        <div class="question-number">60</div>
+        <div class="question-preview">What was the reason for Mahatma Gandhi to organize a satyagraha on behalf of the...</div>
+    </a>
+    <a href="q061-biodiversity-forms-the-basis-for-human-existence-i/" class="question-card">
+        <div class="question-number">61</div>
+        <div class="question-preview">Biodiversity forms the basis for human Existence in the following ways : 1. Soil...</div>
+    </a>
+    <a href="q062-aspartame-is-an-artificial-sweetener-sold-in-the-m/" class="question-card">
+        <div class="question-number">62</div>
+        <div class="question-preview">Aspartame is an artificial sweetener sold in the market. It consists of amino ac...</div>
+    </a>
+    <a href="q063-what-was-the-purpose-with-which-sir-william-wedder/" class="question-card">
+        <div class="question-number">63</div>
+        <div class="question-preview">What was the purpose with which Sir William Wedderburn and W.S.Caine had set up...</div>
+    </a>
+    <a href="q064-what-is-the-difference-between-a-cfl-and-an-led-la/" class="question-card">
+        <div class="question-number">64</div>
+        <div class="question-preview">What is the difference between a CFL and an LED lamp ? 1. To produce light, a CF...</div>
+    </a>
+    <a href="q065-recently-oilzapper-was-in-the-news-what-is-it/" class="question-card">
+        <div class="question-number">65</div>
+        <div class="question-preview">Recently “oilzapper” was in the news. What is it ?</div>
+    </a>
+    <a href="q066-a-married-couple-adopted-a-male-child-a-few-years/" class="question-card">
+        <div class="question-number">66</div>
+        <div class="question-preview">A married couple adopted a male child. A few years later, twin boys were born to...</div>
+    </a>
+    <a href="q067-mahatma-gandhi-said-that-some-of-his-deepest-convi/" class="question-card">
+        <div class="question-number">67</div>
+        <div class="question-preview">Mahatma Gandhi said that some of his deepest convictions were reflected in a boo...</div>
+    </a>
+    <a href="q068-with-reference-to-indian-freedom-struggle-usha-meh/" class="question-card">
+        <div class="question-number">68</div>
+        <div class="question-preview">With reference to Indian freedom struggle, Usha Mehta is well-known for</div>
+    </a>
+    <a href="q069-a-new-optical-disc-format-known-as-the-blu-ray-dis/" class="question-card">
+        <div class="question-number">69</div>
+        <div class="question-preview">A new optical disc format known as the Blu-ray Disc (BD) is becoming popular. In...</div>
+    </a>
+    <a href="q070-with-reference-to-the-period-of-india-freedom-stru/" class="question-card">
+        <div class="question-number">70</div>
+        <div class="question-preview">With reference to the period of India freedom struggle which of the following wa...</div>
+    </a>
+    <a href="q071-among-the-following-states-which-one-has-the-most/" class="question-card">
+        <div class="question-number">71</div>
+        <div class="question-preview">Among the following states, which one has the most suitable climatic conditions...</div>
+    </a>
+    <a href="q072-which-one-of-the-following-is-not-a-site-for-in-si/" class="question-card">
+        <div class="question-number">72</div>
+        <div class="question-preview">Which one of the following is not a site for in-situ method of conservation of f...</div>
+    </a>
+    <a href="q073-consider-the-following-statements-in-india-a-metro/" class="question-card">
+        <div class="question-number">73</div>
+        <div class="question-preview">Consider the following statements : In India, a Metropolitan Planning Committee....</div>
+    </a>
+    <a href="q074-what-is-the-difference-between-vote-on-account-and/" class="question-card">
+        <div class="question-number">74</div>
+        <div class="question-preview">What is the difference between “vote on account” and “interim budget”? 1. The pr...</div>
+    </a>
+    <a href="q075-regarding-the-international-monetary-fund-which-on/" class="question-card">
+        <div class="question-number">75</div>
+        <div class="question-preview">Regarding the International Monetary Fund, which one of the following statements...</div>
+    </a>
+    <a href="q076-the-2004-tsunami-made-people-realize-that-mangrove/" class="question-card">
+        <div class="question-number">76</div>
+        <div class="question-preview">The 2004 Tsunami made people realize that mangroves can serve as a reliable safe...</div>
+    </a>
+    <a href="q077-the-jain-philosophy-holds-that-the-world-is-create/" class="question-card">
+        <div class="question-number">77</div>
+        <div class="question-preview">The Jain philosophy holds that the world is created and maintained by</div>
+    </a>
+    <a href="q078-salinization-occurs-when-the-irrigation-water-accu/" class="question-card">
+        <div class="question-number">78</div>
+        <div class="question-preview">Salinization occurs when the irrigation water accumulated in the soil evaporates...</div>
+    </a>
+    <a href="q079-the-red-data-books-published-by-the-international/" class="question-card">
+        <div class="question-number">79</div>
+        <div class="question-preview">The “Red Data Books” published by the International Union for Conservation of Na...</div>
+    </a>
+    <a href="q080-why-is-the-offering-of-teaser-loans-by-commercial/" class="question-card">
+        <div class="question-number">80</div>
+        <div class="question-preview">Why is the offering of “teaser loans” by commercial banks a cause of economic co...</div>
+    </a>
+    <a href="q081-an-artificial-satellite-orbiting-around-the-earth/" class="question-card">
+        <div class="question-number">81</div>
+        <div class="question-preview">An artificial satellite orbiting around the Earth does not fall down. This is so...</div>
+    </a>
+    <a href="q082-in-the-context-of-indian-economy-consider-the-foll/" class="question-card">
+        <div class="question-number">82</div>
+        <div class="question-preview">In the context of Indian economy, consider the following statements : 1. The gro...</div>
+    </a>
+    <a href="q083-in-india-which-of-the-following-have-the-highest-s/" class="question-card">
+        <div class="question-number">83</div>
+        <div class="question-preview">In India, which of the following have the highest share in the disbursement of c...</div>
+    </a>
+    <a href="q084-which-of-the-following-can-aid-in-furthering-the-g/" class="question-card">
+        <div class="question-number">84</div>
+        <div class="question-preview">Which of the following can aid in furthering the Government’s objective of inclu...</div>
+    </a>
+    <a href="q085-why-is-the-government-of-india-disinvesting-its-eq/" class="question-card">
+        <div class="question-number">85</div>
+        <div class="question-preview">Why is the Government of India disinvesting its equity in the Central Public Sec...</div>
+    </a>
+    <a href="q086-whats-is-the-difference-between-asteroids-and-come/" class="question-card">
+        <div class="question-number">86</div>
+        <div class="question-preview">Whats is the difference between asteroids and comets ? 1. Asteroids are small ro...</div>
+    </a>
+    <a href="q087-economic-growth-is-usually-coupled-with/" class="question-card">
+        <div class="question-number">87</div>
+        <div class="question-preview">Economic growth is usually coupled with</div>
+    </a>
+    <a href="q088-the-lowering-of-bank-rate-by-the-reserve-bank-of-i/" class="question-card">
+        <div class="question-number">88</div>
+        <div class="question-preview">The lowering of Bank Rate by the Reserve Bank of India leads to</div>
+    </a>
+    <a href="q089-westerlies-in-southern-hemisphere-are-stronger-and/" class="question-card">
+        <div class="question-number">89</div>
+        <div class="question-preview">Westerlies in southern hemisphere are stronger and persistent than in northern h...</div>
+    </a>
+    <a href="q090-between-india-and-east-asia-the-navigation-time-an/" class="question-card">
+        <div class="question-number">90</div>
+        <div class="question-preview">Between India and East Asia, the navigation-time and distance can be greatly red...</div>
+    </a>
+    <a href="q091-regular-intake-of-fresh-fruits-and-vegetables-is-r/" class="question-card">
+        <div class="question-number">91</div>
+        <div class="question-preview">Regular intake of fresh fruits and vegetables is recommended in the diet since t...</div>
+    </a>
+    <a href="q092-regarding-the-indus-valley-civilization-consider-t/" class="question-card">
+        <div class="question-number">92</div>
+        <div class="question-preview">Regarding the Indus Valley Civilization, consider the following statements. 1. I...</div>
+    </a>
+    <a href="q093-the-lower-gangetic-plain-is-characterised-by-humid/" class="question-card">
+        <div class="question-number">93</div>
+        <div class="question-preview">The lower Gangetic plain is characterised by humid climate with high temperature...</div>
+    </a>
+    <a href="q094-what-could-be-the-main-reason-reasons-for-the-form/" class="question-card">
+        <div class="question-number">94</div>
+        <div class="question-preview">What could be the main reason/ reasons for the formation of African and Eurasian...</div>
+    </a>
+    <a href="q095-the-jet-aircrafts-fly-very-easily-and-smoothly-in/" class="question-card">
+        <div class="question-number">95</div>
+        <div class="question-preview">The jet aircrafts fly very easily and smoothly in the lower stratosphere. What c...</div>
+    </a>
+    <a href="q096-consider-the-following-statements-1-biodiversity-i/" class="question-card">
+        <div class="question-number">96</div>
+        <div class="question-preview">Consider the following statements : 1. Biodiversity is normally greater in the l...</div>
+    </a>
+    <a href="q097-the-brahmaputra-irrawady-and-mekong-rivers-origina/" class="question-card">
+        <div class="question-number">97</div>
+        <div class="question-preview">The Brahmaputra, Irrawady and Mekong rivers originate in Tibet and flow through...</div>
+    </a>
+    <a href="q098-a-state-in-india-has-the-following-characteristics/" class="question-card">
+        <div class="question-number">98</div>
+        <div class="question-preview">A state in India has the following characteristics: 1. Its northern part is arid...</div>
+    </a>
+    <a href="q099-what-is-virtual-private-network/" class="question-card">
+        <div class="question-number">99</div>
+        <div class="question-preview">What is “Virtual Private Network” ?</div>
+    </a>
+    <a href="q100-the-dharma-and-rita-depict-a-central-idea-of-ancie/" class="question-card">
+        <div class="question-number">100</div>
+        <div class="question-preview">The “dharma” and “rita” depict a central idea of ancient Vedic civilization of I...</div>
+    </a>
+</div>
+
+<div class="year-nav">
+    <a href="../" class="nav-btn">← All Years</a>
+    <a href="q001-in-the-union-budget-2011-12-a-full-exemption-from/" class="nav-btn primary">Start Practice</a>
+</div>

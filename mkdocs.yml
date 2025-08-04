@@ -67,6 +67,21 @@ nav:
   - UPSC Strategy:
     - Maths:
       - Maths Strategy: strategy/maths.md
+  - Previous Year Questions (PIQ):
+    - Browse All Years: piq/index.md
+    - 2023 Questions: piq/2023/index.md
+    - 2022 Questions: piq/2022/index.md
+    - 2021 Questions: piq/2021/index.md
+    - 2020 Questions: piq/2020/index.md
+    - 2019 Questions: piq/2019/index.md
+    - 2018 Questions: piq/2018/index.md
+    - 2017 Questions: piq/2017/index.md
+    - 2016 Questions: piq/2016/index.md
+    - 2015 Questions: piq/2015/index.md
+    - 2014 Questions: piq/2014/index.md
+    - 2013 Questions: piq/2013/index.md
+    - 2012 Questions: piq/2012/index.md
+    - 2011 Questions: piq/2011/index.md
   - UPSC Resources:
     - Prelims Android Application: resources/preims_android_application.md
     - Ethics and Essay:
@@ -85,6 +100,9 @@ extra:
   analytics:
     provider: google
     property: G-8M1K3T1C6B
+
+extra_css:
+  - stylesheets/modern-clean.css
 
 extra_javascript:
   - javascripts/mathjax.js

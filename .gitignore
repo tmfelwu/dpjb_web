@@ -1,2 +1,11 @@
 .vscode/settings.json
 .obsidian/*
+
+# Keep JSON data files private
+data/
+*.json
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
